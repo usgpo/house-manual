@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="rules.xsl" type="text/xsl"?>
+<?xml-stylesheet href="rules.css" type="text/css"?>
+<document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule XXVII: Disclosure by Members and Staff of Employment Negotiations</dc:title>
+    <property name="s-heading" idref="rule-XXVII-1">§1103a. Employment negotiation disclosure.</property>
+  </meta>
+  <content>
+    <level name="rule" id="rule-XXVII">
+      <num value="XXVII">Rule XXVII</num>
+      <heading>Disclosure by Members and Staff of Employment Negotiations</heading>
+      <clause id="rule-XXVII-1">
+        <num value="1">1.</num>
+        <p id="s1103a">A Member, Delegate, or Resident Commissioner shall not directly negotiate or have any agreement of future employment or compensation, unless such Member, Delegate, or Resident Commissioner, within 3 business days after the commencement of such negotiation or agreement of future employment or compensation, files with the Committee on Ethics a statement, which must be signed by the Member, Delegate, or Resident Commissioner, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.</p>
+      </clause>
+      <clause id="rule-XXVII-2">
+        <num value="2">2.</num>
+        <p>An officer or an employee of the House earning in excess of 75 percent of the salary paid to a Member shall notify the Committee on Ethics that such individual is negotiating or has any agreement of future employment or compensation.</p>
+      </clause>
+      <clause id="rule-XXVII-3">
+        <num value="3">3.</num>
+        <p>The disclosure and notification under this rule shall be made within 3 business days after the commencement of such negotiation or agreement of future employment or compensation.</p>
+      </clause>
+      <clause id="rule-XXVII-4">
+        <num value="4">4.</num>
+        <p>A Member, Delegate, or Resident Commissioner, and an officer or employee to whom this rule applies, shall recuse himself or herself from any matter in which there is a conflict of interest or an appearance of a conflict for that Member, Delegate, Resident Commissioner, officer, or employee under this rule and shall notify the Committee on Ethics of such recusal. A Member, Delegate, or Resident Commissioner making such recusal shall, upon such recusal, submit to the Clerk for public disclosure the statement of disclosure under clause 1 with respect to which the recusal was made.</p>
+        <note>
+          <p>This rule was added in the 110th Congress by Public Law 110–81 (121 Stat. 751). In the 111th Congress clause 1 was amended to apply also to non-returning Members and a gender-based reference was eliminated (secs. 2(k), 2(l), H. Res. 5, Jan. 6, 2009, p. 7). This rule was amended in the 112th Congress to reflect a change in committee name (sec. 2(e)(8), H. Res. 5, Jan. 5, 2011, p. 80). See also section 17 of the Stop Trading on Congressional Knowledge Act of 2012 (P.L. 112–105).</p>
+        </note>
+      </clause>
+    </level>
+  </content>
+</document>

@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="graphics-support-documents/front.xsl" type="text/xsl"?><?xml-stylesheet href="graphics-support-documents/front.css" type="text/css"?><document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rules and Manual of the House of Representatives</dc:title>
+  </meta>
+  <content>
+    <level name="cover-page">
+      <heading>
+        <layout>
+          <row>
+            <column>113th Congress, 2d Session</column>
+            <column>House Document No. <docNumber>113–181</docNumber></column>
+          </row>
+        </layout>
+      </heading>
+      <text class="title medium">Constitution</text>
+      <text class="title medium">Jefferson’s Manual</text>
+      <text>and</text>
+      <text class="title large">Rules of the House of Representatives</text>
+      <text>of the United States</text>
+      <text class="congress">One Hundred Fourteenth Congress</text>
+      <text style="font-size:18pt" class="name">Thomas J. Wickham</text>
+      <text class="role">Parliamentarian</text>
+      <text class="seal">
+        <img src="graphics-support-documents/seal.png"></img>
+      </text>
+      <text class="gpo">U.S. Government Publishing Office</text>
+      <text>Washington : 2015</text>
+    </level>
+    <resolution>
+      <meta></meta>
+      <main>
+        <docTitle>House Resolution 753</docTitle>
+        <property name="chamber">In the House of Representatives, U.S.,</property>
+        <date>November 14, 2014.</date>
+        <text><i>Resolved,</i> That a revised edition of the Rules and Manual of the House of Representatives for the One Hundred Fourteenth Congress be printed as a House document, and that three thousand additional copies shall be printed and bound for the use of the House of Representatives, of which nine hundred sixty copies shall be bound in leather with thumb index and delivered as may be directed by the Parliamentarian of the House.</text>
+      </main>
+      <signatures>
+        <p>Attest:</p>
+        <signature>
+          <name>Karen L. Haas,</name>
+          <role>Clerk.</role>
+        </signature>
+      </signatures>
+    </resolution>
+    <level id="preface" name="preface">
+      <heading>Preface</heading>
+      <text>The House Rules and Manual contains the fundamental source material for parliamentary procedure used in the House of Representatives: the Constitution of the United States; applicable provisions of Jefferson’s Manual; Rules of the House (as of the date of this preface); provisions of law and resolutions having the force of Rules of the House; and pertinent decisions of the Speakers and other presiding officers of the House and Committee of the Whole interpreting the rules and other procedural authority used in the House of Representatives.</text>
+      <text>The rules for the One Hundred Fourteenth Congress were adopted on January 6, 2015, when the House agreed to House Resolution 5. In addition to a series of changes to various standing rules, House Resolution 5 included separate free-standing orders constituting procedures to be followed in the One Hundred Fourteenth Congress. Explanations of the changes to the standing rules appear in the annotations following each rule in the text of this Manual.</text>
+      <text>In the One Hundred Sixth Congress, the House adopted a recodification of the Rules of the House. For an explanation of the recodified format, see the Preface and other introductory matter for the House Rules and Manual for the One Hundred Sixth Congress (H. Doc. 105–358).</text>
+      <text>The substantive changes in the standing rules made by House Resolution 5 of the One Hundred Fourteenth Congress included:</text>
+      <text>(1) authority for the Speaker to modify, within the three-day constitutional limit, any order for the time of the convening of the House during short adjournments when warranted by the public interest and authority for the Speaker to name a designee to exercise this and related convening authorities (<ref href="HMAN-114-pg335.xml#rule-I-12">clause 12 of rule I</ref>);</text>
+      <text>(2) affirmative establishment of, and conferral of the imprimatur of the House in all litigation to, the Bipartisan Legal Advisory Group (<ref href="rule2xml#rule-II-8">clause 8 of rule II</ref>);</text>
+      <text>(3) reinstatement of the requirement that that the Committee on House Administration provide policy direction to the Chief Administrative Officer (<ref href="HMAN-114-pg358.xml#rule-II-4-a">clause 4(a) of rule II</ref>; <ref href="HMAN-114-pg434.xml#rule-X-4-d">clause 4(d) of rule X</ref>);</text>
+      <text>(4) expansion of the jurisdiction of the Committee on Appropriations to include specified loan obligations and loan guarantees (<ref href="HMAN-114-pg434.xml#rule-X-1-b">clause 1(b) of rule X</ref>);</text>
+      <text>(5) expansion of the jurisdiction of the Committee on the Judiciary to include criminalization (<ref href="HMAN-114-pg434.xml#rule-X-1-l">clause 1(l) of rule X</ref>);</text>
+      <text>(6) adjustment of the size and ratio of the Permanent Select Committee on Intelligence (<ref href="HMAN-114-pg434.xml#rule-X-11-a">clause 11(a) of rule X</ref>);</text>
+      <text>(7) reduction in frequency of committee activity reports from annually to biennially (<ref href="HMAN-114-pg546.xml#rule-XI-1-d">clause 1(d) of rule XI</ref>);</text>
+      <text>(8) transfer of the requirement for committees to adopt written rules regarding audio and visual coverage from clause 4 of rule XI to clause 2 of rule XI to merge with the general requirement for written committee rules (<ref href="HMAN-114-pg546.xml#rule-XI-2-a">clause 2(a) of rule XI</ref>; <ref href="HMAN-114-pg546.xml#rule-XI-4-f">clause 4(f) of rule XI</ref>);</text>
+      <text>(9) expansion of committee hearing witness disclosure requirements to include certain foreign government information and contraction to matter relating to the hearing in question (clause 2(g)(5) of rule XI);</text>
+      <text>(10) requirement for new Members, Delegates, and Resident Commissioners to receive ethics training from the Committee on Ethics (<ref href="HMAN-114-pg546.xml#rule-XI-3-a">clause 3(a) of rule XI</ref>);</text>
+      <text>(11) restriction on the Committee on Ethics taking an action denying a constitutional right (<ref href="HMAN-114-pg546.xml#rule-XI-3-s">clause 3(s) of rule XI</ref>);</text>
+      <text>(12) restriction on use of committee broadcast material conformed to the restriction on floor broadcast material (<ref href="HMAN-114-pg546.xml#rule-XI-4-b">clause 4(b) of rule XI</ref>);</text>
+      <text>(13) expansion of the Ramseyer rule to include the entire text of a section of a statute proposed to be repealed or amended (<ref href="HMAN-114-pg630.xml#rule-XIII-3-e">clause 3(e) of rule XIII</ref>);</text>
+      <text>(14) expansion of various cost estimates to include macroeconomic data and repeal of requirement that reports on tax bills contain a macroeconomic analysis (<ref href="HMAN-114-pg630.xml#rule-XIII-3-h">clause 3(h) of rule XIII</ref>; <ref href="HMAN-114-pg630.xml#rule-XIII-8">clause 8 of rule XIII</ref>)</text>
+      <text>(15) elimination of the point of order against consideration of a general appropriation bill if printed hearings thereon are not available (<ref href="HMAN-114-pg630.xml#rule-XIII-4-c">clause 4(c) of rule XIII</ref>); and</text>
+      <text>(16) extension of time before further motions to instruct conferees may be offered from 20 to 45 calendar days and from 10 to 25 legislative days (<ref href="HMAN-114-pg913.xml#rule-XXII-7">clause 7 of rule XXII</ref>).</text>
+      <text>Citations in this edition refer to:</text>
+      <text>(1) Hinds’ Precedents of the House of Representatives of the United States (volumes I through V) and Cannon’s Precedents of the House of Representatives of the United States (volumes VI through VIII), by volume and section (<i>e.g.</i>, V, 5763; VIII, 2852);</text>
+      <text>(2) Deschler’s Precedents of the U.S. House of Representatives (volumes 1 through 9), Deschler-Brown Precedents of the U.S. House of Representatives (volumes 10 through 16), Deschler-Brown-Johnson Precedents of the U.S. House of Representatives (volume 17), and Deschler-Brown-Johnson-Sullivan Precedents of the U.S. House of Representatives (volume 18), by chapter and section (<i>e.g.</i>, Deschler, ch. 26, §79.7; Deschler-Brown, ch. 28, §4.26);</text>
+      <text>(3) the Congressional Record, by date and page (<i>e.g.</i>, Jan. 29, 1986, p. 684);</text>
+      <text>(4) House Practice (2011), by chapter and section (<i>e.g.</i>, House Practice, ch. 1, §2);</text>
+      <text>(5) Deschler-Brown Procedure in the U.S. House of Representatives (4th edition and 1987 supplement), by chapter and section (<i>e.g.</i>, Procedure, ch. 5, §8.1);</text>
+      <text>(6) the United States Code, by title and section (<i>e.g.</i>, 2 U.S.C. 287); and</text>
+      <text>(7) the United States Reports, by volume and page (<i>e.g.</i>, 395 U.S. 486).</text>
+      <text>Readers are invited to refer to the prefaces of Hinds’, Cannon’s, and Deschler’s Precedents (Volumes I, VI, and 1, respectively) for comprehensive overviews by those editors of the procedural history of the House of Representatives from 1789 to 1976. Volume 18 of Deschler-Brown-Johnson-Sullivan Precedents also features a commentary by former Parliamentarian Charles W. Johnson, III, noting procedural highlights during his affiliation with the House.</text>
+      <text>All of the members of the Office of the Parliamentarian - Ethan Lauer, Jay Smith, Anne Gooch, Kyle Jones, Severin Randall, Brian Cooper, Lloyd Jenkins, Monica Rodriguez, and Kristen Donahue, as well as Charles Johnson, Max Spitzer, Andrew Neal, Catherine Moran, and Bryan Feldblum - worked diligently to annotate the decisions of the Chair and other parliamentary precedents of the 113th Congress and of the 114th Congress to the date of publication of this edition. Their contributions, and their devotion to the pursuit of excellence in the procedural practices of the House, are gratefully acknowledged. Particular appreciation goes to Ethan Lauer for his initiative and steady hand in managing the project. Finally, we recognize Carrie Wolf for her dedication and professionalism in service to the office.</text>
+      <text class="name">Thomas J. Wickham, Jr.</text>
+      <text class="date">May 21, 2015</text>
+    </level>
+    <level id="contents" name="table-of-contents">
+      <heading>Contents</heading>
+      <toc identifier="constitution.xml">
+        <heading class="uppercase">
+          <ref href="HMAN-114-constitution.xml">The Constitution</ref>
+        </heading>
+        <tocItem class="preamble">
+          <content>
+            <ref href="HMAN-114-constitution.xml#preamble">Preamble</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#article-I">
+              <inline class="number">Article I.—</inline><inline class="heading">The legislative power</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#article-II">
+              <inline class="number">II.—</inline><inline class="heading">The executive power</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#article-III">
+              <inline class="number">III.—</inline><inline class="heading">The judicial power</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#article-IV">
+              <inline class="number">IV.—</inline><inline class="heading">Obligations, duties, etc., of the States</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#article-V">
+              <inline class="number">V.—</inline><inline class="heading">Amendments to</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#article-VI">
+              <inline class="number">VI.—</inline><inline class="heading">Law of the land, etc.</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#article-VII">
+              <inline class="number">VII.—</inline><inline class="heading">Ratification of</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-constitution.xml#amendments">
+              <inline class="number"></inline><inline class="heading">Amendments ratified</inline>
+            </ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc identifier="jefferson.xml">
+        <heading class="uppercase">
+          <ref href="HMAN-114-jeffersonman.xml">Jefferson’s Manual</ref>
+        </heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-i">
+              <inline class="number">Section I.—</inline><inline class="heading">Importance of adhering to rules</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-iii">
+              <inline class="number">III.—</inline><inline class="heading">Privilege</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-vi">
+              <inline class="number">VI.—</inline><inline class="heading">Quorum</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-vii">
+              <inline class="number">VII.—</inline><inline class="heading">Call of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-ix">
+              <inline class="number">IX.—</inline><inline class="heading">Speaker</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-x">
+              <inline class="number">X.—</inline><inline class="heading">Address</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xi">
+              <inline class="number">XI.—</inline><inline class="heading">Committees</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xii">
+              <inline class="number">XII.—</inline><inline class="heading">Committee of the Whole</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xiii">
+              <inline class="number">XIII.—</inline><inline class="heading">Examination of witnesses</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xiv">
+              <inline class="number">XIV.—</inline><inline class="heading">Arrangement of business</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xv">
+              <inline class="number">XV.—</inline><inline class="heading">Order</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xvi">
+              <inline class="number">XVI.—</inline><inline class="heading">Order respecting papers</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xvii">
+              <inline class="number">XVII.—</inline><inline class="heading">Order in debate</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xviii">
+              <inline class="number">XVIII.—</inline><inline class="heading">Orders of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xix">
+              <inline class="number">XIX.—</inline><inline class="heading">Petition</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xx">
+              <inline class="number">XX.—</inline><inline class="heading">Motion</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxi">
+              <inline class="number">XXI.—</inline><inline class="heading">Resolutions</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxiii">
+              <inline class="number">XXIII.—</inline><inline class="heading">Bills, leave to bring in</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxiv">
+              <inline class="number">XXIV.—</inline><inline class="heading">Bills, first reading</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxv">
+              <inline class="number">XXV.—</inline><inline class="heading">Bills, second reading</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxvi">
+              <inline class="number">XXVI.—</inline><inline class="heading">Bills, commitment</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxvii">
+              <inline class="number">XXVII.—</inline><inline class="heading">Report of committee</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxviii">
+              <inline class="number">XXVIII.—</inline><inline class="heading">Bill, recommitment</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxix">
+              <inline class="number">XXIX.—</inline><inline class="heading">Bills, reports taken up</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxx">
+              <inline class="number">XXX.—</inline><inline class="heading">Quasi-committee</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxi">
+              <inline class="number">XXXI.—</inline><inline class="heading">Bill, second reading in the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxii">
+              <inline class="number">XXXII.—</inline><inline class="heading">Reading papers</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxiii">
+              <inline class="number">XXXIII.—</inline><inline class="heading">Privileged questions</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxiv">
+              <inline class="number">XXXIV.—</inline><inline class="heading">The previous question</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxv">
+              <inline class="number">XXXV.—</inline><inline class="heading">Amendments</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxvi">
+              <inline class="number">XXXVI.—</inline><inline class="heading">Division of the question</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxvii">
+              <inline class="number">XXXVII.—</inline><inline class="heading">Coexisting questions</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxviii">
+              <inline class="number">XXXVIII.—</inline><inline class="heading">Equivalent questions</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xxxix">
+              <inline class="number">XXXIX.—</inline><inline class="heading">The question</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xl">
+              <inline class="number">XL.—</inline><inline class="heading">Bills, third reading</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xli">
+              <inline class="number">XLI.—</inline><inline class="heading">Division of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xlii">
+              <inline class="number">XLII.—</inline><inline class="heading">Titles</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xliii">
+              <inline class="number">XLIII.—</inline><inline class="heading">Reconsideration</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xliv">
+              <inline class="number">XLIV.—</inline><inline class="heading">Bills sent to the other House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xlv">
+              <inline class="number">XLV.—</inline><inline class="heading">Amendments between the Houses</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xlvi">
+              <inline class="number">XLVI.—</inline><inline class="heading">Conferences</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xlvii">
+              <inline class="number">XLVII.—</inline><inline class="heading">Messages</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xlviii">
+              <inline class="number">XLVIII.—</inline><inline class="heading">Assent</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-xlix">
+              <inline class="number">XLIX.—</inline><inline class="heading">Journals</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-l">
+              <inline class="number">L.—</inline><inline class="heading">Adjournment</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-li">
+              <inline class="number">LI.—</inline><inline class="heading">A session</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-lii">
+              <inline class="number">LII.—</inline><inline class="heading">Treaties</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-jeffersonman.xml#section-liii">
+              <inline class="number">LIII.—</inline><inline class="heading">Impeachment</inline>
+            </ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc identifier="rules.xml">
+        <heading class="uppercase">Rules of the House</heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg335.xml">
+              <inline class="number">Rule I—</inline><inline class="heading">The Speaker</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg358.xml">
+              <inline class="number">II—</inline><inline class="heading">Other Officers and Officials</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg378.xml">
+              <inline class="number">III—</inline><inline class="heading">The Members, Delegates, and Resident Commissioner of Puerto Rico</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg383.xml">
+              <inline class="number">IV—</inline><inline class="heading">The Hall of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg391.xml">
+              <inline class="number">V—</inline><inline class="heading">Broadcasting the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg393.xml">
+              <inline class="number">VI—</inline><inline class="heading">Official Reporters and News Media Galleries</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg405.xml">
+              <inline class="number">VII—</inline><inline class="heading">Records of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg409.xml">
+              <inline class="number">VIII—</inline><inline class="heading">Response to Subpoenas</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg413.xml">
+              <inline class="number">IX—</inline><inline class="heading">Questions of Privilege</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg434.xml">
+              <inline class="number">X—</inline><inline class="heading">Organization of Committees</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg546.xml">
+              <inline class="number">XI—</inline><inline class="heading">Procedures of Committees and Unfinished Business</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg615.xml">
+              <inline class="number">XII—</inline><inline class="heading">Receipt and Referral of Measures and Matters</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg630.xml">
+              <inline class="number">XIII—</inline><inline class="heading">Calendars and Committee Reports</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg665.xml">
+              <inline class="number">XIV—</inline><inline class="heading">Order and Priority of Business</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg676.xml">
+              <inline class="number">XV—</inline><inline class="heading">Business in Order on Special Days</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg695.xml">
+              <inline class="number">XVI—</inline><inline class="heading">Motions and Amendments</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg750.xml">
+              <inline class="number">XVII—</inline><inline class="heading">Decorum and Debate</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg780.xml">
+              <inline class="number">XVIII—</inline><inline class="heading">The Committee of the Whole House on the State of the Union</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg810.xml">
+              <inline class="number">XIX—</inline><inline class="heading">Motions Following the Amendment Stage</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg825.xml">
+              <inline class="number">XX—</inline><inline class="heading">Voting and Quorum Calls</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg855.xml">
+              <inline class="number">XXI—</inline><inline class="heading">Restrictions on Certain Bills</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg913.xml">
+              <inline class="number">XXII—</inline><inline class="heading">House and Senate Relations</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg940.xml">
+              <inline class="number">XXIII—</inline><inline class="heading">Code of Official Conduct</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg952.xml">
+              <inline class="number">XXIV—</inline><inline class="heading">Limitations on Use of Official Funds</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg957.xml">
+              <inline class="number">XXV—</inline><inline class="heading">Limitations on Outside Earned Income and Acceptance of Gifts</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg986.xml">
+              <inline class="number">XXVI—</inline><inline class="heading">Financial Disclosure</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg1012.xml">
+              <inline class="number">XXVII—</inline><inline class="heading">Disclosure by Members and Staff of Employment Negotiations</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg1014.xml">
+              <inline class="number">XXVIII—</inline><inline class="heading">(Reserved.)</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-pg1014-2.xml">
+              <inline class="number">XXIX—</inline><inline class="heading">General Provisions</inline>
+            </ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc>
+        <heading>
+          <ref href="HMAN-114-reorganizationact.xml#leg-reorg">Provisions of Legislative Reorganization Act of 1946, as Amended by the Legislative Reorganization Act of 1970, Applicable to Both Houses</ref>
+        </heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#leg-reorg-132">Congressional adjournment</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#leg-reorg-141">Preservation of committee hearings</ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc>
+        <heading>
+          <ref href="HMAN-114-reorganizationact.xml#joint-select">Joint and Select Committees</ref>
+        </heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1108">Economic Committee, Joint</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1109">Taxation, Joint Committee on</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1110">Library, Joint Committee of Congress on the</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1111">Printing, Joint Committee on</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1112">Inaugural Ceremonies, Joint Congressional Committee on</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#select">Select committees</ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc>
+        <heading>
+          <ref href="HMAN-114-reorganizationact.xml#offices">House and Congressional Offices</ref>
+        </heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1113">House Commission on Congressional Mailing Standards</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1114">House Office Building Commission</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1115">Government Accountability Office</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1116">Office of Compliance</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1117">Congressional Research Service</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1118">Legislative Counsel</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1119">Congressional Budget Office</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1120">Law Revision Counsel</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1121">Technology Assessment</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1122">Office of the Parliamentarian</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1123">Office of Floor Assistants</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1124">Office of Interparliamentary Affairs</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125">House Recording Studio</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125a">United States Capitol Preservation Commission</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125b">Office of General Counsel</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125c">Former Office of Emergency Planning, Preparedness, and Operations</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125d">Office of Attending Physician</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125e">Office of Architect of the Capitol</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1126f">House Democracy Partnership</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125g">Tom Lantos Human Rights Commission</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#s1125h">Office of Congressional Ethics</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-reorganizationact.xml#early">Early organization of the House</ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc>
+        <heading>
+          <ref href="HMAN-114-budgetlaws.xml">Miscellaneous Provisions of Congressional Budget Laws</ref>
+        </heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-budgetlaws.xml#act1974">Congressional Budget Act of 1974</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-budgetlaws.xml#act1990">Budget Enforcement Act of 1990</ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-budgetlaws.xml#act2010">Statutory Pay-As-You-Go Act of 2010</ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc>
+        <heading>
+          <ref href="HMAN-114-legislativeproc.xml">Legislative Procedures Enacted in Law</ref>
+        </heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-legislativeproc.xml">Measures privileged for consideration in House</ref>
+          </content>
+        </tocItem>
+      </toc>
+      <toc>
+        <heading>
+          <ref href="HMAN-114-index.xml">Index</ref>
+        </heading>
+        <tocItem>
+          <content>
+            <ref href="HMAN-114-index.xml">Index</ref>
+          </content>
+        </tocItem>
+      </toc>
+    </level>
+    <level name="general">
+      <heading>General Order of Business</heading>
+      <level>
+        <heading>Rule XIV</heading>
+        <text>First. Prayer by Chaplain.</text>
+        <text>Second. Approval of Journal.</text>
+        <text>Third. The Pledge of Allegiance to the Flag.</text>
+        <text>Fourth. Correction of reference of public bills.</text>
+        <text>Fifth. Disposal of business on Speaker’s table.</text>
+        <text>Sixth. Unfinished business.</text>
+        <text>Seventh. The morning hour for the consideration of bills.</text>
+        <text>Eighth. Motions to go into Committee of the Whole.</text>
+        <text>Ninth. Orders of the day.</text>
+      </level>
+    </level>
+    <level name="special">
+      <heading>Special Order of Business</heading>
+      <level>
+        <heading>Mondays</heading>
+        <level>
+          <heading>Second and fourth Mondays:</heading>
+          <text>Motions to discharge committees. <ref href="HMAN-114-pg676.xml#rule-XV-2">Rule XV, clause 2</ref>.</text>
+          <text>District of Columbia Business. <ref href="HMAN-114-pg676.xml#rule-XV-4">Rule XV, clause 4</ref>.</text>
+        </level>
+        <level>
+          <heading>Every Monday:</heading>
+          <text>Motions to suspend rules. <ref href="HMAN-114-pg676.xml#rule-XV-1">Rule XV, clause 1</ref>.</text>
+        </level>
+      </level>
+      <level>
+        <heading>Tuesdays</heading>
+        <level>
+          <heading>First and third Tuesdays:</heading>
+          <text>Private Calendar. <ref href="HMAN-114-pg676.xml#rule-XV-5">Rule XV, clause 5</ref>. Individual private bills considered on first Tuesday of each month, omnibus private bills may be considered on third Tuesday of each month.</text>
+        </level>
+        <level>
+          <heading>Every Tuesday:</heading>
+          <text>Motions to suspend rules. <ref href="HMAN-114-pg676.xml#rule-XV-1">Rule XV, clause 1</ref>.</text>
+        </level>
+      </level>
+      <level>
+        <heading>Wednesdays</heading>
+        <level>
+          <heading>Call of Committees under Calendar Wednesday. <ref href="HMAN-114-pg676.xml#rule-XV-6">Rule XV, clause 7</ref>.</heading>
+        </level>
+        <level>
+          <heading>Every Wednesday:</heading>
+          <text>Motions to suspend rules. <ref href="HMAN-114-pg676.xml#rule-XV-1">Rule XV, clause 1</ref>.</text>
+        </level>
+      </level>
+    </level>
+  </content>
+</document>

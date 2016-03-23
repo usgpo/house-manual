@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="graphics-support-documents/rules.xsl" type="text/xsl"?><?xml-stylesheet href="graphics-support-documents/rules.css" type="text/css"?><document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule III: The Members, Delegates, and Resident Commissioner of Puerto Rico</dc:title>
+    <property name="s-heading" idref="rule-III-1">§671. Personal interest.</property>
+    <property name="s-heading" idref="s672">§672. Control of a Member’s own vote.</property>
+    <property name="s-heading" idref="s673">§673. Nature of disqualifying personal interest.</property>
+    <property name="s-heading" idref="rule-III-2">§674. Voting.</property>
+    <property name="s-heading" idref="rule-III-3">§675. Committee service.</property>
+    <property name="s-heading" idref="rule-III-3-b">§676. Appointment to select and conference committees.</property>
+  </meta>
+  <content>
+    <level id="rule-III" name="rule">
+      <num value="III">Rule III</num>
+      <heading>The Members, Delegates, and Resident Commissioner of Puerto Rico</heading>
+      <level>
+        <crossHeading>Voting</crossHeading>
+        <clause id="rule-III-1">
+          <num value="1">1.</num>
+          <p id="s671">Every Member shall be present within the Hall of the House during its sittings, unless excused or necessarily prevented, and shall vote on each question put, unless having a direct personal or pecuniary interest in the event of such question.</p>
+          <note>
+            <p>When the House recodified its rules, it consolidated former rule VIII, rule XII, and clause 6(h) of rule X under rule III, except that viable provisions of former clause 2 of rule VIII were transferred to current clause 3 of rule XX. This clause was adopted initially in 1789, with amendment in 1890 (V, 5941). A gender-based reference was eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. 7). Before the House recodified its rules in the 106th Congress, this clause was found in former clause 1 of rule VIII (H. Res. 5, Jan. 6, 1999, p. 47).</p>
+            <p>Leaves of absence are presented pending the motion to adjourn (IV, 3151), and are usually granted by unanimous consent, but sometimes are opposed or even refused (II, 1142–1145). Application for leave of absence is properly presented by filing with the Clerk the printed form to be secured at the desk rather than by oral request from the floor (VI, 199). Whether or not they are privileged is a matter of doubt (II, 1146, 1147). Excuses for absence, as distinguished from leaves of absence, may be granted by less than a quorum (IV, 3000–3002). The statutes provide that deductions may be made from the salaries of Members who are absent without sufficient excuse (II, 1149, 1150); and although this law has been enforced (IV, 3011, footnote; VI, 30, 198), its general application is not practical under modern conditions. Form of resolution for the arrest of Members absent without leave (VI, 686).</p>
+            <p id="s672">It has been found impracticable to enforce the provision requiring every Member to vote (V, 5942–5948), and such question, even if entertained, may not interrupt a pending record vote (V, 5947). The weight of authority also favors the idea that there is no authority in the House to deprive a Member of the right to vote (V, 5937, 5952, 5959, 5966, 5967; VIII, 3072). In one or two early instances the Speaker decided that because of personal interest, a Member should not vote (V, 5955, 5958); but on all other occasions and in the later practice the Speaker has held that the Member and not the Chair should determine this question (V, 5950, 5951; VIII, 3071; Speaker Albert, Dec. 2, 1975, p. 38135; Speaker O’Neill, Mar. 1, 1979, p. 3748; July 30, 1996, p. 19952; July 16, 2009, pp. 18125, 18126), and the Speaker has denied the Speaker’s own power to deprive a Member of the constitutional right to vote (V, 5956; Speaker Albert, Dec. 2, 1975, p. 38135; Speaker O’Neill, Mar. 1, 1979, p. 3748).</p>
+            <p>The House has at times excused Members from voting in cases of personal interest (III, 2294; V, 5962; Aug. 2, 1949, pp. 10591, 10592; Oct. 20, 1951, p. 13746; July 21, 1954, p. 11262; July 28, 1955, p. 11930; July 12, 1956, p. 12566).</p>
+            <p id="s673">It is a principle of “immemorial observance” that a Member should withdraw when a question concerning that Member arises (V, 5949); but it has been held that the disqualifying interest must be such as affects the Member directly (V, 5954, 5955, 5963), and not as one of a class (V, 5952; VIII, 3071, 3072; Speaker Bankhead, May 31, 1939, p. 6359; Speaker Albert, Dec. 2, 1975, p. 38135). In a case in which question affected the titles of several Members to their seats, each refrained from voting in his own case, but did vote on the identical cases of his associates (V, 5957, 5958). A Member should not vote on direct questions affecting that Member, but has sometimes voted on incidental questions (V, 5960, 5961).</p>
+          </note>
+        </clause>
+        <clause id="rule-III-2">
+          <num value="2">2.</num>
+          <paragraph id="rule-III-2-a">
+            <num value="a">(a)</num>
+            <p id="s674">A Member may not authorize any other person to cast the vote of such Member or record the presence of such Member in the House or the Committee of the Whole House on the state of the Union.</p>
+          </paragraph>
+          <paragraph id="rule-III-2-b">
+            <num value="b">(b)</num>
+            <p>No other person may cast a Member’s vote or record a Member’s presence in the House or the Committee of the Whole House on the state of the Union.</p>
+          </paragraph>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this clause was found in former clause 3 of rule VIII (H. Res. 5, Jan. 6, 1999, p. 47). Gender-based references were eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. 7). The Committee on Standards of Official Conduct (now Ethics) recommended this addition to the rules in its May 15, 1980, report on voting anomalies that had occurred in the House (H. Rept. 96–991), and the House adopted the rule in the 97th Congress (H. Res. 5, Jan. 5, 1981, pp. 98–113). Even before the addition of this clause, however, “ghost voting” was considered unethical (VII, 1014; Dec. 18, 1987, p. 36274).</p>
+          </note>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Delegates and the Resident Commissioner</crossHeading>
+        <clause id="rule-III-3">
+          <num value="3">3.</num>
+          <paragraph id="rule-III-3-a">
+            <num value="a">(a)</num>
+            <p id="s675">Each Delegate and the Resident Commissioner shall be elected to serve on standing committees in the same manner as Members and shall possess in such committees the same powers and privileges as the other members of the committee.</p>
+            <note>
+              <p>Before the House recodified its rules in the 106th Congress, this provision was found in former rule XII (H. Res. 5, Jan. 6, 1999, p. 47). The first form of paragraph (a) was adopted in 1871, and it was perfected by amendments in 1876, 1880, 1887, and 1892 (II, 1297). Reference to the Resident Commissioner was first found in 1904 (II, 1306). Paragraph (a) was again amended on January 2, 1947 (Legislative Reorganization Act of 1946), August 2, 1949 (p. 10618), February 2, 1951 (p. 883), January 22, 1971 (H. Res. 5, 92d Cong., p. 144), January 3, 1973 (H. Res. 6, 93d Cong., p. 26), January 3, 1991 (H. Res. 5, 102d Cong., p. 39), and January 5, 2011 (H. Res. 5, 112th Cong., p. __) (technical correction). Paragraph (a) was completely revised in the 103d Congress (H. Res. 5, Jan. 5, 1993, p. 49) to provide that each of the Delegates and the Resident Commissioner be elected to committees of the House on the same bases, vote in any committees on which they serve, and vote on questions arising in the Committee of the Whole House on the state of the Union. The latter power was affected by former clause 2(d) of rule XXIII (later changed to clause 6(h) of rule XVIII) (providing for immediate reconsideration in the House of questions resolved in the Committee of the Whole by a margin within which the votes of Delegates and the Resident Commissioner were decisive; see §985, <i>infra</i>). The changes effected in the 103d Congress were revoked in the 104th Congress (sec. 212, H. Res. 6, Jan. 4, 1995, p. 462), reinstated in the 110th Congress (H. Res. 78, Jan. 24, 2007, p. 2140), and revoked in the 112th Congress (sec. 2(e)(4), H. Res. 5, Jan. 5, 2011, p. 80). Under the previous form of paragraph (a), the Delegates and the Resident Commissioner were counted for purposes of establishing a quorum in a Committee of the Whole (Feb. 8, 2007, p. 3550).</p>
+              <p>The constitutionality of granting to Delegates the right to vote in the Committee of the Whole under the former rule, as circumscribed by former clause 2(d) of rule XXIII (later changed to clause 6(h) of rule XVIII), was upheld based on the premise that immediate “revote” where votes cast by Delegates had been decisive rendered their votes merely symbolic and not an investment of true legislative power. Michel <i>v.</i> Anderson, 14 F.3d 623 (D.C. Cir. 1994).</p>
+              <p>The Office of Delegate was established by ordinance of the Continental Congress and confirmed by a law of Congress (I, 400, 421). The nature of the office has been the subject of much discussion (I, 400, 403, 473); and except as provided by law (I, 431, 526) the qualifications of the Delegate also have been a matter of discussion (I, 421, 423, 469, 470, 473). A territory or district must be organized by law before the House will admit a Delegate (I, 405, 407, 411, 412). The Office of Delegate from the District of Columbia was established by Public Law 91–405 (84 Stat. 845). The Offices of Delegate from the Territories of Guam and the Virgin Islands were established by Public Law 92–271 (86 Stat. 118). The Office of Delegate from American Samoa was established by Public Law 95–556 (92 Stat. 2078) and was first filled by the general Federal election of 1980. The Office of Delegate from the Commonwealth of the Northern Mariana Islands was established by Public Law 110–229 (122 Stat. 868). The Office of Resident Commissioner was established (with a four-year term) by the Act of March 2, 1917 (39 Stat. 963; 48 U.S.C. 891). The Act of May 17, 1932, changed the name of Porto Rico to Puerto Rico (48 U.S.C. 731a).</p>
+              <p>Under an earlier practice, Delegates did not vote in committee (VI, 243); but this had not always been so (II, 1301). The Resident Commissioner, who under the rules of the 91st and earlier Congresses, was designated as an additional member of the Committees on Agriculture, Armed Services, and Interior and Insular Affairs, is now elected to committees in the same fashion as are other Members.</p>
+              <p>The law provides that on the floor of the House a Delegate may debate (II, 1290), and may in debate call a Member to order (II, 1295), may make any motion that a Member may make except the motion to reconsider (II, 1291, 1292), and may make a point of order (VI, 240). A Delegate has even moved an impeachment (II, 1303). However, a resolution offered from the floor to permit the Delegate of the District of Columbia to vote on the articles of impeachment against the President was held not to constitute a question of the privileges of the House under rule IX (Dec. 18, 1998, p. 27825). A Delegate may be appointed a teller (II, 1302); but the law forbids a Delegate to vote (II, 1290). A Delegate has been recognized to object to the consideration of a bill (VI, 241), to a unanimous-consent request to concur in a Senate amendment (June 29, 1984, p. 20267), and has made reports for committees (July 1, 1958, p. 12870). A discharge petition may not be signed by a Delegate or the Resident Commissioner, even by unanimous consent (Oct. 1, 2003, p. 23853) because the phrase in clause 2 of rule XV “a majority of the total membership of the House” is construed to mean 218 Members (Speaker Byrns, Apr. 15, 1936, p. 5509), not including Delegates or the Resident Commissioner. The rights and prerogatives of Delegates in parliamentary matters are not limited to legislation affecting their own territory (VI, 240).</p>
+              <p>At the organization of the House, the Delegates and Resident Commissioner are sworn (I, 400, 401); but the Clerk does not put them on the roll (I, 61, 62; Jan. 6, 1999, p. 41).</p>
+              <p>A Delegate resigns in a communication addressed to the Speaker (II, 1304). A Delegate may be arrested and censured for disorderly conduct (II, 1305), but there has been disagreement as to whether expulsion is by a majority or two-thirds vote (I, 469).</p>
+              <p>The privileges of the floor with the right to debate were extended to Resident Commissioners in the 60th Congress (VI, 244). Before the independence of the Philippines it was represented in the House by a Resident Commissioner (Deschler, ch. 7, §3.3).</p>
+            </note>
+          </paragraph>
+          <paragraph id="rule-III-3-b">
+            <num value="b">(b)</num>
+            <p id="s676">The Delegates and the Resident Commissioner may be appointed to any select committee and to any conference committee.</p>
+            <note>
+              <p>Before the House recodified its rules in the 106th Congress, paragraph (b) was found in former clause 6(h) of rule X (H. Res. 5, Jan. 6, 1999, p. 47). Paragraph (b), effective January 3, 1975, initially authorized the appointment of Delegates and the Resident Commissioner to certain conferences (H. Res. 988, 93d Cong., Oct. 8, 1974, p. 34470). Paragraph (b) was amended in the 96th Congress to authorize their appointment to select committees (H. Res. 5, Jan. 15, 1979, pp. 7–16), and again in the 103d Congress to authorize their appointment to any conference (H. Res. 5, Jan. 5, 1993, p. 49).</p>
+              <p>Before the adoption and refinement of this paragraph, a Delegate or the Resident Commissioner could not be appointed to a conference committee (Sept. 18, 1973, p. 30144; July 20, 1973, p. 25201); and they could be appointed to a select committee only with the permission of the House (Sept. 21, 1976, p. 31673).</p>
+            </note>
+          </paragraph>
+        </clause>
+      </level>
+    </level>
+  </content>
+</document>

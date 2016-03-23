@@ -1,0 +1,42 @@
+
+@import url("house.css");
+
+.preamble { margin-top: 1em }
+
+.article { margin-top: 1em }
+.article > .num { display: block; text-align: center }
+.article > .num + p { margin-top: 0.5em }
+
+.section { margin-top: 0.5em }
+.section > .num { margin-left:2ch; font-variant: small-caps }
+.section > .cut-in-head + .num { margin-left: 0 }
+.section > .num + p { display: inline }
+.section > .num + .level > p:first-child { display: inline }
+
+.article > .num + .clause { margin-top: 0.5em } /* Art VI, clause 1 */
+.section > .num + .clause { display: inline }
+.clause > .num { font-size: 10pt; vertical-align: super }
+.clause > .num + p { display: inline }
+.clause > .num + .level > p:first-child { display: inline }
+
+clause > num { font-size: 50%; vertical-align: super }
+
+.amendments { margin-top: 3em }
+.amendments > .heading { display: block; font-size: smaller; margin-left: 1em; text-indent: -1em; text-transform: uppercase }
+
+.amendment { margin-top: 1em }
+.amendment > .num { display: block; text-align: center }
+.amendment > .num + p { margin-top: 0.5em }
+
+table { margin: 1em auto }
+th { padding-top:1em; padding-bottom: 0.5em; font-weight: normal; font-style: italic }
+.name { font-variant: small-caps }
+.role { font-style: italic }
+
+p { margin-top: 0.5em }
+.note p { margin-top: 0 }
+
+.quotedContent { margin-top: 3pt; margin-bottom: 3pt }
+
+.usc .section > .wrapper { margin-top: 1em; margin-bottom: 1em }
+

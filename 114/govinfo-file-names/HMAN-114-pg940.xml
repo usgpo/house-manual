@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="graphics-support-documents/rules.xsl" type="text/xsl"?><?xml-stylesheet href="graphics-support-documents/rules.css" type="text/css"?><document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule XXIII: Code of Official Conduct</dc:title>
+    <property name="s-heading" idref="rule-XXIII-1">§1095. Official conduct of Members, officers, or employees of the House.</property>
+  </meta>
+  <content>
+    <level id="rule-XXIII" name="rule">
+      <num value="XXIII">Rule XXIII</num>
+      <heading>Code of Official Conduct</heading>
+      <chapeau>There is hereby established by and for the House the following code of conduct, to be known as the “Code of Official Conduct”:</chapeau>
+      <clause id="rule-XXIII-1">
+        <num value="1">1.</num>
+        <p id="s1095">A Member, Delegate, Resident Commissioner, officer, or employee of the House shall behave at all times in a manner that shall reflect creditably on the House.</p>
+      </clause>
+      <clause id="rule-XXIII-2">
+        <num value="2">2.</num>
+        <p>A Member, Delegate, Resident Commissioner, officer, or employee of the House shall adhere to the spirit and the letter of the Rules of the House and to the rules of duly constituted committees thereof.</p>
+      </clause>
+      <clause id="rule-XXIII-3">
+        <num value="3">3.</num>
+        <p>A Member, Delegate, Resident Commissioner, officer, or employee of the House may not receive compensation and may not permit compensation to accrue to the beneficial interest of such individual from any source, the receipt of which would occur by virtue of influence improperly exerted from the position of such individual in Congress.</p>
+      </clause>
+      <clause id="rule-XXIII-4">
+        <num value="4">4.</num>
+        <p>A Member, Delegate, Resident Commissioner, officer, or employee of the House may not accept gifts except as provided by <ref href="HMAN-114-pg957.xml#rule-XXV-5">clause 5 of rule XXV</ref>.</p>
+      </clause>
+      <clause id="rule-XXIII-5">
+        <num value="5">5.</num>
+        <p>A Member, Delegate, Resident Commissioner, officer, or employee of the House may not accept an honorarium for a speech, a writing for publication, or other similar activity, except as otherwise provided under <ref href="HMAN-114-pg957.xml#rule-XXV">rule XXV</ref>.</p>
+      </clause>
+      <clause id="rule-XXIII-6">
+        <num value="6">6.</num>
+        <chapeau>A Member, Delegate, or Resident Commissioner—</chapeau>
+        <paragraph id="rule-XXIII-6-a">
+          <num value="a">(a)</num>
+          <p>shall keep the campaign funds of such individual separate from the personal funds of such individual;</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-6-b">
+          <num value="b">(b)</num>
+          <p>may not convert campaign funds to personal use in excess of an amount representing reimbursement for legitimate and verifiable campaign expenditures; and</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-6-c">
+          <num value="c">(c)</num>
+          <p>except as provided in <ref href="HMAN-114-pg952.xml#rule-XXIV-1-b">clause 1(b) of rule XXIV</ref>, may not expend funds from a campaign account of such individual that are not attributable to bona fide campaign or political purposes.</p>
+        </paragraph>
+      </clause>
+      <clause id="rule-XXIII-7">
+        <num value="7">7.</num>
+        <p>A Member, Delegate, or Resident Commissioner shall treat as campaign contributions all proceeds from testimonial dinners or other fund-raising events.</p>
+      </clause>
+      <clause id="rule-XXIII-8">
+        <num value="8">8.</num>
+        <paragraph id="rule-XXIII-8-a">
+          <num value="a">(a)</num>
+          <p>A Member, Delegate, Resident Commissioner, or officer of the House may not retain an employee who does not perform duties for the offices of the employing authority commensurate with the compensation such employee receives.</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-8-b">
+          <num value="b">(b)</num>
+          <p>In the case of a committee employee who works under the direct supervision of a member of the committee other than a chair, the chair may require that such member affirm in writing that the employee has complied with clause 8(a) (subject to <ref href="HMAN-114-pg434.xml#rule-X-9">clause 9 of rule X</ref>) as evidence of compliance by the chair with this clause and with <ref href="HMAN-114-pg434.xml#rule-X-9">clause 9 of rule X</ref>.</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-8-c">
+          <num value="c">(c)</num><subparagraph id="rule-XXIII-8-c-1"><num value="1">(1)</num>
+            <chapeau>Except as specified in subparagraph (2)—</chapeau>
+            <subdivision id="rule-XXIII-8-c-1-A">
+              <num value="A">(A)</num>
+              <p>a Member, Delegate, or Resident Commissioner may not retain the relative of such individual in a paid position; and</p>
+            </subdivision>
+            <subdivision id="rule-XXIII-8-c-1-B">
+              <num value="B">(B)</num>
+              <p>an employee of the House may not accept compensation for work for a committee on which the relative of such employee serves as a member.</p>
+            </subdivision>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-8-c-2">
+            <num value="2">(2)</num>
+            <p>Subparagraph (1) shall not apply in the case of a relative whose pertinent employment predates the One Hundred Thirteenth Congress.</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-8-c-3">
+            <num value="3">(3)</num>
+            <p>As used in this paragraph, the term “relative” means an individual who is related to the Member, Delegate, or Resident Commissioner as father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, grandson, or granddaughter.</p>
+          </subparagraph>
+        </paragraph>
+      </clause>
+      <clause id="rule-XXIII-9">
+        <num value="9">9.</num>
+        <p>A Member, Delegate, Resident Commissioner, officer, or employee of the House may not discharge and may not refuse to hire an individual, or otherwise discriminate against an individual with respect to compensation, terms, conditions, or privileges of employment, because of the race, color, religion, sex (including marital or parental status), disability, age, or national origin of such individual, but may take into consideration the domicile or political affiliation of such individual.</p>
+      </clause>
+      <clause id="rule-XXIII-10">
+        <num value="10">10.</num>
+        <p>A Member, Delegate, or Resident Commissioner who has been convicted by a court of record for the commission of a crime for which a sentence of two or more years’ imprisonment may be imposed should refrain from participation in the business of each committee of which such individual is a member, and a Member should refrain from voting on any question at a meeting of the House or of the Committee of the Whole House on the state of the Union, unless or until judicial or executive proceedings result in reinstatement of the presumption of the innocence of such Member or until the Member is reelected to the House after the date of such conviction.</p>
+      </clause>
+      <clause id="rule-XXIII-11">
+        <num value="11">11.</num>
+        <p>A Member, Delegate, or Resident Commissioner may not authorize or otherwise allow an individual, group, or organization not under the direction and control of the House to use the words “Congress of the United States,” “House of Representatives,” or “Official Business,” or any combination of words thereof, on any letterhead or envelope.</p>
+      </clause>
+      <clause id="rule-XXIII-12">
+        <num value="12">12.</num>
+        <paragraph id="rule-XXIII-12-a">
+          <num value="a">(a)</num>
+          <p>Except as provided in paragraph (b), an employee of the House who is required to file a report under <ref href="HMAN-114-pg986.xml#rule-XXVI">rule XXVI</ref> may not participate personally and substantially as an employee of the House in a contact with an agency of the executive or judicial branches of Government with respect to nonlegislative matters affecting any nongovernmental person in which the employee has a significant financial interest.</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-12-b">
+          <num value="b">(b)</num>
+          <p>Paragraph (a) does not apply if an employee first advises the employing authority of such employee of a significant financial interest described in paragraph (a) and obtains from such employing authority a written waiver stating that the participation of the employee in the activity described in paragraph (a) is necessary. A copy of each such waiver shall be filed with the Committee on Ethics.</p>
+        </paragraph>
+      </clause>
+      <clause id="rule-XXIII-13">
+        <num value="13">13.</num>
+        <p>Before a Member, Delegate, Resident Commissioner, officer, or employee of the House may have access to classified information, the following oath (or affirmation) shall be executed:</p>
+        <p class="indent indent-first">“I do solemnly swear (or affirm) that I will not disclose any classified information received in the course of my service with the House of Representatives, except as authorized by the House of Representatives or in accordance with its Rules.”</p>
+        <p style="text-indent:0">Copies of the executed oath (or affirmation) shall be retained as part of the records of the House, in the case of a Member, Delegate, or the Resident Commissioner, by the Clerk, and in the case of an officer or employee of the House, by the Sergeant-at-Arms. The Clerk shall make the signatories a matter of public record, causing the names of each Member, Delegate, or Resident Commissioner who has signed the oath during a week (if any) to be published in a portion of the Congressional Record designated for that purpose on the last legislative day of the week and making cumulative lists of such names available each day for public inspection in an appropriate office of the House.</p>
+      </clause>
+      <clause id="rule-XXIII-14">
+        <num value="14">14.</num>
+        <chapeau>A Member, Delegate, or Resident Commissioner may not, with the intent to influence on the basis of partisan political affiliation an employment decision or employment practice of any private entity—</chapeau>
+        <paragraph id="rule-XXIII-14-a">
+          <num value="a">(a)</num>
+          <p>take or withhold, or offer or threaten to take or withhold, an official act; or</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-14-b">
+          <num value="b">(b)</num>
+          <p>influence, or offer or threaten to influence, the official act of another.</p>
+        </paragraph>
+      </clause>
+      <clause id="rule-XXIII-15">
+        <num value="15">15.</num>
+        <paragraph id="rule-XXIII-15-a">
+          <num value="a">(a)</num>
+          <p>Except as provided in paragraphs (b) and (c), a Member, Delegate, or Resident Commissioner may not use personal funds, official funds, or campaign funds for a flight on an aircraft.</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-15-b">
+          <num value="b">(b)</num>
+          <chapeau>Paragraph (a) does not apply if—</chapeau>
+          <subparagraph id="rule-XXIII-15-b-1">
+            <num value="1">(1)</num>
+            <p>the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier or commercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules;</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-15-b-2">
+            <num value="2">(2)</num>
+            <p>the aircraft is owned or leased by a Member, Delegate, Resident Commissioner or a family member of a Member, Delegate, or Resident Commissioner (including an aircraft owned by an entity that is not a public corporation in which the Member, Delegate, Resident Commissioner or a family member of a Member, Delegate, or Resident Commissioner has an ownership interest, provided that such Member, Delegate, or Resident Commissioner does not use the aircraft any more than the Member, Delegate, Resident Commissioner, or family member’s proportionate share of ownership allows);</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-15-b-3">
+            <num value="3">(3)</num>
+            <chapeau>the flight consists of the personal use of an aircraft by a Member, Delegate, or the Resident Commissioner that is supplied by—</chapeau>
+            <subdivision id="rule-XXIII-15-b-3-A">
+              <num value="A">(A)</num>
+              <p>an individual on the basis of personal friendship; or</p>
+            </subdivision>
+            <subdivision id="rule-XXIII-15-b-3-B">
+              <num value="B">(B)</num>
+              <p>another Member, Delegate, or the Resident Commissioner;</p>
+            </subdivision>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-15-b-4">
+            <num value="4">(4)</num>
+            <p>the aircraft is operated by an entity of the Federal government or an entity of the government of any State; or</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-15-b-5">
+            <num value="5">(5)</num>
+            <p>the owner or operator of the aircraft is paid a pro rata share of the fair market value of the normal and usual charter fare or rental charge for a comparable plane of comparable size as determined by dividing such cost by the number of Members, Delegates, or the Resident Commissioner, officers, or employees of Congress on the flight.</p>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="rule-XXIII-15-c">
+          <num value="c">(c)</num>
+          <p>An advance written request for a waiver of the restriction in paragraph (a) may be granted jointly by the chair and ranking minority member of the Committee on Ethics, subject to such conditions as they may prescribe.</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-15-d">
+          <num value="d">(d)</num>
+          <chapeau>In this clause—</chapeau>
+          <subparagraph id="rule-XXIII-15-d-1">
+            <num value="1">(1)</num>
+            <p>the term “campaign funds” includes funds of any political committee under the Federal Election Campaign Act of 1971, without regard to whether the committee is an authorized committee of the Member, Delegate, or Resident Commissioner involved under such Act;</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-15-d-2">
+            <num value="2">(2)</num>
+            <p>the term “family member” means an individual who is related to the Member, Delegate, or Resident Commissioner, as father, mother, son, daughter, brother, sister, husband, wife, father-in-law, or mother-in-law; and</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-15-d-3">
+            <num value="3">(3)</num>
+            <p>the term “on the basis of personal friendship” has the same meaning as in <ref href="HMAN-114-pg957.xml#rule-XXV-5">clause 5 of rule XXV</ref> and shall be determined as under <ref href="HMAN-114-pg957.xml#rule-XXV-5-a-3-D-ii">clause 5(a)(3)(D)(ii) of rule XXV</ref>.</p>
+          </subparagraph>
+        </paragraph>
+      </clause>
+      <clause id="rule-XXIII-16">
+        <num value="16">16.</num>
+        <p>A Member, Delegate, or Resident Commissioner may not condition the inclusion of language to provide funding for a congressional earmark, a limited tax benefit, or a limited tariff benefit in any bill or joint resolution (or an accompanying report) or in any conference report on a bill or joint resolution (including an accompanying joint explanatory statement of managers) on any vote cast by another Member, Delegate, or Resident Commissioner.  For purposes of this clause and clause 17, the terms “congressional earmark,” “limited tax benefit,” and “limited tariff benefit” shall have the meanings given them in <ref href="HMAN-114-pg855.xml#rule-XXI-9">clause 9 of rule XXI</ref>.</p>
+      </clause>
+      <clause id="rule-XXIII-17">
+        <num value="17">17.</num>
+        <paragraph id="rule-XXIII-17-a">
+          <num value="a">(a)</num>
+          <chapeau>A Member, Delegate, or Resident Commissioner who requests a congressional earmark, a limited tax benefit, or a limited tariff benefit in any bill or joint resolution (or an accompanying report) or in any conference report on a bill or joint resolution (or an accompanying joint statement of managers) shall provide a written statement to the chair and ranking minority member of the committee of jurisdiction, including—</chapeau>
+          <subparagraph id="rule-XXIII-17-a-1">
+            <num value="1">(1)</num>
+            <p>the name of the Member, Delegate, or Resident Commissioner;</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-17-a-2">
+            <num value="2">(2)</num>
+            <p>in the case of a congressional earmark, the name and address of the intended recipient or, if there is no specifically intended recipient, the intended location of the activity;</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-17-a-3">
+            <num value="3">(3)</num>
+            <p>in the case of a limited tax or tariff benefit, identification of the individual or entities reasonably anticipated to benefit, to the extent known to the Member, Delegate, or Resident Commissioner;</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-17-a-4">
+            <num value="4">(4)</num>
+            <p>the purpose of such congressional earmark or limited tax or tariff benefit; and</p>
+          </subparagraph>
+          <subparagraph id="rule-XXIII-17-a-5">
+            <num value="5">(5)</num>
+            <p>a certification that the Member, Delegate, or Resident Commissioner or spouse has no financial interest in such congressional earmark or limited tax or tariff benefit.</p>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="rule-XXIII-17-b">
+          <num value="b">(b)</num>
+          <p>Each committee shall maintain the information transmitted under paragraph (a), and the written disclosures for any congressional earmarks, limited tax benefits, or limited tariff benefits included in any measure reported by the committee or conference report filed by the chair of the committee or any subcommittee thereof shall be open for public inspection.</p>
+        </paragraph>
+      </clause>
+      <clause id="rule-XXIII-18">
+        <num value="18">18.</num>
+        <paragraph id="rule-XXIII-18-a">
+          <num value="a">(a)</num>
+          <p>In this Code of Official Conduct, the term “officer or employee of the House” means an individual whose compensation is disbursed by the Chief Administrative Officer.</p>
+        </paragraph>
+        <paragraph id="rule-XXIII-18-b">
+          <num value="b">(b)</num>
+          <p>An individual whose services are compensated by the House pursuant to a consultant contract shall be considered an employee of the House for purposes of clauses 1, 2, 3, 4, 8, 9, and 13 of this rule. An individual whose services are compensated by the House pursuant to a consultant contract may not lobby the contracting committee or the members or staff of the contracting committee on any matter. Such an individual may lobby other Members, Delegates, or the Resident Commissioner or staff of the House on matters outside the jurisdiction of the contracting committee. In the case of such an individual who is a member or employee of a firm, partnership, or other business organization, the other members and employees of the firm, partnership, or other business organization shall be subject to the same restrictions on lobbying that apply to the individual under this paragraph.</p>
+        </paragraph>
+        <note>
+          <p>This rule was transferred from rule XLIII to rule XXIV when the House recodified its rules in the 106th Congress (H. Res. 5, Jan. 6, 1999, p. 47). It was redesignated as rule XXIII in the 107th Congress (sec. 2(s), H. Res. 5, Jan. 3, 2001, p. 24). The rule was originally adopted in the 90th Congress (H. Res. 1099, Apr. 3, 1968, p. 8803). The jurisdiction of the Committee on Standards of Official Conduct (now Ethics) was redefined in the same resolution. Clause 4 was entirely rewritten (and definitions for the purpose of clause 4 were deleted) in the 104th Congress to reflect the adoption of a Gift Rule (H. Res. 254, Nov. 30, 1995, p. 35077). Before the 104th Congress, clause 4 had been amended in the 95th Congress to change the prohibition against acceptance of gifts of “substantial value” (H. Res. 5, Jan. 4, 1975, p. 20) and definitions for purposes of clause 4 were added in the 95th Congress (H. Res. 287, Mar. 2, 1977, pp. 5933–53). Those definitions were amended in the Ethics Reform Act of 1989 to make conforming changes in the definition of “relative” (P.L. 101–194). Clause 4 was also amended: (1) in the 100th Congress to increase from $35 to $50 the value of personal hospitality of an individual that is not to be counted when computing the aggregate amount of gifts per calendar year (H. Res. 5, Jan. 6, 1987, p. 6); and (2) in the Ethics Reform Act of 1989 to revise the rules governing the acceptance of gifts, including value thresholds and waivers (P.L. 101–194). Those threshold and aggregate values were again adjusted by section 314(d) of the Legislative Branch Appropriations Act for fiscal year 1992 (P.L. 102–90). The Ethics Reform Act of 1989 (P.L. 101–194) amended clause 5 to prohibit the acceptance of honoraria. Clause 6 was amended in the 95th Congress to delete from the second sentence the exception “unless specifically provided by law,” which had been added in the 94th Congress (H. Res. 5, Jan. 4, 1975, p. 20) and was again amended in the 109th Congress to conform it to the change in clause 1 of rule XXIV to permit campaign funds to be used to defray certain official expenses (sec. 2(j), H. Res. 5, Jan. 4, 2005, p. 43). Clause 6 was also amended by the Ethics Reform Act of 1989 (P.L. 101–194) to specify that campaign funds be used only for bona fide campaign or political purposes. Clause 7 was amended in the 95th Congress to eliminate an exception permitting sponsors to give notice of purpose (H. Res. 5, Jan. 4, 1975, p. 20). The Ethics Reform Act of 1989 (P.L. 101–194) amended clause 8 to broaden Members’ accountability for the pay and performance of staff. Clause 8 was again amended in the 106th Congress to permit telecommuting by House employees (H. Res. 5, Jan. 6, 1999, p. 47). Clause 8(c) was added in the 107th Congress (sec. 2(t), H. Res. 5, Jan. 3, 2001, p. 24) and expanded in the 113th Congress to apply to a defined group of relatives instead of just spouses (sec. 2(e)(2), H. Res. 5, Jan. 3, 2013, p. __). Clause 9 was added in the 94th Congress (H. Res. 5, Jan. 14, 1975, p. 20). Clause 9 was amended in the 100th Congress to prohibit discrimination in employment based upon age (H. Res. 5, Jan. 6, 1987, p. 6) and again in the 101st Congress to conform existing staff antidiscrimination rules to the Fair Employment Practices resolution adopted in the 100th Congress (now contained in the Congressional Accountability Act of 1995 (P.L. 104–1; 2 U.S.C. 1301; see §1101, <i>infra</i>)). Clause 10 was added in the 94th Congress (H. Res. 46, Apr. 16, 1975, p. 10340). Clause 11 was added in the 96th Congress (H. Res. 5, Jan. 15, 1979, pp. 7–16). Clause 12 was added by the Ethics Reform Act of 1989 (P.L. 101–194) to proscribe certain contacts as involving conflicts of interest. Clause 13 was added in the 104th Congress (sec. 220, H. Res. 6, Jan. 4, 1995, p. 468), except the last sentence, which was added in the 107th Congress (sec. 2(t), H. Res. 5, Jan. 3, 2001, p. 24). Clause 13 was amended in the 112th Congress to clarify that it does not require the disclosure of actual signatures (sec. 2(f), H. Res. 5, Jan. 5, 2011, p. 80) and in the 113th Congress to shift from the Clerk to the Sergeant-at-Arms some responsibility for the oath (sec. 2(e)(3), H. Res. 5, Jan. 3, 2013, p. __). Clause 18 (which was an undesignated paragraph at the end of the rule before being numbered as clause 14 when the rules were recodified in the 106th Congress) was amended in the 92d Congress to bring the Delegates and Resident Commissioner within the definition of “Member” (H. Res. 5, Jan. 22, 1971, p. 144; H. Res. 1153, Oct. 13, 1972, pp. 36021–23). It was again amended in the 106th Congress to include consultants among employees covered by certain provisions of the code of conduct (H. Res. 5, Jan. 6, 1999, p. 47) and in the 107th Congress to add the last two sentences of paragraph (b) (sec. 2(v), H. Res. 5, Jan. 3, 2001, p. 24). Paragraph (b) was amended during the 110th Congress with regard to firms, partnerships, and other business organizations (sec. 303, P.L. 110–81). In the 105th Congress the rule was amended to effect three clerical corrections (H. Res. 5, Jan. 7, 1997, p. 121); in the 106th Congress clerical and stylistic changes were effected when the rules were recodified (H. Res. 5, Jan. 6, 1999, p. 47); in the 107th Congress conforming changes were made to reflect the redesignation of several rules (sec. 2(s), H. Res. 5, Jan. 3, 2001, p. 24) and a clerical correction to a cross reference in clause 8(b) was effected (sec. 2(x), H. Res. 5, Jan. 3, 2001, p. 26); and in the 112th Congress a technical change was made (sec. 2(f), H. Res. 5, Jan. 5, 2011, p. 80). Clauses 14 through 17 were added in the 110th Congress (secs. 202, 207, H. Res. 6, Jan. 4, 2007, p. 19; sec. 404(b), H. Res. 6, Jan. 4, 2007, p. 19 (adopted Jan. 5, 2007)). Clause 15 was amended in its entirety during the 110th Congress (H. Res. 363, May 2, 2007, p. 11119) and amended in the 113th Congress to expand paragraph (b) and add paragraph (c) (sec. 2(e)(4), H. Res. 5, Jan. 3, 2013, p. __). Gender-based references were eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. 7). An amendment was effected in the 112th Congress to reflect a change in committee name (sec. 2(e)(8), H. Res. 5, Jan. 5, 2011, p. 80).</p>
+          <p>For an in-depth discussion of this rule prepared by the Committee on Standards of Official Conduct (now Ethics), see the <i>House Ethics Manual</i> (110th Cong., 2d Sess.).</p>
+          <p>It is not a proper parliamentary inquiry to ask the Chair to interpret the application of a criminal statute to a Member’s conduct, because it is for the House and not the Chair to judge the conduct of Members (Nov. 17, 1987, p. 32153). In response to a parliamentary inquiry, the Chair advised that the operation of clause 16 was not affected by a special order of the House waiving various points of order against a measure and against its consideration (Mar. 23, 2007, p. 7457). The Committee on Standards of Official Conduct opined that “conviction” in clause 10 includes a plea of guilty or a certified finding of guilty even though sentencing may occur later (H. Rept. 94–76).</p>
+        </note>
+      </clause>
+    </level>
+  </content>
+</document>

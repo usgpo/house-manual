@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="rules.xsl" type="text/xsl"?>
+<?xml-stylesheet href="rules.css" type="text/css"?>
+<document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule VII: Records of the House</dc:title>
+    <property name="s-heading" idref="rule-VII-1">§695. Duties of Clerk and committees as to custody of papers before committees.</property>
+    <property name="s-heading" idref="rule-VII-7">§696. Custody of papers in the files of the House.</property>
+  </meta>
+  <content>
+    <level name="rule" id="rule-VII">
+      <num value="VII">Rule VII</num>
+      <heading>Records of the House</heading>
+      <level>
+        <crossHeading>Archiving</crossHeading>
+        <clause id="rule-VII-1">
+          <num value="1">1.</num>
+          <paragraph id="rule-VII-1-a">
+            <num value="a">(a)</num>
+            <p id="s695">At the end of each Congress, the chair of each committee shall transfer to the Clerk any noncurrent records of such committee, including the subcommittees thereof.</p>
+          </paragraph>
+          <paragraph id="rule-VII-1-b">
+            <num value="b">(b)</num>
+            <p>At the end of each Congress, each officer of the House elected under <ref href="rule2.xml#rule-II">rule II</ref> shall transfer to the Clerk any noncurrent records made or acquired in the course of the duties of such officer.</p>
+          </paragraph>
+        </clause>
+        <clause id="rule-VII-2">
+          <num value="2">2.</num>
+          <p>The Clerk shall deliver the records transferred under clause 1, together with any other noncurrent records of the House, to the Archivist of the United States for preservation at the National Archives and Records Administration. Records so delivered are the permanent property of the House and remain subject to this rule and any order of the House.</p>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Public availability</crossHeading>
+        <clause id="rule-VII-3">
+          <num value="3">3.</num>
+          <paragraph id="rule-VII-3-a">
+            <num value="a">(a)</num>
+            <p>The Clerk shall authorize the Archivist to make records delivered under clause 2 available for public use, subject to clause 4(b) and any order of the House.</p>
+          </paragraph>
+          <paragraph id="rule-VII-3-b">
+            <num value="b">(b)</num><subparagraph id="rule-VII-3-b-1"><num value="1">(1)</num>
+              <p>A record shall immediately be made available if it was previously made available for public use by the House or a committee or a subcommittee.</p>
+            </subparagraph>
+            <subparagraph id="rule-VII-3-b-2">
+              <num value="2">(2)</num>
+              <p>An investigative record that contains personal data relating to a specific living person (the disclosure of which would be an unwarranted invasion of personal privacy), an administrative record relating to personnel, or a record relating to a hearing that was closed under <ref href="rule11.xml#rule-XI-2-g-2">clause 2(g)(2) of rule XI</ref> shall be made available if it has been in existence for 50 years.</p>
+            </subparagraph>
+            <subparagraph id="rule-VII-3-b-3">
+              <num value="3">(3)</num>
+              <p>A record for which a time, schedule, or condition for availability is specified by order of the House shall be made available in accordance with that order. Except as otherwise provided by order of the House, a record of a committee for which a time, schedule, or condition for availability is specified by order of the committee (entered during the Congress in which the record is made or acquired by the committee) shall be made available in accordance with the order of the committee.</p>
+            </subparagraph>
+            <subparagraph id="rule-VII-3-b-4">
+              <num value="4">(4)</num>
+              <p>A record (other than a record referred to in subparagraph (1), (2), or (3)) shall be made available if it has been in existence for 30 years.</p>
+            </subparagraph>
+          </paragraph>
+        </clause>
+        <clause id="rule-VII-4">
+          <num value="4">4.</num>
+          <paragraph id="rule-VII-4-a">
+            <num value="a">(a)</num>
+            <p>A record may not be made available for public use under clause 3 if the Clerk determines that such availability would be detrimental to the public interest or inconsistent with the rights and privileges of the House. The Clerk shall notify in writing the chair and ranking minority member of the Committee on House Administration of any such determination.</p>
+          </paragraph>
+          <paragraph id="rule-VII-4-b">
+            <num value="b">(b)</num>
+            <p>A determination of the Clerk under paragraph (a) is subject to later orders of the House and, in the case of a record of a committee, later orders of the committee.</p>
+          </paragraph>
+        </clause>
+        <clause id="rule-VII-5">
+          <num value="5">5.</num>
+          <paragraph id="rule-VII-5-a">
+            <num value="a">(a)</num>
+            <p>This rule does not supersede <ref href="rule8.xml#rule-VIII">rule VIII</ref> or <ref href="rule10.xml#rule-X-11">clause 11 of rule X</ref> and does not authorize the public disclosure of any record if such disclosure is prohibited by law or executive order of the President.</p>
+          </paragraph>
+          <paragraph id="rule-VII-5-b">
+            <num value="b">(b)</num>
+            <p>The Committee on House Administration may prescribe guidelines and regulations governing the applicability and implementation of this rule.</p>
+          </paragraph>
+          <paragraph id="rule-VII-5-c">
+            <num value="c">(c)</num>
+            <p>A committee may withdraw from the National Archives and Records Administration any record of the committee delivered to the Archivist under this rule. Such a withdrawal shall be on a temporary basis and for official use of the committee.</p>
+          </paragraph>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Definition of record</crossHeading>
+        <clause id="rule-VII-6">
+          <num value="6">6.</num>
+          <chapeau>In this rule the term “record” means any official, permanent record of the House (other than a record of an individual Member, Delegate, or Resident Commissioner), including—</chapeau>
+          <paragraph id="rule-VII-6-a">
+            <num value="a">(a)</num>
+            <p>with respect to a committee, an official, permanent record of the committee (including any record of a legislative, oversight, or other activity of such committee or a subcommittee thereof); and</p>
+          </paragraph>
+          <paragraph id="rule-VII-6-b">
+            <num value="b">(b)</num>
+            <p>with respect to an officer of the House elected under <ref href="rule2.xml#rule-II">rule II</ref>, an official, permanent record made or acquired in the course of the duties of such officer.</p>
+          </paragraph>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, clauses 1 through 6 were found in former rule XXXVI (H. Res. 5, Jan. 6, 1999, p. 47). That rule was adopted initially in 1880 (V, 7260). Clause 2 (which derived from section 140(a) of the Legislative Reorganization Act of 1946 (60 Stat. 812)) was added in the 83d Congress when the rule was also renumbered (H. Res. 5, Jan. 3, 1953, p. 24). It was amended on January 22, 1971 (p. 144). It was again amended in the 99th Congress to change the reference from the General Services Administration to the National Archives and Records Administration (H. Res. 114, Oct. 14, 1986, p. 30821). The rule was rewritten entirely in the 101st Congress (H. Res. 5, Jan. 3, 1989, p. 73) to incorporate the provisions of H. Res. 419 as reported from the Committee on Rules in the 100th Congress (H. Rept. 100–1054). Clerical corrections were effected to reflect changes in the name of the Committee on House Administration in the 104th and 106th Congresses (sec. 202(b), H. Res. 6, Jan. 4, 1995, p. 467; H. Res. 5, Jan. 6, 1999, p. 47). Clerical corrections were effected in the 107th Congress to correct cross references (sec. 2(x), H. Res. 5, Jan. 3, 2001, p. 24). Gender-based references were eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. 7).</p>
+            <p>The Clerk has historically been authorized to permit the Administrator of General Services (now Archivist) to make available for use certain records of the House transferred to the National Archives (H. Res. 288, June 16, 1953, p. 6641). Under this rule, an order of the House is required for the release of noncurrent records of the House not covered by clause 3 of this rule (Mar. 22, 1991, p. 7549).</p>
+          </note>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Withdrawal of papers</crossHeading>
+        <clause id="rule-VII-7">
+          <num value="7">7.</num>
+          <p id="s696">A memorial or other paper presented to the House may not be withdrawn from its files without its leave. If withdrawn certified copies thereof shall be left in the Office of the Clerk. When an act passes for the settlement of a claim, the Clerk may transmit to the officer charged with the settlement thereof the papers on file in the Office of the Clerk relating to such claim. The Clerk may lend temporarily to an officer or bureau of the executive departments any papers on file in the Office of the Clerk relating to any matter pending before such officer or bureau, taking proper receipt therefor.</p>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this provision was found in former rule XXXVII (H. Res. 5, Jan. 6, 1999, p. 47). It was adopted initially in 1873 and amended in 1880 (V, 7256). It was renumbered January 3, 1953 (p. 24). Gender-based references were eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. 7).</p>
+            <p>The House usually allows the withdrawal of papers only in cases in which there has been no adverse report. As the rules for the order of business give no place to the motion to withdraw, it is made by unanimous consent (V, 7259). The House formerly adopted a privileged resolution at the beginning of each Congress authorizing the Clerk to furnish certified copies of certain types of House papers subpoenaed by courts upon determination of relevancy by the court, but not permitting production of executive session papers or transfer of original papers (Jan. 3, 1973, p. 30).</p>
+            <p>See rule VIII for procedure for response to subpoenas for papers of the House.</p>
+          </note>
+        </clause>
+      </level>
+    </level>
+  </content>
+</document>

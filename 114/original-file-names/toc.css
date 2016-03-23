@@ -1,0 +1,14 @@
+
+@import url("house.css");
+
+body { font-size: 16pt; text-align: left }
+
+h1, h2, h3 { text-align: center; text-transform: uppercase }
+
+h1 > div { margin-top: 0.5em }
+
+ol { list-style-type: none }
+
+.num { display: inline-block; width: 6em; text-align: right; font-variant: small-caps }
+
+.heading { display: inline-block; }

@@ -1,0 +1,27 @@
+
+@import url("house.css");
+@import url("usc.css");
+
+
+body > .level { margin-top: 5em }
+body > .level:first-child { margin-top: 0 }
+
+.level > .heading { margin: 1em 0; text-align: center; text-transform: uppercase }
+.level > .subheading { margin: 1em 0; text-align: center }
+
+body > .level > .heading { font-weight: bold }
+body > .level > .subheading {  }
+
+body > .level > .level > .level > .heading { font-size: smaller }
+body > .level > .level > .level > .subheading { font-size: smaller }
+
+.note p { margin-top: 0.5em }
+
+#early .section > .heading { font-weight: bold; text-indent: 2ch }
+#early .subsection > .num { font-weight: bold }
+#early .subsection > .heading { font-weight: bold }
+#early .subsection > .heading + p { display: block; text-indent: 2ch }
+#early .paragraph { margin-left: 0 }
+#early > .level:last-child .subsection > .num { font-weight: normal }
+
+#early .paragraph > .cut-in-head { left: 0 }
