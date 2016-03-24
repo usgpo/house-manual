@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="rules.xsl" type="text/xsl"?>
-<?xml-stylesheet href="rules.css" type="text/css"?>
+<?xml-stylesheet href="graphics-support-documents/rules.xsl" type="text/xsl"?>
+<?xml-stylesheet href="graphics-support-documents/rules.css" type="text/css"?>
 <document xmlns="http://xml.house.gov/schemas/uslm/1.0">
   <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Rules of the House of Representatives</dc:title>
