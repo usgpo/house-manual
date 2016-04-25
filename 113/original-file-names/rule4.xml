@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="rules.xsl" type="text/xsl"?>
+<?xml-stylesheet href="rules.css" type="text/css"?>
+<document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule IV: The Hall of the House</dc:title>
+    <property name="s-heading" idref="rule-IV-1">§677. Use of the Hall of the House.</property>
+    <property name="s-heading" idref="rule-IV-2">§678. Persons and officials admitted to the floor during sessions of the House.</property>
+    <property name="s-heading" idref="rule-IV-3">§679. Admission to the floor when the House is not sitting.</property>
+    <property name="s-heading" idref="rule-IV-4">§680. Former Members and officers.</property>
+    <property name="s-heading" idref="rule-IV-5">§681. Members’ staff.</property>
+    <property name="s-heading" idref="rule-IV-6">§682. The various galleries and admission thereto.</property>
+    <property name="s-heading" idref="rule-IV-7">§683. Prohibition on distribution of campaign contributions.</property>
+  </meta>
+  <content>
+    <level name="rule" id="rule-IV">
+      <num value="IV">Rule IV</num>
+      <heading>The Hall of the House</heading>
+      <level>
+        <crossHeading>Use and admittance</crossHeading>
+        <clause id="rule-IV-1">
+          <num value="1">1.</num>
+          <p id="s677">The Hall of the House shall be used only for the legislative business of the House and for caucus and conference meetings of its Members, except when the House agrees to take part in any ceremonies to be observed therein.</p>
+          <note>
+            <p>When the House recodified its rules in the 106th Congress, it consolidated former rules XXXI, XXXII, and XXXIII under rule IV, and clause 1 was found in former rule XXXI (H. Res. 5, Jan. 6, 1999, p. 47). Rules relating to the use of the Hall were adopted as early as 1804. The present form of this clause dates from 1880 (V, 7270). It was renumbered January 3, 1953 (p. 24). A technical amendment to this clause, in conjunction with one to clause 2(b), was effected in the 112th Congress (sec. 2(f), H. Res. 5, Jan. 5, 2011, p. __). The Speaker has announced standards for use of the Chamber when the House is not in session (Speaker Pelosi, Jan. 6, 2009, p. 25; Speaker Boehner, Jan. 5, 2011, __; Speaker Boehner, Jan. 3, 2013, __).</p>
+          </note>
+        </clause>
+        <clause id="rule-IV-2">
+          <num value="2">2.</num>
+          <paragraph id="rule-IV-2-a">
+            <num value="a">(a)</num>
+            <chapeau id="s678">Only the following persons shall be admitted to the Hall of the House or rooms leading thereto:</chapeau>
+            <subparagraph id="rule-IV-2-a-1">
+              <num value="1">(1)</num>
+              <p>Members of Congress, Members-elect, and contestants in election cases during the pendency of their cases on the floor.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-2">
+              <num value="2">(2)</num>
+              <p>The Delegates and the Resident Commissioner.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-3">
+              <num value="3">(3)</num>
+              <p>The President and Vice President of the United States and their private secretaries.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-4">
+              <num value="4">(4)</num>
+              <p>Justices of the Supreme Court.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-5">
+              <num value="5">(5)</num>
+              <p>Elected officers and minority employees nominated as elected officers of the House.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-6">
+              <num value="6">(6)</num>
+              <p>The Parliamentarian.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-7">
+              <num value="7">(7)</num>
+              <p>Staff of committees when business from their committee is under consideration, and staff of the respective party leaderships when so assigned with the approval of the Speaker.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-8">
+              <num value="8">(8)</num>
+              <p>Not more than one person from the staff of a Member, Delegate, or Resident Commissioner when that Member, Delegate, or Resident Commissioner has an amendment under consideration (subject to clause 5).</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-9">
+              <num value="9">(9)</num>
+              <p>The Architect of the Capitol.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-10">
+              <num value="10">(10)</num>
+              <p>The Librarian of Congress and the assistant in charge of the Law Library.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-11">
+              <num value="11">(11)</num>
+              <p>The Secretary and Sergeant-at-Arms of the Senate.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-12">
+              <num value="12">(12)</num>
+              <p>Heads of departments.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-13">
+              <num value="13">(13)</num>
+              <p>Foreign ministers.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-14">
+              <num value="14">(14)</num>
+              <p>Governors of States.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-15">
+              <num value="15">(15)</num>
+              <p>Former Members, Delegates, and Resident Commissioners; former Parliamentarians of the House; and former elected officers and minority employees nominated as elected officers of the House (subject to clause 4).</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-16">
+              <num value="16">(16)</num>
+              <p>One attorney to accompany a Member, Delegate, or Resident Commissioner who is the respondent in an investigation undertaken by the Committee on Ethics when a recommendation of that committee is under consideration in the House.</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-2-a-17">
+              <num value="17">(17)</num>
+              <p>Such persons as have, by name, received the thanks of Congress.</p>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="rule-IV-2-b">
+            <num value="b">(b)</num>
+            <p>The Speaker may not entertain a unanimous consent request or a motion to suspend this clause or clauses 1, 3, 4, or 5.</p>
+          </paragraph>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this provision was found in former clause 1 of rule XXXII (H. Res. 5, Jan. 6, 1999, p. 47). It was subjected to many changes from 1802 until 1880 (V, 7283; VIII, 3634) and was renumbered in the 83d Congress (Jan. 3, 1953, p. 24). The rule was amended in the 92d Congress to include the Delegate from the District of Columbia among those having the privilege of the floor (H. Res. 5, Jan. 22, 1971, p. 144), and later in that Congress was revised to grant all Delegates the privilege (H. Res. 1153, Oct. 13, 1972, pp. 36021–23). The latter revision was necessary because of the enactment of Public Law 92–271, which created the positions of Delegate from Guam and Delegate from the Virgin Islands. Officers and elected employees, both present and former, were given floor privileges by the adoption of this same resolution (H. Res. 1153, Oct. 13, 1972, p. 36013) but had in fact, by custom, been permitted on the floor before this change. This clause was substantially amended in the 94th Congress (H. Res. 1435, Oct. 1, 1976, pp. 35175–80) and was amended by the Ethics Reform Act of 1989 to permit floor privileges for one attorney for a Member-respondent during consideration of a disciplinary resolution (P.L. 101–194, Nov. 30, 1989). Clause 2(a)(7) was amended in the 108th Congress to extend floor privileges to party leadership staff when so assigned with the approval of the Speaker (sec. 2(d), H. Res. 5, Jan. 7, 2003, p. 7). This amendment codified current practice, including the Speaker’s ultimate control over such assignments. In the 112th Congress, paragraph (a)(16) was amended to reflect a change in committee name and paragraph (b) was amended to clarify the breadth of the restriction on suspending various prohibitions of rule IV, which had been unintentionally narrowed by recodification in the 106th Congress (secs. 2(e)(8), 2(f)(2), H. Res. 5, Jan. 5, 2011, p. __).</p>
+            <p>The portion of this clause that permits clerks of committees access to the floor during the consideration of business from their committees has been interpreted by the Speaker to allow four professional staff members and one clerk on the floor at one time (Speaker Albert, June 8, 1972, p. 20318; Speaker O’Neill, Jan. 26, 1977, p. 2333). The Legislative Reorganization Act of 1970, section 503(3) (84 Stat. 1140, 1202; 2 U.S.C. 281b(3)), also allows two staff members of the Legislative Counsel access to the floor to assist the committee.</p>
+            <p>The portion of the clause forbidding the Speaker to entertain requests for suspension of certain clauses applies also to the chair of the Committee of the Whole (V, 7285) but the House may grant specific access by resolution (<i>e.g.</i>, July 26, 2010, p. __). “Heads of departments” means members of the President’s Cabinet, and not subordinate executive officers, and “foreign ministers” means ministers from foreign governments only. “Governors of States” does not include governors of territories (V, 7283; VIII, 3634).</p>
+            <p>An alleged violation of the rule relating to admission to the floor presents a question of privilege (III, 2624, 2625; VI, 579), but not a higher question of privilege than an election case (III, 2626). In one case in which a former Member was abusing the privilege, he was excluded by direction of the Speaker (V, 7288), but in another case the Speaker declared it a matter for the House and not the Chair to consider (V, 7286). In one case an alleged abuse was inquired into by a select committee (V, 7287). See §680, <i>infra</i>, for the rule constraining conduct of former Members, Delegates, the Resident Commissioner, officers, and staff while on the floor. The Speaker announced an intention to strictly enforce the rule to prevent a proliferation of committee and other staff on the floor (Aug. 22, 1974, p. 30027; Jan. 19, 1981, p. 402; Jan. 25, 1983, p. 224). The Speaker announced that committee staff would be required to display staff badges on the floor in exchange for identification cards before admission to the floor (Speaker O’Neill, Jan. 21, 1986, p. 5; Jan. 5, 1993, p. 105). It is not in order to refer to persons on the floor of the House as guests of the House, such as Members’ children (Apr. 28, 1994, p. 8783; Dec. 19, 1995, p. 37575; Jan. 22, 1996, p. 682; Apr. 30, 1998, p. 7320; June 17, 2004, p. 12847; Aug. 1, 2011, p. __), other children (May 18, 1995, p. 13490; Oct. 7, 1999, p. 24425; Apr. 25, 2013, p. __), or Senators exercising floor privileges (May 18, 1995, p. 13491).</p>
+          </note>
+        </clause>
+        <clause id="rule-IV-3">
+          <num value="3">3.</num>
+          <paragraph id="rule-IV-3-a">
+            <num value="a">(a)</num>
+            <p id="s679">Except as provided in paragraph (b), all persons not entitled to the privilege of the floor during the session shall be excluded at all times from the Hall of the House and the cloakrooms.</p>
+          </paragraph>
+          <paragraph id="rule-IV-3-b">
+            <num value="b">(b)</num>
+            <p>Until 15 minutes of the hour of the meeting of the House, persons employed in its service, accredited members of the press entitled to admission to the press gallery, and other persons on request of a Member, Delegate, or Resident Commissioner by card or in writing, may be admitted to the Hall of the House.</p>
+          </paragraph>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this provision was found in former clause 2 of rule XXXII (H. Res. 5, Jan. 6, 1999, p. 47). It was adopted initially in 1902 (V, 7346).</p>
+          </note>
+        </clause>
+        <clause id="rule-IV-4">
+          <num value="4">4.</num>
+          <paragraph id="rule-IV-4-a">
+            <num value="a">(a)</num>
+            <chapeau id="s680">A former Member, Delegate, or Resident Commissioner; a former Parliamentarian of the House; or a former elected officer of the House or former minority employee nominated as an elected officer of the House shall not be entitled to the privilege of admission to the Hall of the House and rooms leading thereto if such individual—</chapeau>
+            <subparagraph id="rule-IV-4-a-1">
+              <num value="1">(1)</num>
+              <p>is a registered lobbyist or agent of a foreign principal as those terms are defined in <ref href="rule25.xml#rule-XXV-5">clause 5 of rule XXV</ref>;</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-4-a-2">
+              <num value="2">(2)</num>
+              <p>has any direct personal or pecuniary interest in any legislative measure pending before the House or reported by a committee; or</p>
+            </subparagraph>
+            <subparagraph id="rule-IV-4-a-3">
+              <num value="3">(3)</num>
+              <p>is in the employ of or represents any party or organization for the purpose of influencing, directly or indirectly, the passage, defeat, or amendment of any legislative proposal.</p>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="rule-IV-4-b">
+            <num value="b">(b)</num>
+            <p>The Speaker may promulgate regulations to carry out this rule including regulations that exempt ceremonial or educational functions from the restrictions of this clause.</p>
+          </paragraph>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this provision was found in former clause 3 of rule XXXII (H. Res. 5, Jan. 6, 1999, p. 47). It was adopted initially in the 94th Congress (H. Res. 1435, Oct. 1, 1976, pp. 35175–80) to consolidate in one place and to clarify the restrictions on admittance to the floor of former Members, officers, and employees and to give the Speaker the power to promulgate regulations to enforce the rule. The form of the rule adopted during the 109th Congress established plainer proscriptions with respect to registered lobbyists, agents of foreign principals, and persons with similar representational roles and specified particular exercises of regulatory authority by the Speaker (H. Res. 648, Feb. 1, 2006, p. 540). The 111th Congress clarified the authority of the Speaker over the entire rule and not merely the exemptions specified in paragraph (b), and eliminated a gender-based reference (secs. 2(l), 2 (m), H. Res. 5, Jan. 6, 2009, pp. 7, 9).</p>
+            <p>As early as 1945 the Chair held that former Members do not have the privilege of the floor when they are personally interested in legislation (Speaker Rayburn, Oct. 2, 1945, p. 9251). Pursuant to the authority granted by this clause, Speakers have issued regulations from time to time (Speaker O’Neill, Jan. 6, 1977, p. 321; Speaker Foley, June 9, 1994, p. 12387; Speaker Gingrich, May 24, 1995, p. 14300; Speaker Gingrich, Aug. 1, 1996, p. 21031; Speaker Hastert, Feb. 1, 2006, p. 644; Speaker Pelosi, Jan. 5, 2007, p. 273).</p>
+            <p>A former Member has not been entitled to the privileges of the floor under this clause if (1) having a direct personal or pecuniary interest in legislation under consideration in the House or reported by any committee, or (2) representing any party or organization for the purpose of influencing the disposition of legislation pending before the House, reported by any committee or under consideration in any committee or subcommittee (June 7, 1978, p. 16625). The essence of the rule has been the former Member’s status as one with a personal or pecuniary interest and not whether the former Member may have a present intent to lobby (Speaker Foley, June 9, 1994, p. 12387). Even before the adoption of a more categorical form of the rule during the 109th Congress, intent to lobby was assumed if a former Member was employed or retained as a lobbyist to influence legislative measures as described in (2) above (Aug. 1, 1996, p. 21031). The Speaker has emphasized that the rule applies not only to the floor but also to “rooms leading thereto,” and has construed the latter phrase to include, for example, the Speaker’s Lobby and the cloakrooms (Speaker Gingrich, May 24, 1995, p. 14300; Aug. 1, 1996, p. 21031) and the Rayburn Room (Feb. 1, 2006, p. 541).</p>
+            <p>A former Member must observe the rules of proper decorum while on the floor, and the Chair may direct the Sergeant-at-Arms to assist the Chair in maintaining such decorum (Sept. 17, 1997, pp. 19026, 19027). A former Member may not manifest approval or disapproval of the proceedings (VIII, 3635). In the 105th Congress the House adopted a resolution offered as a question of the privileges of the House alleging indecorous behavior of a former Member and instructing the Sergeant-at-Arms to ban the former Member from the floor, and rooms leading thereto, until the resolution of a contested election to which he was party (H. Res. 233, Sept. 18, 1997, p. 19340).</p>
+          </note>
+        </clause>
+        <clause id="rule-IV-5">
+          <num value="5">5.</num>
+          <p id="s681">A person from the staff of a Member, Delegate, or Resident Commissioner may be admitted to the Hall of the House or rooms leading thereto under clause 2 only upon prior notice to the Speaker. Such persons, and persons from the staff of committees admitted under clause 2, may not engage in efforts in the Hall of the House or rooms leading thereto to influence Members with regard to the legislation being amended. Such persons shall remain at the desk and are admitted only to advise the Member, Delegate, Resident Commissioner, or committee responsible for their admission. A person who violates this clause may be excluded during the session from the Hall of the House and rooms leading thereto by the Speaker.</p>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this provision was found in former clause 4 of rule XXXII (H. Res. 5, Jan. 6, 1999, p. 47). This clause was added initially in the 95th Congress (H. Res. 5, Jan. 4, 1977, pp. 53–70) to extend the privilege of the floor to one person from the staff of a Member having an amendment under consideration but not of a measure’s sponsor or during special-order speeches. The Speaker promulgated regulations for the implementation of this clause on January 26, 1977 (p. 2333). In the 97th Congress the Speaker announced that personal staff of Members did not have the privilege of the floor and that committee staff, permitted on the floor when business from their committees is under consideration, were required to remain unobtrusively by the committee tables (Aug. 18, 1982, p. 21934). Staff permitted on the floor under this clause are not permitted to distribute literature or otherwise attempt to influence Members in their votes (Aug. 1, 1990, p. 21519; Sept. 27, 1995, p. 26567) and may not applaud during debate (June 14, 1995, p. 15896).</p>
+          </note>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Gallery</crossHeading>
+        <clause id="rule-IV-6">
+          <num value="6">6.</num>
+          <paragraph id="rule-IV-6-a">
+            <num value="a">(a)</num>
+            <p id="s682">The Speaker shall set aside a portion of the west gallery for the use of the President, the members of the Cabinet, justices of the Supreme Court, foreign ministers and suites, and the members of their respective families. The Speaker shall set aside another portion of the same gallery for the accommodation of persons to be admitted on the cards of Members, Delegates, or the Resident Commissioner.</p>
+          </paragraph>
+          <paragraph id="rule-IV-6-b">
+            <num value="b">(b)</num>
+            <p>The Speaker shall set aside the southerly half of the east gallery for the use of the families of Members of Congress. The Speaker shall control one bench. On the request of a Member, Delegate, Resident Commissioner, or Senator, the Speaker shall issue a card of admission to the family of such individual, which may include their visitors. No other person shall be admitted to this section.</p>
+          </paragraph>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this provision was found in former rule XXXIII (H. Res. 5, Jan. 6, 1999, p. 47). It was adopted initially in 1880 (V, 7302) and renumbered January 3, 1953 (p. 24). A gender-based reference was eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. 7).</p>
+            <p>On special occasions the House sometimes makes a special rule for admission to the galleries (V, 7303), as on the occasion of the electoral count (III, 1961), of an address by the President, and of public funerals.</p>
+          </note>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Prohibition on campaign contributions</crossHeading>
+        <clause id="rule-IV-7">
+          <num value="7">7.</num>
+          <p id="s683">A Member, Delegate, Resident Commissioner, officer, or employee of the House, or any other person entitled to admission to the Hall of the House or rooms leading thereto by this rule, may not knowingly distribute a political campaign contribution in the Hall of the House or rooms leading thereto.</p>
+          <note>
+            <p>Before the House recodified its rules in the 106th Congress, this provision was found in former clause 5 of rule XXXIII (H. Res. 5, Jan. 6, 1999, p. 47). It was adopted initially in the 105th Congress (H. Res. 5, Jan. 7, 1997, p. 121).</p>
+          </note>
+        </clause>
+      </level>
+    </level>
+  </content>
+</document>

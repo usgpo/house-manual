@@ -1,17 +1,32 @@
 # House Manual #
 
-At the direction of the Committee on Rules within the United States House of Representatives, the Government Publishing Office (GPO), the House Parliamentarian, and the Clerk of the House are making the 114th House Rules and the House Manual available in XML format using the United States Legislative Markup schema through GPO’s Federal Digital System (FDsys), govinfo, and Bulk Data repository.     
+At the direction of the Committee on Rules within the United States House of Representatives, the Government Publishing Office (GPO), the House Parliamentarian, and the Clerk of the House are making the House Rules and the House Manual for the 113th and 114th Congresses available in XML format using the United States Legislative Markup schema through GPO’s Federal Digital System (FDsys), govinfo, and Bulk Data repository.     
 
 The files were released for comment on GitHub prior to release through GPO’s Federal Digital System (FDsys), govinfo, and Bulk Data repository. 
 
 The Bulk Data repository for this information is now available at https://www.gpo.gov/fdsys/bulkdata/HMAN.
 
-Files are available on govinfo at https://www.govinfo.gov/content/pkg/HMAN-114/xml/HMAN-114.xml and https://www.govinfo.gov/content/pkg/GPO-CLERK-RULE-PAMPHLET-114/xml/GPO-CLERK-RULE-PAMPHLET-114.xml. 
+### 114th Congress ###
+- https://www.govinfo.gov/content/pkg/HMAN-114/xml/HMAN-114.xml
+- https://www.govinfo.gov/content/pkg/GPO-CLERK-RULE-PAMPHLET-114/xml/GPO-CLERK-RULE-PAMPHLET-114.xml. 
 
-Files are available on FDsys at https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=HMAN, https://www.gpo.gov/fdsys/pkg/HMAN-114/xml/HMAN-114.xml, and https://www.gpo.gov/fdsys/pkg/GPO-CLERK-RULE-PAMPHLET-114/xml/GPO-CLERK-RULE-PAMPHLET-114.xml. 
+### 113th Congress ###
+- https://www.govinfo.gov/content/pkg/HMAN-113/xml/HMAN-113.xml
+- https://www.govinfo.gov/content/pkg/GPO-CLERK-RULE-PAMPHLET-113/xml/GPO-CLERK-RULE-PAMPHLET-113.xml. 
 
+Files are available on FDsys at :
 
-The 112th and 113th House Rules are currently in development. 
+- https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=HMAN
+
+### 114th Congress ###
+- https://www.gpo.gov/fdsys/pkg/HMAN-114/xml/HMAN-114.xml
+- https://www.gpo.gov/fdsys/pkg/GPO-CLERK-RULE-PAMPHLET-114/xml/GPO-CLERK-RULE-PAMPHLET-114.xml. 
+
+### 113th Congress ###
+- https://www.gpo.gov/fdsys/pkg/HMAN-114/xml/HMAN-114.xml
+- https://www.gpo.gov/fdsys/pkg/GPO-CLERK-RULE-PAMPHLET-114/xml/GPO-CLERK-RULE-PAMPHLET-114.xml. 
+
+The 112th House Rules are currently in development. 
 
 The House Manual and House Rules XML releases have been created to reflect existing printed and published documents and might contain typographical errors that exist in those original documents. 
 
