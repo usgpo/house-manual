@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="rules.xsl" type="text/xsl"?>
+<?xml-stylesheet href="rules.css" type="text/css"?>
+<document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule VIII: Response to Subpoenas</dc:title>
+    <property name="s-heading" idref="rule-VIII-1">§697. Response to subpoenas.</property>
+  </meta>
+  <content>
+    <level name="rule" id="rule-VIII">
+      <num value="VIII">Rule VIII</num>
+      <heading>Response to Subpoenas</heading>
+      <clause id="rule-VIII-1">
+        <num value="1">1.</num>
+        <p id="s697">When a Member, Delegate, Resident Commissioner, officer, or employee of the House is properly served with a judicial or administrative subpoena or judicial order directing appearance as a witness relating to the official functions of the House or for the production or disclosure of any document relating to the official functions of the House, such Member, Delegate, Resident Commissioner, officer, or employee shall comply, consistently with the privileges and rights of the House, with the judicial or administrative subpoena or judicial order as hereinafter provided, unless otherwise determined under this rule.</p>
+      </clause>
+      <clause id="rule-VIII-2">
+        <num value="2">2.</num>
+        <p>Upon receipt of a properly served judicial or administrative subpoena or judicial order described in clause 1, a Member, Delegate, Resident Commissioner, officer, or employee of the House shall promptly notify the Speaker of its receipt in writing. Such notification shall promptly be laid before the House by the Speaker. During a period of recess or adjournment of longer than three days, notification to the House is not required until the reconvening of the House, when the notification shall promptly be laid before the House by the Speaker.</p>
+      </clause>
+      <clause id="rule-VIII-3">
+        <num value="3">3.</num>
+        <p>Once notification has been laid before the House, the Member, Delegate, Resident Commissioner, officer, or employee of the House shall determine whether the issuance of the judicial or administrative subpoena or judicial order described in clause 1 is a proper exercise of jurisdiction by the court, is material and relevant, and is consistent with the privileges and rights of the House. Such Member, Delegate, Resident Commissioner, officer, or employee shall notify the Speaker before seeking judicial determination of these matters.</p>
+      </clause>
+      <clause id="rule-VIII-4">
+        <num value="4">4.</num>
+        <p>Upon determination whether a judicial or administrative subpoena or judicial order described in clause 1 is a proper exercise of jurisdiction by the court, is material and relevant, and is consistent with the privileges and rights of the House, the Member, Delegate, Resident Commissioner, officer, or employee of the House shall immediately notify the Speaker of the determination in writing.</p>
+      </clause>
+      <clause id="rule-VIII-5">
+        <num value="5">5.</num>
+        <p>The Speaker shall inform the House of a determination whether a judicial or administrative subpoena or judicial order described in clause 1 is a proper exercise of jurisdiction by the court, is material and relevant, and is consistent with the privileges and rights of the House. In so informing the House, the Speaker shall generally describe the records or information sought. During a period of recess or adjournment of longer than three days, such notification is not required until the reconvening of the House, when the notification shall promptly be laid before the House by the Speaker.</p>
+      </clause>
+      <clause id="rule-VIII-6">
+        <num value="6">6.</num>
+        <paragraph id="rule-VIII-6-a">
+          <num value="a">(a)</num>
+          <p>Except as specified in paragraph (b) or otherwise ordered by the House, upon notification to the House that a judicial or administrative subpoena or judicial order described in clause 1 is a proper exercise of jurisdiction by the court, is material and relevant, and is consistent with the privileges and rights of the House, the Member, Delegate, Resident Commissioner, officer, or employee of the House shall comply with the judicial or administrative subpoena or judicial order by supplying certified copies.</p>
+        </paragraph>
+        <paragraph id="rule-VIII-6-b">
+          <num value="b">(b)</num>
+          <p>Under no circumstances may minutes or transcripts of executive sessions, or evidence of witnesses in respect thereto, be disclosed or copied. During a period of recess or adjournment of longer than three days, the Speaker may authorize compliance or take such other action as the Speaker considers appropriate under the circumstances. Upon the reconvening of the House, all matters that transpired under this clause shall promptly be laid before the House by the Speaker.</p>
+        </paragraph>
+      </clause>
+      <clause id="rule-VIII-7">
+        <num value="7">7.</num>
+        <p>A copy of this rule shall be transmitted by the Clerk to the court when a judicial or administrative subpoena or judicial order described in clause 1 is issued and served on a Member, Delegate, Resident Commissioner, officer, or employee of the House.</p>
+      </clause>
+      <clause id="rule-VIII-8">
+        <num value="8">8.</num>
+        <p>Nothing in this rule shall be construed to deprive, condition, or waive the constitutional or legal privileges or rights applicable or available at any time to a Member, Delegate, Resident Commissioner, officer, or employee of the House, or of the House itself, or the right of such Member, Delegate, Resident Commissioner, officer, or employee, or of the House itself, to assert such privileges or rights before a court in the United States.</p>
+        <note>
+          <p>Before the House recodified its rules in the 106th Congress, this provision was found in former rule L (H. Res. 5, Jan. 6, 1999, p. 47). It was added initially in the 97th Congress (H. Res. 5, Jan. 5, 1981, p. 98). Until the 95th Congress, whenever a Member, officer, or employee received a subpoena, the House would adopt a resolution authorizing the person to respond. In the 95th and 96th Congresses general authority was granted to respond to subpoenas without the necessity of a House vote (H. Res. 10, Jan. 4, 1977, p. 73; H. Res. 10, Jan. 15, 1979, p. 19). This standing authority was clarified and revised later in the 96th Congress (H. Res. 722, Sept. 17, 1980, pp. 25777–90) and forms the basis for the present rule. In the 107th Congress the rule was amended to broaden its application to administrative subpoenas (sec. 2(c), H. Res. 5, Jan. 3, 2001, p. 25). A gender-based reference was eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. __).</p>
+          <p>In the 102d Congress the House considered as questions of the privileges of the House resolutions: responding to a subpoena for records of the “bank” in the Office of the Sergeant-at-Arms (Apr. 29, 1992, p. 9753); responding to a contemporaneous request for such records from a Special Counsel (Apr. 29, 1992, p. 9763); and authorizing an officer of the House to release certain documents in response to another such request from the Special Counsel (May 28, 1992, p. 12790). Under rule VIII as amended in the 107th Congress, a Member or employee receiving such a subpoena informs the Speaker, as had been the practice under precedent (Deschler, ch. 11, §14.8) before the rule was amended (July 30, 1998, p. 18298; May 3, 1999, p. 8040).</p>
+          <p>Under clause 2, the Speaker promptly lays before the House a communication notifying the Speaker of the receipt of a subpoena, but the rule does not require that the text of a subpoena be printed in the Record (July 31, 1992, p. 20602).</p>
+        </note>
+      </clause>
+    </level>
+  </content>
+</document>

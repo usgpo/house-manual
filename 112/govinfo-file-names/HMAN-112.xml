@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="graphics-support-documents/front.xsl" type="text/xsl"?><?xml-stylesheet href="graphics-support-documents/front.css" type="text/css"?><document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rules of the House of Representatives</dc:title>
+  </meta>
+  <content>
+    <level name="cover-page">
+      <text class="title large">Rules of the House of Representatives</text>
+      <text>of the United States</text>
+      <text class="congress">One Hundred Twelfth Congress</text>
+    </level>
+      <toc identifier="rules.xml">
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg333.xml">
+              <inline class="number">Rule I—</inline><inline class="heading">The Speaker</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg355.xml">
+              <inline class="number">II—</inline><inline class="heading">Other Officers and Officials</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg374.xml">
+              <inline class="number">III—</inline><inline class="heading">The Members, Delegates, and Resident Commissioner of Puerto Rico</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg379.xml">
+              <inline class="number">IV—</inline><inline class="heading">The Hall of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg387.xml">
+              <inline class="number">V—</inline><inline class="heading">Broadcasting the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg389.xml">
+              <inline class="number">VI—</inline><inline class="heading">Official Reporters and News Media Galleries</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg401.xml">
+              <inline class="number">VII—</inline><inline class="heading">Records of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg405.xml">
+              <inline class="number">VIII—</inline><inline class="heading">Response to Subpoenas</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg409.xml">
+              <inline class="number">IX—</inline><inline class="heading">Questions of Privilege</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg429.xml">
+              <inline class="number">X—</inline><inline class="heading">Organization of Committees</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg541.xml">
+              <inline class="number">XI—</inline><inline class="heading">Procedures of Committees and Unfinished Business</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg608.xml">
+              <inline class="number">XII—</inline><inline class="heading">Receipt and Referral of Measures and Matters</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg623.xml">
+              <inline class="number">XIII—</inline><inline class="heading">Calendars and Committee Reports</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg657.xml">
+              <inline class="number">XIV—</inline><inline class="heading">Order and Priority of Business</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg668.xml">
+              <inline class="number">XV—</inline><inline class="heading">Business in Order on Special Days</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg686.xml">
+              <inline class="number">XVI—</inline><inline class="heading">Motions and Amendments</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg741.xml">
+              <inline class="number">XVII—</inline><inline class="heading">Decorum and Debate</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg770.xml">
+              <inline class="number">XVIII—</inline><inline class="heading">The Committee of the Whole House on the State of the Union</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg799.xml">
+              <inline class="number">XIX—</inline><inline class="heading">Motions Following the Amendment Stage</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg814.xml">
+              <inline class="number">XX—</inline><inline class="heading">Voting and Quorum Calls</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg844.xml">
+              <inline class="number">XXI—</inline><inline class="heading">Restrictions on Certain Bills</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg900.xml">
+              <inline class="number">XXII—</inline><inline class="heading">House and Senate Relations</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg927.xml">
+              <inline class="number">XXIII—</inline><inline class="heading">Code of Official Conduct</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg938.xml">
+              <inline class="number">XXIV—</inline><inline class="heading">Limitations on Use of Official Funds</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg943.xml">
+              <inline class="number">XXV—</inline><inline class="heading">Limitations on Outside Earned Income and Acceptance of Gifts</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg972.xml">
+              <inline class="number">XXVI—</inline><inline class="heading">Financial Disclosure</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg996.xml">
+              <inline class="number">XXVII—</inline><inline class="heading">Disclosure by Members and Staff of Employment Negotiations</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg998.xml">
+              <inline class="number">XXVIII—</inline><inline class="heading">(Reserved.)</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="HMAN-112-pg998-2.xml">
+              <inline class="number">XXIX—</inline><inline class="heading">General Provisions</inline>
+            </ref>
+          </content>
+        </tocItem>
+      </toc>
+  </content>
+</document>

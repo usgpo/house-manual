@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="front.xsl" type="text/xsl"?>
+<?xml-stylesheet href="front.css" type="text/css"?>
+<document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rules of the House of Representatives</dc:title>
+  </meta>
+  <content>
+    <level name="cover-page">
+      <text class="title large">Rules of the House of Representatives</text>
+      <text>of the United States</text>
+      <text class="congress">One Hundred Twelfth Congress</text>
+    </level>
+      <toc identifier="rules.xml">
+        <tocItem>
+          <content>
+            <ref href="rule1.xml">
+              <inline class="number">Rule I—</inline><inline class="heading">The Speaker</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule2.xml">
+              <inline class="number">II—</inline><inline class="heading">Other Officers and Officials</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule3.xml">
+              <inline class="number">III—</inline><inline class="heading">The Members, Delegates, and Resident Commissioner of Puerto Rico</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule4.xml">
+              <inline class="number">IV—</inline><inline class="heading">The Hall of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule5.xml">
+              <inline class="number">V—</inline><inline class="heading">Broadcasting the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule6.xml">
+              <inline class="number">VI—</inline><inline class="heading">Official Reporters and News Media Galleries</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule7.xml">
+              <inline class="number">VII—</inline><inline class="heading">Records of the House</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule8.xml">
+              <inline class="number">VIII—</inline><inline class="heading">Response to Subpoenas</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule9.xml">
+              <inline class="number">IX—</inline><inline class="heading">Questions of Privilege</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule10.xml">
+              <inline class="number">X—</inline><inline class="heading">Organization of Committees</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule11.xml">
+              <inline class="number">XI—</inline><inline class="heading">Procedures of Committees and Unfinished Business</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule12.xml">
+              <inline class="number">XII—</inline><inline class="heading">Receipt and Referral of Measures and Matters</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule13.xml">
+              <inline class="number">XIII—</inline><inline class="heading">Calendars and Committee Reports</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule14.xml">
+              <inline class="number">XIV—</inline><inline class="heading">Order and Priority of Business</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule15.xml">
+              <inline class="number">XV—</inline><inline class="heading">Business in Order on Special Days</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule16.xml">
+              <inline class="number">XVI—</inline><inline class="heading">Motions and Amendments</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule17.xml">
+              <inline class="number">XVII—</inline><inline class="heading">Decorum and Debate</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule18.xml">
+              <inline class="number">XVIII—</inline><inline class="heading">The Committee of the Whole House on the State of the Union</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule19.xml">
+              <inline class="number">XIX—</inline><inline class="heading">Motions Following the Amendment Stage</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule20.xml">
+              <inline class="number">XX—</inline><inline class="heading">Voting and Quorum Calls</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule21.xml">
+              <inline class="number">XXI—</inline><inline class="heading">Restrictions on Certain Bills</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule22.xml">
+              <inline class="number">XXII—</inline><inline class="heading">House and Senate Relations</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule23.xml">
+              <inline class="number">XXIII—</inline><inline class="heading">Code of Official Conduct</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule24.xml">
+              <inline class="number">XXIV—</inline><inline class="heading">Limitations on Use of Official Funds</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule25.xml">
+              <inline class="number">XXV—</inline><inline class="heading">Limitations on Outside Earned Income and Acceptance of Gifts</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule26.xml">
+              <inline class="number">XXVI—</inline><inline class="heading">Financial Disclosure</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule27.xml">
+              <inline class="number">XXVII—</inline><inline class="heading">Disclosure by Members and Staff of Employment Negotiations</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule28.xml">
+              <inline class="number">XXVIII—</inline><inline class="heading">(Reserved.)</inline>
+            </ref>
+          </content>
+        </tocItem>
+        <tocItem>
+          <content>
+            <ref href="rule29.xml">
+              <inline class="number">XXIX—</inline><inline class="heading">General Provisions</inline>
+            </ref>
+          </content>
+        </tocItem>
+      </toc>
+  </content>
+</document>

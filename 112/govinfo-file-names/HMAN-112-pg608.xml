@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="graphics-support-documents/rules.xsl" type="text/xsl"?><?xml-stylesheet href="graphics-support-documents/rules.css" type="text/css"?><document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule XII: Receipt and Referral of Measures and Matters</dc:title>
+    <property name="s-heading" idref="rule-XII-1">§815. Entry of messages in the Journal and Record.</property>
+    <property name="s-heading" idref="rule-XII-2">§816. Referral procedures.</property>
+    <property name="s-heading" idref="s816a">§816a. Sequential referral procedures.</property>
+    <property name="s-heading" idref="s816b">§816b. Referral procedures to an ad hoc select committee.</property>
+    <property name="s-heading" idref="rule-XII-2-d">§817. Restriction on the reference of claims.</property>
+    <property name="s-heading" idref="rule-XII-3">§818. Introduction and reference of petitions, memorials, and private bills.</property>
+    <property name="s-heading" idref="s819">§819. Duties of Speaker and Members in presenting petitions.</property>
+    <property name="s-heading" idref="s820">§820. As to division of bills for reference.</property>
+    <property name="s-heading" idref="s821">§821. Fraudulent introduction of a bill.</property>
+    <property name="s-heading" idref="rule-XII-4">§822. Certain private bills prohibited.</property>
+    <property name="s-heading" idref="rule-XII-5">§823. Commemoratives prohibited.</property>
+    <property name="s-heading" idref="rule-XII-6">§824. Correction of errors in reference; and relation to jurisdiction.</property>
+    <property name="s-heading" idref="rule-XII-7">§825. Introduction, reference, and change of reference of public bills, memorials, and resolutions.</property>
+    <property name="s-heading" idref="rule-XII-7-b-5">§826. Introduction of bills, resolutions, or memorials by request.</property>
+    <property name="s-heading" idref="rule-XII-7-c">§826a. Constitutional authority statement upon introduction.</property>
+    <property name="s-heading" idref="rule-XII-8">§827. Reception and reference of executive communications, including estimates.</property>
+  </meta>
+  <content>
+    <level id="rule-XII" name="rule">
+      <num value="XII">Rule XII</num>
+      <heading>Receipt and Referral of Measures and Matters</heading>
+      <level>
+        <crossHeading>Messages</crossHeading>
+        <clause id="rule-XII-1">
+          <num value="1">1.</num>
+          <p id="s815">Messages received from the Senate, or from the President, shall be entered on the Journal and published in the Congressional Record of the proceedings of that day.</p>
+          <note>
+            <p>This provision was adopted in 1867 and amended in 1880 (V, 6593). It was renumbered January 3, 1953 (p. 24). Before the House recodified its rules in the 106th Congress, this provision was found in former rule XXXIX (H. Res. 5, Jan. 6, 1999, p. 47).</p>
+            <p>The House may receive a message from the Senate when the Senate is not in session (VIII, 3338).</p>
+          </note>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Referral</crossHeading>
+        <clause id="rule-XII-2">
+          <num value="2">2.</num>
+          <paragraph id="rule-XII-2-a">
+            <num value="a">(a)</num>
+            <p id="s816">The Speaker shall refer each bill, resolution, or other matter that relates to a subject listed under a standing committee named in <ref href="HMAN-112-pg429.xml#rule-X-1">clause 1 of rule X</ref> in accordance with the provisions of this clause.</p>
+          </paragraph>
+          <paragraph id="rule-XII-2-b">
+            <num value="b">(b)</num>
+            <p>The Speaker shall refer matters under paragraph (a) in such manner as to ensure to the maximum extent feasible that each committee that has jurisdiction under <ref href="HMAN-112-pg429.xml#rule-X-1">clause 1 of rule X</ref> over the subject matter of a provision thereof may consider such provision and report to the House thereon. Precedents, rulings, or procedures in effect before the Ninety-Fourth Congress shall be applied to referrals under this clause only to the extent that they will contribute to the achievement of the objectives of this clause.</p>
+          </paragraph>
+          <paragraph id="rule-XII-2-c">
+            <num value="c">(c)</num>
+            <chapeau>In carrying out paragraphs (a) and (b) with respect to the referral of a matter, the Speaker—</chapeau>
+            <subparagraph id="rule-XII-2-c-1">
+              <num value="1">(1)</num>
+              <p>shall designate a committee of primary jurisdiction (except where the Speaker determines that extraordinary circumstances justify review by more than one committee as though primary);</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-2-c-2">
+              <num value="2">(2)</num>
+              <p>may refer the matter to one or more additional committees for consideration in sequence, either initially or after the matter has been reported by the committee of primary jurisdiction;</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-2-c-3">
+              <num value="3">(3)</num>
+              <p>may refer portions of the matter reflecting different subjects and jurisdictions to one or more additional committees;</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-2-c-4">
+              <num value="4">(4)</num>
+              <p>may refer the matter to a special, ad hoc committee appointed by the Speaker with the approval of the House, and including members of the committees of jurisdiction, for the specific purpose of considering that matter and reporting to the House thereon;</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-2-c-5">
+              <num value="5">(5)</num>
+              <p>may subject a referral to appropriate time limitations; and</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-2-c-6">
+              <num value="6">(6)</num>
+              <p>may make such other provision as may be considered appropriate.</p>
+            </subparagraph>
+            <note>
+              <p>This provision became effective as part of the rules on January 3, 1975 (H. Res. 988, 93d Cong., Oct. 8, 1974, p. 34470). Before that time a bill or resolution could not be divided for reference among two or more committees, although it contained matter properly within the jurisdiction of several committees (IV, 4361). Paragraph (c) was amended on January 4, 1977 (H. Res. 5, pp. 53–70) to authorize the Speaker to place an appropriate time limit for consideration by the first committee or committees to which referred. In the 104th Congress paragraph (c) was again amended to require the Speaker to initially designate a committee of primary jurisdiction in each referral of a measure to more than one committee (sec. 205, H. Res. 6, Jan. 4, 1995, p. 467). In the 108th Congress the parenthetical exception in paragraph (c)(1) was added (sec. 2(i), H. Res. 5, Jan. 7, 2003, p. 7). A paragraph (e) was added to the clause on January 4, 1977 (H. Res. 5, pp. 53–70) to abolish the legislative jurisdiction in the House of the Joint Committee on Atomic Energy. The legislative jurisdiction of the Joint Committee was divided among the Committees on Armed Services (military applications of nuclear energy), Interior and Insular Affairs (now Natural Resources) (regulation of the domestic nuclear energy industry, since transferred to the Committee on Energy and Commerce in the 104th Congress), Foreign Affairs (nonproliferation of nuclear energy and international nuclear export agreements), Interstate and Foreign Commerce (now Energy and Commerce) (the same jurisdiction over nuclear energy as exercised over other energy), and Science, Space, and Technology (nondefense nuclear research and development). In addition, the Committee on Interstate and Foreign Commerce (now Energy and Commerce) was given oversight jurisdiction over all laws, programs, and government activities affecting nuclear energy. Paragraph (e) was deleted entirely in the 97th Congress (H. Res. 5, Jan. 5, 1981, p. 98). At the same time the House deleted former paragraph (d), which required the Congressional Research Service of the Library of Congress to prepare factual descriptions of each bill or resolution introduced in the House to be published in the Congressional Record. A gender-based reference was eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. __). Before the House recodified its rules in the 106th Congress, this provision was found in former clause 5 of rule X (H. Res. 5, Jan. 6, 1999, p. 47).</p>
+              <p>An order of the House precluding or limiting the potential for organizational or legislative business on certain days was considered not to deprive Members of the privilege of introducing bills and resolutions during pro forma sessions on those days, such measures being numbered on the day introduced but not noted in the Record or referred to committee until the day on which business was resumed (H. Con. Res. 260, Nov. 26, 1991, p. 35840, extended by unanimous consent on Jan. 22, 1992, p. 149, and Jan. 28, 1992, p. 745; H. Res. 619, Dec. 16, 2005, p. 29054, amended by H. Res. 640, Dec. 18, 2005, p. 30378; H. Res. 877, Dec. 18, 2007, p. __).</p>
+              <p>Under clause 2(c), the Speaker may (1) refer a bill to more than one committee for their respective consideration of such provisions of the bill as fall within their jurisdiction (Speaker Albert, Feb. 25, 1976, p. 4315), (2) divide a matter for initial reference to committees (Speaker Albert, Feb. 4, 1975, p. 2253; Speaker Hastert, Apr. 26, 1999, p. 7354), or (3) refer designated portions of a bill to one committee while referring the entire bill to another committee (Speaker O’Neill, Mar. 3, 1982, p. 3155). The Speaker also may set appropriate time limitations on the initial reference to each committee (Speaker O’Neill, Feb. 16, 1977, p. 4532; Speaker O’Neill, May 2, 1977, p. 13184). For example, the Speaker may refer a bill to two committees, with a time limit on one of the committees ending within a certain period after the other committee reports to the House (Speaker O’Neill, Jan. 27, 1983, p. 937; Speaker O’Neill, Feb. 2, 1983, p. 1492; Speaker Wright, Apr. 9, 1987, p. 8665) or with a time limit on one committee ending with a date certain (Speaker O’Neill, July 31, 1985, p. 21936; Speaker Hastert, Mar. 13, 2001, p. 3448; Speaker Hastert, July 26, 2002, p. 15146). The Speaker may discharge a committee from further consideration of a bill not reported by it within the time for which the bill was referred and place the bill on the appropriate calendar (Speaker O’Neill, May 8, 1978, p. 12924).</p>
+              <p>Before paragraph (c) was amended in the 104th Congress to require the Speaker to designate a committee of primary jurisdiction, the Speaker announced at the convening of the 98th Congress that he would exercise his authority, in situations that warranted it, to designate a primary committee among those to which a bill was jointly referred, and to impose time limits on committees having a secondary interest following the report of the primary committee under a joint referral (Speaker O’Neill, Jan. 3, 1983, p. 54; reiterated by Speaker Foley, Jan. 5, 1993, p. 105). The Speaker may refer a bill primarily to one committee while also referring it initially to additional committees for time periods to be subsequently determined when the primary committee reports, in each case for consideration of matters within their respective jurisdictions (Speaker Gingrich, Jan. 4, 1995, p. 123).</p>
+              <p>Pursuant to clause 2 of rule XIV (formerly clause 2 of rule XXIV), relating to messages from the Senate, the Speaker has discretionary authority to refer from the Speaker’s table to standing committees, Senate amendments to House-passed bills, under any conditions permitted under this provision for introduced bills. The Speaker may for example impose a time limitation for consideration only of a portion of the Senate amendment, not germane to the original House bill, by the standing committee with subject-matter jurisdiction, without referring the remainder of the Senate amendment to the House committee with jurisdiction over the original House bill (Speaker O’Neill, H.R. 31, Mar. 26, 1981, p. 5397). Beginning with the 98th Congress, the Speaker announced a policy of referring nongermane Senate amendments under certain conditions (Speaker O’Neill, Jan. 3, 1983, p. 54; Speaker Foley, Jan. 5, 1993, p. 105).</p>
+              <p id="s816a">Under clause 2(c), the Speaker has authority to sequentially refer a bill reported from a committee to other committees for a time certain for consideration of such portions of the bill as fall within their respective jurisdictions (Speaker Albert, Apr. 9, 1976, p. 10265; Speaker Albert, May 17, 1976, p. 14093). Under that authority, the Speaker may limit a sequential referral to matters having a direct effect on subjects within the committee’s jurisdiction (Speaker O’Neill, Apr. 5, 1982, p. 6580; Speaker O’Neill, June 7, 1983, p. 14699; Speaker Wright, Sept. 9, 1987, p. 23648). For example, the Speaker sequentially referred a bill reported by the Committee on Energy and Commerce to the Committee on the Judiciary for a specified time for consideration of “such provisions of the bill and amendment recommended by the Committee on Energy and Commerce as propose to narrow the purview of the Attorney General under section 271 of the Communications Act of 1934” (Speaker Hastert, May 24, 2001, p. 9384). The Speaker exercised authority under this clause to sequentially refer a joint resolution making continuing appropriations, reported as privileged by the Committee on Appropriations, to the committee having legislative jurisdiction over a legislative provision in the resolution, without a time limitation on the sequential referral (Speaker O’Neill, Sept. 22, 1983, p. 25523).</p>
+              <p>The Speaker has sometimes announced the application of the authority on sequential referrals at the outset of a Congress. For example, in the 97th Congress, the Speaker announced that the sequential referral of a measure would be based on the subject matter of any amendment recommended by the reporting committee, as well as upon the original text of the measure (Speaker O’Neill, Jan. 5, 1981, pp. 115, 116). In the 100th Congress, the Speaker announced that, in certain cases, a sequential referral would be based only upon the text of a reported substitute amendment in lieu of original text (Speaker Wright, Jan. 6, 1987, p. 22). The Speaker has sequentially referred (1) a bill for consideration of the bill and amendment of the previous committee (Speaker O’Neill, Oct. 13, 1977, p. 33716); (2) a bill to two committees for different periods of time, solely for consideration of designated sections of the first committee’s recommended amendment (Speaker O’Neill, May 18, 1982, p. 10418; Speaker O’Neill, Aug. 1, 1985, p. 22681); (3) a bill for consideration by a third committee of a portion of an amendment in the nature of a substitute recommended by one of the committees to which the bill had been initially referred (Speaker O’Neill, May 22, 1985, p. 13126); (4) a bill back to the first-reporting committee when it was reported from the second-reporting committee with a nongermane amendment within the jurisdiction of the first committee and not within the bounds of the initial referral (Speaker Wright, Oct. 4, 1988, p. 28242). The Speaker also may base a sequential referral only on the text of the bill as introduced, even if a bill is reported by the primary committee with an amendment in the nature of a substitute (Speaker Gingrich, Sept. 12, 1995, p. 24791). For example, the Speaker sequentially referred a bill where the amendment recommended by the primary committee would delete portions of the bill within the jurisdiction of the sequential committee (Speaker Hastert, May 10, 1999, p. 8690).</p>
+              <p>In the 96th Congress, the Speaker followed a more restrictive policy, permitting a sequential committee to review (1) those portions of introduced text within its jurisdiction and (2) those portions of an amendment within its jurisdiction when the introduced version also warranted a sequential referral to the committee (Speaker O’Neill, Apr. 15, 1980, p. 7760). The Speaker first exercised the authority to base referrals on committee amendments by sequentially referring a bill reported from the Committee on Public Works and Transportation (now Transportation and Infrastructure), relating only to Corps of Engineers’ water projects as introduced but amended in committee to address general water resource policy affecting irrigation and reclamation projects and soil conservation programs, to the Committees on Agriculture and Interior and Insular Affairs (now Natural Resources) for consideration of provisions of the committee amendment within their jurisdiction (Speaker O’Neill, May 20, 1981, p. 10361).</p>
+              <p>The Speaker may (1) discharge a measure from the Union Calendar and sequentially refer it to another committee (Speaker O’Neill, Apr. 27, 1978, p. 11742; Speaker O’Neill, May 21, 1982, p. 11169; Speaker O’Neill, June 19, 1986, p. 14741; Speaker Foley, June 12, 1990, p. 13670; Speaker Hastert, Nov. 30, 2001, p. 23681); (2) sequentially refer a bill that has been initially referred to several committees but reported only by one, for consideration of the reporting committee’s amendment (Speaker O’Neill, June 17, 1982, p. 14069; Speaker Foley, Sept. 5, 1990, p. 23477); and (3) sequentially refer a bill referred to more than one committee when the first committee reports, for a period ending a number of days after the next committee reports (Speaker O’Neill, Aug. 1, 1985, p. 22681), or after all committees report (Speaker Wright, June 10, 1988, p. 14079).</p>
+              <p>The Speaker may (1) extend the time of a sequentially referred bill and may refer the bill to yet another committee under the same sequential referral conditions (Speaker Albert, June 1, 1976, p. 16588); (2) delimit the period for sequential consideration of a bill in terms of legislative days (Speaker Wright, June 30, 1988, p. 16597); or (3) sequentially refer a bill without day (Speaker Wright, Sept. 27, 1988, p. 25827). On the last day of an expiring sequential referral, a committee has until midnight to file its report with the Clerk (Oct. 9, 1991, p. 26045).</p>
+              <p id="s816b">Resolutions authorizing the Speaker to establish an ad hoc committee for the consideration of a particular bill under paragraph (c) of this clause, and extending the reporting date for such a committee, are privileged when offered from the floor at the Speaker’s request (Speaker Albert, Apr. 22, 1975, p. 11261; Speaker Albert, Jan. 26, 1976, p. 876; Speaker O’Neill, Jan. 11, 1977, pp. 894–98; Speaker O’Neill, Apr. 21, 1977, pp. 11550–56).</p>
+              <p>Pursuant to the authority under paragraph (c)(4), the Speaker may refer a bill to a special ad hoc committee appointed by the Speaker with the approval of the House (from the members of the committees with legislative jurisdiction) for consideration and report on that particular bill (Speaker Albert, Apr. 22, 1975, p. 11261) or may jointly refer a report of a select committee filed with the Clerk to standing committees of the House for their study (Speaker Albert, Feb. 16, 1976, p. 3158).</p>
+              <p>The Speaker may refer to an ad hoc committee, established with the approval of the House, bills, resolutions, and other matters (including messages and communications) for the purpose of considering such matters and reporting to the House thereon, and the resolution creating such a committee may specify whether referrals to such a committee shall be by initial or sequential reference or by any of the other methods provided by this clause (H. Res. 508, Apr. 21, 1977, pp. 11550–56; Speaker O’Neill, July 11, 1977, p. 22183; Speaker O’Neill, July 20, 1977, p. 24167). For a discussion of Speaker’s referrals to the former Select Committees on Homeland Security, see §723b, <i>supra</i>.</p>
+              <p>Clause 7 provides the mechanism for changes of referrals erroneously made.</p>
+            </note>
+          </paragraph>
+          <paragraph id="rule-XII-2-d">
+            <num value="d">(d)</num>
+            <p id="s817">A bill for the payment or adjudication of a private claim against the Government may not be referred to a committee other than the Committee on Foreign Affairs or the Committee on the Judiciary, except by unanimous consent.</p>
+            <note>
+              <p>The present form of this paragraph was made effective January 2, 1947, as a part of the Legislative Reorganization Act of 1946 (60 Stat. 812). It was amended several times to conform references to renamed committees (H. Res. 163, Mar. 19, 1975, p. 7343; H. Res. 89, Feb. 5, 1979, p. 1848; sec. 202(b), H. Res. 6, Jan. 4, 1995, p. 467; sec. 213(d), H. Res. 6, Jan. 4, 2007, p. 19). The old rule, adopted in 1885 and amended May 29, 1936, provided that private claims bills be referred to a Committee on Invalid Pensions, Claims, War Claims, Public Lands, and Accounts, in addition to the Committees on Foreign Affairs and the Judiciary. Certain private bills, resolutions and amendments are barred (see §822, <i>infra</i>). Before the House recodified its rules in the 106th Congress, this provision was found in former clause 4 of rule XXI (H. Res. 5, Jan. 6, 1999, p. 47).</p>
+              <p>Under this paragraph unanimous consent is required for the reference of a bill for the payment of a private claim to a committee other than the Committee on the Judiciary or the Committee on Foreign Affairs (May 4, 1978, p. 12615). The Committee on the Judiciary, and not the Committee on Ways and Means, has jurisdiction over a private bill specifying that a certain annuity fund is exempt from taxation under provisions of the Internal Revenue Code (Deschler, ch. 17, §43.22).</p>
+            </note>
+          </paragraph>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Petitions, memorials, and private bills</crossHeading>
+        <clause id="rule-XII-3">
+          <num value="3">3.</num>
+          <p id="s818">If a Member, Delegate, or Resident Commissioner has a petition, memorial, or private bill to present, the Member, Delegate, or Resident Commissioner shall sign it, deliver it to the Clerk, and may specify the reference or disposition to be made thereof. Such petition, memorial, or private bill (except when judged by the Speaker to be obscene or insulting) shall be entered on the Journal with the name of the Member, Delegate, or Resident Commissioner presenting it and shall be printed in the Congressional Record.</p>
+          <note>
+            <p>At the first organization of the House in 1789 the rules then adopted provided for the presentation of petitions to the House by the Speaker and Members, and for the introduction of bills by motion for leave. In 1842 it was found necessary, in order to save time, to provide that petitions and memorials should be filed with the Clerk. In 1870, 1879, and 1887 the practice as to petitions was extended to private bills, at first as to certain classes and later so that all should be filed with the Clerk (IV, 3312, 3365; VII, 1024). A gender-based reference was eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. __). Before the House recodified its rules in the 106th Congress, this provision was found in former clause 1 of rule XXII (H. Res. 5, Jan. 6, 1999, p. 47).</p>
+            <p id="s819">Petitions, memorials, and other papers addressed to the House may be presented by the Speaker as well as by a Member (IV, 3312). Petitions from the country at large are presented by the Speaker in the manner prescribed by the rule (III, 2030; IV, 3318; VII, 1025). A Member may present a petition from the people of another State (IV, 3315, 3316). The House itself may refer one portion of a petition to one committee and another portion to another committee (IV, 3359, 3360), but ordinarily the reference of a petition does not come before the House itself. A committee may receive a petition only through the House (IV, 4557).</p>
+            <p id="s820">The parliamentary law provides that the House may commit a portion of a bill, or a part to one committee and part to another (V, 5558), yet under the practice of the House until January 3, 1975, a bill or joint resolution could not be divided for reference, although it might contain matters properly within the jurisdiction of several committees (IV, 4372, 4376). On that date, the Speaker was given authority over referral of bills as prescribed in clause 2 of this rule (formerly clause 5 of rule X). In the 106th Congress the Speaker referred a bill by title to two committees (H.R. 1554, Apr. 26, 1999, p. 7355).</p>
+            <p id="s821">The fraudulent introduction of a bill involves a question of privilege, and a bill so introduced was ordered stricken from the files (IV, 3388). As the result of the unauthorized introduction of several bills without the knowledge of the Members listed as sponsors, the Speaker directed that all bills and resolutions must be signed by the prime sponsor thereof in order to be accepted for introduction (Speaker Albert, Feb. 3, 1972, p. 2521).</p>
+          </note>
+        </clause>
+        <clause id="rule-XII-4">
+          <num value="4">4.</num>
+          <chapeau id="s822">A private bill or private resolution (including an omnibus claim or pension bill), or amendment thereto, may not be received or considered in the House if it authorizes or directs—</chapeau>
+          <paragraph id="rule-XII-4-a">
+            <num value="a">(a)</num>
+            <p>the payment of money for property damages, for personal injuries or death for which suit may be instituted under the Tort Claims Procedure provided in title 28, United States Code, or for a pension (other than to carry out a provision of law or treaty stipulation);</p>
+          </paragraph>
+          <paragraph id="rule-XII-4-b">
+            <num value="b">(b)</num>
+            <p>the construction of a bridge across a navigable stream; or</p>
+          </paragraph>
+          <paragraph id="rule-XII-4-c">
+            <num value="c">(c)</num>
+            <p>the correction of a military or naval record.</p>
+            <note>
+              <p>This paragraph derives from section 131 of the Legislative Reorganization Act of 1946 (60 Stat. 812) and was made a part of the standing rules January 3, 1953 (p. 24). Before the House recodified its rules in the 106th Congress, this provision was found in former clause 2(a) of rule XXII (H. Res. 5, Jan. 6, 1999, p. 47). The prohibition relating to correction of a military record does not apply to a private bill that changes the computation of retired pay for a former member of the armed services (after exhaustion of administrative remedies) but does not directly correct the military record (Sept. 18, 1984, p. 25824).</p>
+            </note>
+          </paragraph>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Prohibition on commemorations</crossHeading>
+        <clause id="rule-XII-5">
+          <num value="5">5.</num>
+          <paragraph id="rule-XII-5-a">
+            <num value="a">(a)</num>
+            <p id="s823">A bill or resolution, or an amendment thereto, may not be introduced or considered in the House if it establishes or expresses a commemoration.</p>
+          </paragraph>
+          <paragraph id="rule-XII-5-b">
+            <num value="b">(b)</num>
+            <p>In this clause the term “commemoration” means a remembrance, celebration, or recognition for any purpose through the designation of a specified period of time.</p>
+          </paragraph>
+          <note>
+            <p>The 104th Congress added the prohibition against commemorative legislation and directed the Committee on Government Reform and Oversight (now Oversight and Government Reform) to consider alternative means for establishing commemorations, including the creation of an independent or executive branch commission for such purpose, and to report to the House any recommendations thereon (sec. 216, H. Res. 6, Jan. 4, 1995, p. 468). No recommendations were reported. Before the House recodified its rules in the 106th Congress, this provision was found in former clause 2(b) of rule XXII (H. Res. 5, Jan. 6, 1999, p. 47). The House by unanimous consent waived the prohibition against introduction of a certain joint resolution specified by sponsor and title proposing a commemoration (which was contained in the resolving clause and not merely in the preamble) (Oct. 24, 2001, p. 20545).</p>
+          </note>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Excluded matters</crossHeading>
+        <clause id="rule-XII-6">
+          <num value="6">6.</num>
+          <p id="s824">A petition, memorial, bill, or resolution excluded under this rule shall be returned to the Member, Delegate, or Resident Commissioner from whom it was received. A petition or private bill that has been inappropriately referred may, by direction of the committee having possession of it, be properly referred in the manner originally presented. An erroneous reference of a petition or private bill under this clause does not confer jurisdiction on a committee to consider or report it.</p>
+          <note>
+            <p>This clause of the rule was first adopted in 1880, although the portion relating to the return of certain petitions and bills was adapted from an older rule of 1842 (IV, 3312, 3365). In the 104th Congress it was amended to conform to the new prohibition against commemorative legislation (sec. 216, H. Res. 6, Jan. 4, 1995, p. 468). Before the House recodified its rules in the 106th Congress, this provision was found in former clause 3 of rule XXII (H. Res. 5, Jan. 6, 1999, p. 47).</p>
+            <p>Errors in reference of petitions, memorials, or private bills are corrected at the Clerk’s table, without action by the House, at the suggestion of the committee holding possession (IV, 4379). As provided in the rule, the erroneous reference of a private House bill does not confer jurisdiction, and a point of order is good when the bill comes up for consideration either in the House or in the Committee of the Whole (IV, 4382–4389). But in cases where the House itself refers a private House or Senate bill a point of order may not be raised as to jurisdiction (IV, 4390, 4391; VII, 2131). The Speaker may correct the erroneous referral of a bill as private by referring it to the appropriate (Union) calendar as a public bill when reported (June 1, 1988, p. 13184).</p>
+          </note>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Sponsorship</crossHeading>
+        <clause id="rule-XII-7">
+          <num value="7">7.</num>
+          <paragraph id="rule-XII-7-a">
+            <num value="a">(a)</num>
+            <p id="s825">Bills, memorials, petitions, and resolutions, endorsed with the names of Members, Delegates, or the Resident Commissioner introducing them, may be delivered to the Speaker to be referred. The titles and references of all bills, memorials, petitions, resolutions, and other documents referred under this rule shall be entered on the Journal and printed in the Congressional Record. An erroneous reference may be corrected by the House in accordance with <ref href="HMAN-112-pg429.xml#rule-X">rule X</ref> on any day immediately after the Pledge of Allegiance to the Flag by unanimous consent or motion. Such a motion shall be privileged if offered by direction of a committee to which the bill has been erroneously referred or by direction of a committee claiming jurisdiction and shall be decided without debate.</p>
+          </paragraph>
+          <paragraph id="rule-XII-7-b">
+            <num value="b">(b)</num><subparagraph id="rule-XII-7-b-1"><num value="1">(1)</num>
+              <p>The sponsor of a public bill or public resolution may name cosponsors. The name of a cosponsor added after the initial printing of a bill or resolution shall appear in the next printing of the bill or resolution on the written request of the sponsor. Such a request may be submitted to the Speaker at any time until the last committee authorized to consider and report the bill or resolution reports it to the House or is discharged from its consideration.</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-7-b-2">
+              <num value="2">(2)</num>
+              <p>The name of a cosponsor of a bill or resolution may be deleted by unanimous consent. The Speaker may entertain such a request only by the Member, Delegate, or Resident Commissioner whose name is to be deleted or by the sponsor of the bill or resolution, and only until the last committee authorized to consider and report the bill or resolution reports it to the House or is discharged from its consideration. The Speaker may not entertain a request to delete the name of the sponsor of a bill or resolution. A deletion shall be indicated by date in the next printing of the bill or resolution.</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-7-b-3">
+              <num value="3">(3)</num>
+              <p>The addition or deletion of the name of a cosponsor of a bill or resolution shall be entered on the Journal and printed in the Congressional Record of that day.</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-7-b-4">
+              <num value="4">(4)</num>
+              <p>A bill or resolution shall be reprinted on the written request of the sponsor. Such a request may be submitted to the Speaker only when 20 or more cosponsors have been added since the last printing of the bill or resolution.</p>
+            </subparagraph>
+            <note>
+              <p>The rule of 1789 provided that all bills should be introduced on report of a committee or by motion for leave. By various modifications it was first provided that all classes of private bills should be introduced by filing them with the Clerk, and in 1890 this system was by this rule extended to all public bills (IV, 3365). In the 105th and 107th Congresses paragraph (a) was amended, and in the 112th Congress paragraph (b) was amended, to effect technical corrections (H. Res. 5, Jan. 7, 1997, p. 121; sec. 2(x), H. Res. 5, Jan. 3, 2001, p. 26; sec. 2(f), H. Res. 5, Jan. 5, 2011, p. __). Before the House recodified its rules in the 106th Congress, this provision was found in former clause 4 of rule XXII (H. Res. 5, Jan. 6, 1999, p. 47).</p>
+              <p>At its organization for the 106th Congress the House adopted an order of the House that the first 10 bill numbers be reserved for assignment by the Speaker during a specified period (sec. 2(g), H. Res. 5, Jan. 6, 1999, p. 47). In the 107th and 108th Congresses the House adopted the same order, but extended the applicable time to the entire first session (sec. 3(d), H. Res. 5, Jan. 3, 2001, p. 24; sec. 3(c), H. Res. 5, Jan. 7, 2003, p. 7). In the 108th Congress, the House by unanimous consent extended such authority through the remainder of the Congress (Oct. 4, 2004, p. 20566). In the 109th through 111th Congresses the House adopted the same initial order but for the entire Congress (sec. 3(c), H. Res. 5, Jan. 4, 2005, p. 44; sec. 217, H. Res. 6, Jan. 4, 2007, p. 19; sec. 3(d), H. Res. 5, Jan. 6, 2009, p. __) and the House in the 112th Congress expanded it to reserve the second 10 bill numbers for assignment by the Minority Leader (sec. 3(m), H. Res. 5, Jan. 5, 2011, p. __).</p>
+              <p>The motion for a change of reference and subsidiary motions take precedence over motions to go into the Committee of the Whole for the consideration of appropriation bills and the consideration of conference reports (VII, 2124), and may not be debated (VII, 2126–2128). But the motion is not in order on Calendar Wednesday (VII, 2117), and is not privileged under the rule if the original reference was not erroneous (VII, 2125). The motion may be amended, but the amendment, like the original motion, is subject to the requirement that it be authorized by the committee (VII, 2127). The motion must apply to a single bill and not to a class of bills (VII, 2125).</p>
+              <p>According to the later practice the erroneous reference of a public bill, if it remain uncorrected, in effect gives jurisdiction to the committee receiving it (IV, 4365–4371; VII, 1489, 2108–2113; VIII, 2312). It is too late to move a change of reference after such committee has reported the bill (VII, 2110; VIII, 2312), but the Speaker may, pursuant to authority granted by clause 2 (formerly clause 5 of rule X) effective January 3, 1975 (H. Res. 988, 93d Cong., Oct. 8, 1974, p. 34470), refer a bill sequentially to other committees. All bills and resolutions must be signed by the sponsor thereof (Speaker Albert, Feb. 3, 1972, p. 2521).</p>
+              <p>Joint sponsorship of public bills by not more than 25 Members was authorized in the 90th Congress (H. Res. 42, Apr. 25, 1967, p. 10712). Prior thereto a special committee had reported against this practice and the report had been adopted by the House (VII, 1029). Effective January 3, 1979 (H. Res. 86, 95th Cong., Oct. 10, 1978, p. 34929), paragraph (b) was added to allow unlimited cosponsorship and to provide a mechanism for Members to add their names as cosponsors to bills or resolutions that have already been introduced, up until the bill is finally reported from committee, and on January 15, 1979, the Speaker announced his directive for the processing of lists of cosponsors pursuant to the new clause (Speaker O’Neill, Jan. 15, 1979, p. 19).</p>
+              <p>Although, before the 106th Congress, paragraph (b)(2) only permitted a cosponsoring Member to request unanimous consent to be deleted as a cosponsor, the sponsor of a measure was permitted to request unanimous consent to delete from the permanent Record the name of a cosponsor inadvertently or erroneously listed (Feb. 9, 1982). This practice was codified in the 106th Congress (H. Res. 5, Jan. 6, 1999, p. 47). Unanimous-consent requests to delete Members’ names as cosponsors are not entertained after the last committee authorized to consider the bill has reported to the House (or has been discharged from further consideration) (Oct. 8, 1985, p. 26668; Feb. 10, 2000, p. 982), and the Speaker has vacated unanimous-consent orders of the House to delete cosponsors when advised that the bill had already been reported (Aug. 5, 1987, p. 22458). A Member may request unanimous consent to be deleted as a cosponsor of an unreported bill during its consideration under suspension of the rules and before a final vote thereon (June 9, 1986, p. 12979).</p>
+              <p>By unanimous consent a Member may be added as a cosponsor of an unreported bill if the sponsor is no longer a Member of the House (Aug. 4, 1983, p. 23188; Oct. 3, 2008, p. __), and a designated Member may be authorized to sign and submit lists of additional cosponsors if the actual sponsor is no longer a Member (<i>e.g.</i>, June 23, 1989, p. 13271; Apr. 5, 2000, p. 4487; June 20, 2001, p. 11196; Sept. 21, 2004, p. 18827), but the Chair will not otherwise entertain a request to add cosponsors by a Member other than the sponsor (Mar. 5, 1991, p. 5026). In fact, the Chair will not entertain any unanimous-consent request to add a cosponsor (July 24, 2000, p. 15878), whether such request includes only the Member making the request (Oct. 25, 1995, p. 29352), includes all Members (Dec. 18, 1985, p. 37765), or includes a specified additional sponsor (Jan. 28, 1985, p. 1141; May 23, 1985, p. 13421). Such requests must be made by the sponsor through the hopper not later than the last day on which any committee is authorized to consider and report the measure to the House (Nov. 4, 1997, p. 24413).</p>
+              <p>The Chair does not entertain a unanimous-consent request to designate a co-offeror of an amendment (May 20, 2004, p. 10631; Sept. 14, 2004, p. 18429).</p>
+              <p>At its organization for the 104th Congress the House resolved that each of the first 20 bills and each of the first two joint resolutions introduced in the House in that Congress could have more than one Member reflected as a sponsor (sec. 223(g), H. Res. 6, Jan. 4, 1995, p. 469); and the Speaker stated that all signatures of such “primary” sponsors would be required on the bills (Speaker Gingrich, Jan. 4, 1995, p. 551). A Member was subsequently added as such a “primary” sponsor by unanimous consent (Jan. 18, 1995, p. 1447).</p>
+            </note>
+            <subparagraph id="rule-XII-7-b-5">
+              <num value="5">(5)</num>
+              <p id="s826">When a bill or resolution is introduced “by request,” those words shall be entered on the Journal and printed in the Congressional Record.</p>
+            </subparagraph>
+            <note>
+              <p>This provision was adopted in 1888 (IV, 3366). Before the House recodified its rules in the 106th Congress, it was found in former clause 6 of rule XXII (H. Res. 5, Jan. 6, 1999, p. 47). It has never been the practice of the House to permit the names of the persons requesting the introduction of the bill to be printed in the Record.</p>
+            </note>
+          </paragraph>
+          <paragraph id="rule-XII-7-c">
+            <num value="c">(c)</num><subparagraph id="rule-XII-7-c-1"><num value="1">(1)</num>
+              <p id="s826a">A bill or joint resolution may not be introduced unless the sponsor submits for printing in the Congressional Record a statement citing as specifically as practicable the power or powers granted to Congress in the Constitution to enact the bill or joint resolution. The statement shall appear in a portion of the Record designated for that purpose and be made publicly available in electronic form by the Clerk.</p>
+            </subparagraph>
+            <subparagraph id="rule-XII-7-c-2">
+              <num value="2">(2)</num>
+              <p>Before consideration of a Senate bill or joint resolution, the chair of a committee of jurisdiction may submit the statement required under subparagraph (1) as though the chair were the sponsor of the Senate bill or joint resolution.</p>
+            </subparagraph>
+            <note>
+              <p>Paragraph (c) was added in the 112th Congress (sec. 2(a)(1), H. Res. 5, Jan. 5, 2011, p. __).</p>
+            </note>
+          </paragraph>
+        </clause>
+      </level>
+      <level>
+        <crossHeading>Executive communications</crossHeading>
+        <clause id="rule-XII-8">
+          <num value="8">8.</num>
+          <p id="s827">Estimates of appropriations and all other communications from the executive departments intended for the consideration of any committees of the House shall be addressed to the Speaker for referral as provided in <ref href="HMAN-112-pg657.xml#rule-XIV-2">clause 2 of rule XIV</ref>.</p>
+        </clause>
+      </level>
+      <note>
+        <p>This rule was adopted in 1867 and amended in 1880 (V, 6593). It was renumbered January 3, 1953 (p. 24). Before the House recodified its rules in the 106th Congress, this provision was found in former rule XL (H. Res. 5, Jan. 6, 1999, p. 47). Formerly estimates of appropriations were transmitted through the Secretary of the Treasury (IV, 3573–3576, 4045), but under 31 U.S.C. 1105 they are now included in the budget submitted by the President.</p>
+      </note>
+    </level>
+  </content>
+</document>

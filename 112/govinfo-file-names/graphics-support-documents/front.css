@@ -1,0 +1,29 @@
+
+@import url("house.css");
+
+body { font-size: 16pt }
+
+
+p { margin: 0; text-align: justify }
+
+
+/* cover page */
+
+.cover-page * { font-weight: bold }
+
+.cover-page > p { text-align: center; text-transform: uppercase; margin-top: 14pt }
+.cover-page > .title.large { font-size: 24pt }
+.cover-page > .congress { margin-top: 0 }
+
+
+/* table of contents */
+
+.table-of-contents { margin-top: 5em }
+.table-of-contents > header { text-align: center; font-size: larger; text-transform: uppercase; letter-spacing: 2px }
+.toc { margin-top: 1em }
+.toc > header { text-align: center; font-variant: small-caps }
+.toc > header.uppercase { text-transform: uppercase }
+
+.tocItem:first-of-type { margin-top: 0.5em }
+.tocItem.preamble { font-variant: small-caps }
+.tocItem .number { display: inline-block; width: 7em; text-align: right; font-variant: small-caps }

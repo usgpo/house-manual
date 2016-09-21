@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="rules.xsl" type="text/xsl"?>
+<?xml-stylesheet href="rules.css" type="text/css"?>
+<document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule XXVIII (Reserved)</dc:title>
+    <property name="s-heading" idref="s1104">§1104. Former rule on public debt limit.</property>
+  </meta>
+  <content>
+    <level name="rule" id="rule-XXVIII">
+      <num value="XXVIII">Rule XXVIII</num>
+      <heading>(Reserved.)</heading>
+      <note>
+        <p id="s1104">The rule “Statutory Limit on Public Debt” was repealed in the 112th Congress (sec. 2(d)(2), H. Res. 5, Jan. 5, 2011, p. __). For its text and history, see §1104 of the House Rules and Manual for the 111th Congress (H. Doc. 110–162).</p>
+      </note>
+    </level>
+  </content>
+</document>
