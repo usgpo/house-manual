@@ -1,3 +1,8 @@
+>As of November 16th, 2016, FDsys and **govinfo** will deprecate support for TLS 1.0 connections. Please ensure that crawlers are using modern protocols, including TLS 1.1 or 1.2. 
+
+>This is being done to mitigate vulnerabilities associated with TLS 1.0 and follow NIST guidelines
+
+
 # House Manual #
 
 At the direction of the Committee on Rules within the United States House of Representatives, the Government Publishing Office (GPO), the House Parliamentarian, and the Clerk of the House are making the House Rules and the House Manual for the 112th, 113th and 114th Congresses available in XML format using the United States Legislative Markup schema through GPO’s Federal Digital System (FDsys), govinfo, and Bulk Data repository.     
