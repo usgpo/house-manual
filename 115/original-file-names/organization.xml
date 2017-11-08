@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="organization.xsl" type="text/xsl"?>
+<?xml-stylesheet href="organization.css" type="text/css"?>
+<document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Legislative Reorganization Acts</dc:title>
+    <property name="s-heading" idref="s1106">§1106. Congressional adjournment.</property>
+    <property name="s-heading" idref="s1106a">§1106a. Not a statutory adjournment sine die.</property>
+    <property name="s-heading" idref="s1107">§1107. Preservation of committee hearings.</property>
+    <property name="s-heading" idref="s1108">§1108. Joint Economic Committee.</property>
+    <property name="s-heading" idref="s1109">§1109. Joint Committee on Taxation.</property>
+    <property name="s-heading" idref="s1110">§1110. Joint Committee of Congress on the Library.</property>
+    <property name="s-heading" idref="s1111">§1111. Joint Committee on Printing.</property>
+    <property name="s-heading" idref="s1112">§1112. Joint Congressional Committee on Inaugural Ceremonies.</property>
+    <property name="s-heading" idref="s1112a">§1112a. Former joint committees.</property>
+    <property name="s-heading" idref="s1112b">§1112b. Intelligence.</property>
+    <property name="s-heading" idref="s1112c">§1112c. Former select committees.</property>
+    <property name="s-heading" idref="s1113">§1113. House Commission on Congressional Mailing Standards.</property>
+    <property name="s-heading" idref="s1114">§1114. House Office Building Commission.</property>
+    <property name="s-heading" idref="s1115">§1115. Government Accountability Office.</property>
+    <property name="s-heading" idref="s1116">§1116. Office of Compliance.</property>
+    <property name="s-heading" idref="s1117">§1117. Congressional Research Service.</property>
+    <property name="s-heading" idref="s1118">§1118. Legislative Counsel.</property>
+    <property name="s-heading" idref="s1119">§1119. Congressional Budget Office.</property>
+    <property name="s-heading" idref="s1120">§1120. Law Revision Counsel.</property>
+    <property name="s-heading" idref="s1121">§1121. Technology Assessment.</property>
+    <property name="s-heading" idref="s1122">§1122. Office of the Parliamentarian.</property>
+    <property name="s-heading" idref="s1123">§1123. Speaker’s Office for Legislative Floor Activities.</property>
+    <property name="s-heading" idref="s1124">§1124. Office of Interparliamentary Affairs.</property>
+    <property name="s-heading" idref="s1125">§1125. House Recording Studio.</property>
+    <property name="s-heading" idref="s1125a">§1125a. United States Capitol Preservation Commission.</property>
+    <property name="s-heading" idref="s1125b">§1125b. Office of General Counsel.</property>
+    <property name="s-heading" idref="s1125c">§1125c. Former Office of Emergency Planning, Preparedness, and Operations.</property>
+    <property name="s-heading" idref="s1125d">§1125d. Office of Attending Physician.</property>
+    <property name="s-heading" idref="s1125e">§1125e. Office of Architect of the Capitol.</property>
+    <property name="s-heading" idref="s1125f">§1125f. House Democracy Partnership.</property>
+    <property name="s-heading" idref="s1125g">§1125g. Tom Lantos Human Rights Commission.</property>
+    <property name="s-heading" idref="s1125h">§1125h. Office of Congressional Ethics.</property>
+    <property name="s-heading" idref="s1126">§1126. Organizing caucuses.</property>
+  </meta>
+  <content>
+    <level id="leg-reorg">
+      <heading>LEGISLATIVE REORGANIZATION ACTS</heading>
+      <text>
+        <marker name="horizontal" class="short center"/>
+      </text>
+      <level>
+        <heading>provisions of the legislative reorganization act of 1946 applicable to both houses</heading>
+        <level id="leg-reorg-132">
+          <heading>section 132 of the legislative reorganization act of 1946</heading>
+          <subheading>(2 U.S.C. 198)</subheading>
+          <section id="s1106">
+            <num value="132">Sec. 132.</num>
+            <subsection>
+              <num value="a">(a)</num>
+              <chapeau>Unless otherwise provided by the Congress, the two Houses shall—</chapeau>
+              <paragraph>
+                <num value="1">(1)</num>
+                <p>adjourn sine die not later than July 31 of each year; or</p>
+              </paragraph>
+              <paragraph>
+                <num value="2">(2)</num>
+                <p>in the case of an odd-numbered year, provide, not later than July 31 of such year, by concurrent resolution adopted in each House by rollcall vote, for the adjournment of the two Houses from that Friday in August which occurs at least thirty days before the first Monday in September (Labor Day) of such year to the second day after Labor Day.</p>
+              </paragraph>
+            </subsection>
+            <subsection>
+              <num value="b">(b)</num>
+              <p>This section shall not be applicable in any year if on July 31 of such year a state of war exists pursuant to a declaration of war by the Congress.</p>
+            </subsection>
+          </section>
+          <note>
+            <p>The present form of this section is derived from the Legislative Reorganization Act of 1970 (sec. 461; 84 Stat. 1140). Before that revision, the 1946 Act (60 Stat. 812) provided for adjournment sine die of the two Houses not later than the last day of July each year except during time of war or a national emergency proclaimed by the President. Presidentially declared emergencies of May 8, 1939, May 27, 1941, and December 16, 1950, negated operation of the provision (see Speaker Rayburn, Aug. 1, 1949, p. 10486; Aug. 2, 1949, p. 10591; Aug. 4, 1949, p. 10778).</p>
+            <p>The Committee on Rules has jurisdiction of matters relative to recesses and final adjournment of Congress (clause 1(n)(2) of rule X).</p>
+            <p id="s1106a">Under this provision of law, a concurrent resolution providing in an odd-numbered year for an adjournment of the two Houses from the first Friday in August until the second day after Labor Day or until notified to reassemble pursuant to a joint agreement of the Leadership of the two Houses is called up as privileged, requires a yea and nay vote for adoption (July 30, 1973, p. 26657), and is not debatable (July 31, 1991, p. 20675); but the House may adjourn by simple motion on July 31 to meet on August 1 (<i>e.g.</i>, July 31, 1991, p. 20677) or may adjourn by declaration of the Chair enabled by a special order of business on July 31 to meet within the limits of article I, section 5, clause 4 of the Constitution (<i>e.g.</i>, July 31, 2015, p. __). In even-numbered years, and some odd-numbered years, the House has agreed to concurrent resolutions waiving the provisions of this law to provide that the two Houses shall not adjourn for more than three days or sine die until they have adopted a concurrent resolution to that effect (July 25, 1972, p. 25145; July 24, 1974, p. 25008; July 29, 1982, pp. 18562, 18563; July 30, 1986, p. 18146; July 29, 1994, p. 18615; July 30, 1999, p. 18763). To obviate the necessity to adopt a concurrent resolution waiving the requirement in section 132 of Legislative Reorganization Act of 1946, the House has included the language “in consonance with section 132(a)” in its concurrent resolutions providing for an August recess (<i>e.g.</i>, July 31, 1997, p. 17018; July 25, 2003, p. 19752).</p>
+          </note>
+        </level>
+        <level id="leg-reorg-141">
+          <heading>section 141 of the legislative reorganization act of 1946</heading>
+          <subheading>(2 U.S.C. 145a)</subheading>
+          <section id="s1107">
+            <num value="141">Sec. 141.</num>
+            <p>The Librarian of the Library of Congress is authorized and directed to have bound at the end of each session of Congress the printed hearings of testimony taken by each committee of the Congress at the preceding session.</p>
+          </section>
+          <note>
+            <p>This provision became effective on August 2, 1946.</p>
+          </note>
+        </level>
+      </level>
+    </level>
+    <level id="joint-select">
+      <heading>JOINT AND SELECT COMMITTEES</heading>
+      <text>
+        <marker name="horizontal" class="short center"/>
+      </text>
+      <level id="joint">
+        <heading>Joint Committees</heading>
+        <note>
+          <p id="s1108">The Joint Economic Committee is composed of 10 Members of the Senate and 10 Members of the House, who are appointed by the President of the Senate and the Speaker, respectively. Each appoints six Members from the majority and four from the minority (15 U.S.C. 1024(a)). The committee conducts a continuing study of matters relating to the Economic Report made by the President and studies means of promoting the national policy on employment as outlined in the Employment Act of 1946 (15 U.S.C. 1021). The committee is required to file, not later than March 1 of each year, a report with the Senate and the House containing its findings and recommendations on each of the main recommendations made by the President in the Economic Report. It is authorized to hold hearings and make other reports to the Congress and to issue a monthly publication on economic conditions (15 U.S.C. 1024, 1025). The Full Employment and Balanced Growth Act of 1978 (sec. 302, P.L. 95–523) requires the joint committee to review and analyze the short-term and medium-term goals set forth in the Economic Report and to hold hearings on the report. Within 30 days after receipt of the report by the Congress, standing committees with legislative jurisdiction and joint committees may submit reports to the joint committee with views and recommendations on matters within their jurisdiction. On or before each March 15, a majority of the members of the joint committee are required to submit a report to the Senate and House Committees on the Budget, including findings, recommendations, and appropriate analyses with respect to each of the short-term and medium-term goals set forth in the Economic Report.</p>
+          <p id="s1109">The Joint Committee on Taxation is composed of five Members of the Senate and five Members of the House. The House Members, three from the majority and two from the minority, are chosen by the Committee on Ways and Means from the membership of that committee. The joint committee investigates the operation and effects of the Federal system of internal revenue taxation. It is authorized to hold hearings at times and places it deems advisable, has subpoena power, and reports to the Committee on Ways and Means, and, in its discretion, directly to the House (26 U.S.C. 8001–8023).</p>
+          <p id="s1110">The Joint Committee of Congress on the Library is composed of five Members of the Senate (the chair and four members of the Committee on Rules and Administration) and five Members of the House. House membership consists of the chair and four members of the Committee on House Administration (2 U.S.C. 132b). The chair of the Subcommittee on the Legislative Branch of the Committee on Appropriations of the House also serves as a member (sec. 1(a)(4), P.L. 106–554).</p>
+          <p id="s1111">The Joint Committee on Printing is composed of five Members of the Senate (the chair and four members of the Committee on Rules and Administration) and five Members of the House (the chair and four members of the Committee on House Administration) (44 U.S.C. 101). The committee adopts and employs measures necessary to remedy inefficiencies or waste in the public printing and binding and the distribution of Government publications. It has control of the arrangement and style of the Congressional Record (44 U.S.C. 901–910). The joint committee is directed to provide for printing in the Record the legislative program for the day, together with a list of congressional committee meetings and hearings and the place of meeting and subject matter; and to cause a brief resume of congressional activities for the previous day to be incorporated in the Record, together with an index of its contents. Such data is prepared under the supervision of the Secretary of the Senate and the Clerk of the House.</p>
+          <p id="s1112">The Joint Congressional Committee on Inaugural Ceremonies is established by concurrent resolution in the second session of the Congress preceding a Presidential inauguration and is reestablished at the beginning of the next Congress. It is composed of three Members of the House and three Senators. The three House Members are appointed by the Speaker and are traditionally the Speaker, the Majority Leader, and the Minority Leader. The committee is authorized to make the necessary arrangements for the inauguration of the President-elect and Vice President-elect. (see, <i>e.g.</i>, S. Con. Res. 28, 114th Cong., Feb. 3, 2016, p. __; S. Con. Res. 1, 115th Cong., Jan. 3, 2017, p. __).</p>
+          <p id="s1112a">For a history of joint committees with the Senate, see House Practice, ch. 11, §14.</p>
+        </note>
+      </level>
+      <level id="select">
+        <heading>Select Committees</heading>
+        <note>
+          <p id="s1112b">The Permanent Select Committee on Intelligence is reestablished by the adoption of clause 11 of rule X each Congress.</p>
+          <p id="s1112c">For a history of select committees in the House, see House Practice, ch. 11, §§12, 13. For a discussion of the former Select Committees on Ethics, see §738, <i>supra</i>; and for a discussion of the two former Select Committees on Homeland Security, see §723b, <i>supra</i>.</p>
+        </note>
+      </level>
+    </level>
+    <level id="offices">
+      <heading>HOUSE AND CONGRESSIONAL OFFICES</heading>
+      <text>
+        <marker name="horizontal" class="short center"/>
+      </text>
+      <note>
+        <p id="s1113">Members may send through the mails, under their frank, certain documents and materials as provided by 39 U.S.C. 3210, subject to the limitations prescribed in rule XXIV, <i>supra</i>. The House Commission on Congressional Mailing Standards, composed of six Members, provides advice in connection with franking privileges (sec. 5, P.L. 93–191).</p>
+        <p id="s1114">Rooms in the House Office Buildings are assigned pursuant to the Act of May 28, 1908 (2 U.S.C. 2004–2011) and pursuant to regulations of the House Office Building Commission (see regulations promulgated Oct. 7, 1996). The commission also issues regulations governing the House Office Buildings, House garages, and the Capitol Power Plant (see regulations promulgated December, 1995). The commission is composed of the Speaker and two Members of the House (traditionally the Majority and Minority Leaders) (2 U.S.C. 2001).</p>
+        <p id="s1115">The preparation, utilization, and distribution (to committees and Members) of reports by the Government Accountability Office, and its authority to assign its employees to duty with congressional committees, are regulated by the Legislative Reorganization Act of 1970, §§231–236 (84 Stat. 1140; 31 U.S.C. 711–720). This office was formerly known as the General Accounting Office (31 U.S.C. 702 note).</p>
+        <p id="s1116">The Office of Compliance was established by the Congressional Accountability Act of 1995 (2 U.S.C. 1381). The office is composed of five individuals appointed jointly by the Speaker, the Majority Leader of the Senate, and the Minority Leaders of the House and the Senate. The office has regulatory, enforcement, and educational responsibilities under the Act. The office replaced the Review Panel of the Office of Fair Employment Practices at the beginning of the 105th Congress (see §1101, <i>supra</i>). However, the review panel was reconstituted in the same form as at the end of the 104th Congress to provide for the completion of ongoing proceedings in the 105th Congress (Feb. 25, 1997, p. 2439).</p>
+        <p id="s1117">The organization of the Congressional Research Service of the Library of Congress and its responsibilities to assist Members and committees were provided in the Legislative Reorganization Acts of 1946 and 1970 (60 Stat. 836; 84 Stat. 1140; 2 U.S.C. 166).</p>
+        <p id="s1118">The Office of the Legislative Counsel of the House of Representatives evolved from a Legislative Drafting Service established for the Congress by the Act of February 24, 1919 (40 Stat. 1057, 1141). The provisions of law setting forth the purpose and functions of the current office and providing for its administration are contained in title V of the Legislative Reorganization Act of 1970 (P.L. 91–510; 2 U.S.C. 281) as amended by the Legislative Branch Appropriations Act, 1972 (P.L. 92–51). As stated in section 502 of such title V, the purpose of the office is to advise and assist the House, and its committees and Members, in the achievement of a clear, faithful, and coherent expression of legislative policies.</p>
+        <p id="s1119">The Congressional Budget Office was established by the Congressional Budget Act of 1974 (2 U.S.C. 601). The office is headed by a director, who is appointed by the Speaker and the President pro tempore. Section 202 of the Act (2 U.S.C. 602) outlines the functions of the office, which include providing assistance to the House and Senate Committees on the Budget and Appropriations and the Senate Committee on Finance in the discharge of matters within their jurisdiction and to other committees to assist them in complying with the provisions of the Act.</p>
+        <p id="s1120">The Office of the Law Revision Counsel, to develop a codification of the laws of the United States, was authorized in the 93d Congress by the Committee Reform Amendments of 1974 (sec. 205, H. Res. 988, Oct. 8, 1974, p. 34470, made permanent law by P.L. 93–544 (2 U.S.C. 285)).</p>
+        <p id="s1121">The Office of Technology Assessment, to assist the Congress in indicating the beneficial and adverse impacts of the application of technology, was authorized by the Technology Assessment Act of 1971 (2 U.S.C. 472). The office received funding for 1996 to conduct an orderly shutdown (tit. I, P.L. 104–53) and has not received funding since then.</p>
+        <p id="s1122">A Parliamentarian has been appointed by the Speaker in every Congress since 1927. Before 1927 the “Clerk at the Speaker’s Table” performed the function of the Parliamentarian. In the 95th Congress the House formally and permanently established an Office of the Parliamentarian to be managed, supervised, and administered by a nonpartisan Parliamentarian appointed by the Speaker (H. Res. 502, Apr. 20, 1977, p. 11415, made permanent law by sec. 115 of P.L. 95–94; see 2 U.S.C. 287). The compilation and preparation of the precedents of the House of Representatives were authorized in the 93d Congress by the Committee Reform Amendments of 1974 (sec. 208, H. Res. 988, Oct. 8, 1974, p. 34470, made permanent law by P.L. 93–554, 2 U.S.C. 28a), and the printing and distribution of the precedents were authorized by Public Law 94–551 (2 U.S.C. 28b–e). See also 2 U.S.C. 28, 29.</p>
+        <p id="s1123">In the 104th Congress the House established an office to assist the Speaker in the management of legislative activity on the floor (sec. 223(b), H. Res. 6, 104th Cong., Jan. 4, 1995, p. 469, enacted into law by the Legislative Branch Appropriations Act, 1996 (sec. 103, P.L. 104–53; 2 U.S.C. 5123)).</p>
+        <p id="s1124">This office is responsible for responding to inquiries from, and coordinating visits with, foreign legislative bodies; providing assistance to delegations of Members on official visits to foreign nations; coordinating the activities and responsibilities of the House in connection with participation in various interparliamentary exchanges and organizations; and enabling the House to host meetings with senior government officials and other dignitaries in order to discuss matters relevant to United States relations with other nations (2 U.S.C. 5582).</p>
+        <p id="s1125">The House Recording Studio was established by the Legislative Branch Appropriations Act, 1957 (2 U.S.C. 4131) and provides Members with audio and video recording services. The studio, operated by the Chief Administrative Officer, is under the direction and control of a committee consisting of three Members appointed by the Speaker (2 U.S.C. 4131(c)).</p>
+        <p id="s1125a">The United States Capitol Preservation Commission was established in 1988 (2 U.S.C. 2081) to provide improvements in, preservation of, and acquisitions for the Capitol and to provide works of fine art and other property for display in the Capitol. In the 106th Congress the Commission was given responsibility for the planning, engineering, design, and construction of the Capitol Visitor Center (sec. 310, Legislative Branch Appropriations Act, 2000). Membership on the Commission consists of the Speaker, the President pro tempore (co-chairs), the chair and vice chair of the Joint Committee on the Library, the chairs and ranking minority members of the Committee on Rules and Administration and the Committee on House Administration, the Majority and Minority Leaders of the House and Senate, three Members of the Senate, and three Members of the House.</p>
+        <p id="s1125b">The Office of General Counsel, established by clause 8 of rule II, is authorized by law to appear in any proceeding before a State or Federal court (except the United States Supreme Court) without compliance with admission requirements of such court (2 U.S.C. 5571(a)). Furthermore, the law requires the Attorney General to notify the General Counsel of various decisions and policies (2 U.S.C. 5571(b)).</p>
+        <p id="s1125c">This office, responsible for mitigation and preparedness operations, crisis management and response, resource services, and recovery operations (sec. 905, P.L. 107–117), was established in the 107th Congress and abolished in the 112th Congress, when its functions were transferred to the Sergeant-at-Arms (sec. 105, P.L. 112–74).</p>
+        <p id="s1125d">This office was established in the 70th Congress when the House requested the Secretary of the Navy to detail a medical officer to be in attendance at the Hall of the House during sessions of the House (H. Res. 253, Dec. 5, 1928, p. 101). Currently, the office provides primary care and emergency, environmental, and occupational health services in direct support of Members of Congress and the Supreme Court, staff, visiting dignitaries, and tourists (<i>Support Offices in the House of Representatives: Roles and Authorities</i>, CRS, Feb. 5, 2013).</p>
+        <p id="s1125e">This office, which dates from 1793, operates and maintains the buildings and grounds of the Capitol complex. For further information on the office, see <i>Architect of the Capitol: Appointment Process and Current Legislation</i>, CRS, June 4, 2010. Section 6701 of Public Law 110–28 established within the office a Chief Executive Officer for Visitor Services with responsibility for the operation and management of the Capitol Visitor Center.</p>
+        <p id="s1125f">Established for the 109th (H. Res. 135, Mar. 14, 2005, p. 4527), 110th (H. Res. 24, Jan. 30, 2007, p. 2626), 111th (sec. 4(b), H. Res. 5, Jan. 6, 2009, p. 9), 112th (which first changed its name from the House Democracy Assistance Commission) (sec. 4(a), H. Res. 5, Jan. 5, 2011, p. 80), 113th (sec. 4(b), H. Res. 5, Jan. 3, 2013, p. __), 114th (sec. 4(b), H. Res. 5, Jan. 6, 2015, p. __), and 115th Congresses (sec. 4(a), H. Res. 5, Jan. 3, 2017, p. __), the partnership provides advice and consultation to selected countries. The partnership consists of 20 Members appointed by the Speaker and Minority Leader.</p>
+        <p id="s1125g">Established for the 110th Congress (H. Res. 1451, Sept. 24, 2008, p. 20250), and the 111th through 115th Congresses with modifications to its authority (sec. 4(c), H. Res. 5, Jan. 6, 2009, p. 9; sec. 4(b), H. Res. 5, Jan. 5, 2011, p. 80; sec. 4(c), H. Res. 5, Jan. 3, 2013, p. __; sec. 4(c), H. Res. 5, Jan. 6, 2015, p. __; sec. 4(b), H. Res. 5, Jan. 3, 2017, p. __), the commission promotes internationally recognized human rights. Any Member may join the commission, which is led by co-chairs appointed by the Speaker and Minority Leader, respectively.</p>
+        <p id="s1125h">This office was established in the 110th Congress (H. Res. 895, Mar. 11, 2008, p. 3741), the 111th and 112th Congresses with a modification of its authority to engage consultants (sec. 4(d), H. Res. 5, Jan. 6, 2009, p. 9; sec. 4(c), H. Res. 5, Jan. 5, 2011, p. 80), the 113th Congress with a further modification to the term limits of the governing board (sec. 4(d), H. Res. 5, Jan. 3, 2013, p. __), the 114th Congress with further modifications regarding representation by counsel and prohibiting any action that would deny any person a constitutional right (sec. 4(d), H. Res. 5, Jan. 6, 2015, p. __), and the 115th Congress with further modifications regarding the authority of the Speaker and Minority Leader to appoint the governing board and the terms limits of the governing board (sec. 4(c), H. Res. 5, Jan. 3, 2017, p. __).</p>
+      </note>
+    </level>
+    <level id="early">
+      <heading>EARLY ORGANIZATION OF THE HOUSE</heading>
+      <text>
+        <marker name="horizontal" class="short center"/>
+      </text>
+      <level>
+        <heading>[2 U.S.C. 29<inline style="text-transform:none">a</inline>]</heading>
+        <section>
+          <subsection>
+            <num value="a">(a)</num>
+            <heading>Caucus or conference for incumbent Members reelected to and Members-elect of ensuing Congress; time and procedure for calling</heading>
+            <paragraph id="s1126">
+              <num value="1">(1)</num>
+              <p>The majority leader or minority leader of the House of Representatives after consultation with the Speaker may at any time during any even-numbered year call a caucus or conference of all incumbent Members of his or her political party who have been reelected to the ensuing Congress and all other Members-elect of such party, for the purpose of taking all steps necessary to achieve the prompt organization of the Members and Members-elect of such party for the ensuing Congress.</p>
+            </paragraph>
+            <paragraph>
+              <num value="2">(2)</num>
+              <p>If the majority leader or minority leader calls an organizational caucus or conference under paragraph (1), he or she shall file with the Clerk of the House a written notice designating the date upon which the caucus or conference is to convene. As soon as possible after the election of Members to the ensuing Congress, the Clerk shall furnish each Member-elect of the party involved with appropriate written notification of the caucus or conference.</p>
+            </paragraph>
+            <paragraph>
+              <num value="3">(3)</num>
+              <p>If a vacancy occurs in the office of majority leader or minority leader during any even-numbered year (and has not been filled), the chairman of the caucus or conference of the party involved for the current Congress may call an organizational caucus or conference under paragraph (1) by filing written notice thereof as provided by paragraph (2).</p>
+            </paragraph>
+          </subsection>
+          <subsection>
+            <num value="b">(b)</num>
+            <heading>Payment and reimbursement for travel and per diem expenses for Members attending caucus or conference; exceptions; regulations governing payments and reimbursements; reimbursement vouchers</heading>
+            <paragraph>
+              <num value="1">(1)</num><subparagraph><num value="A">(A)</num>
+                <p>Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section, and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be paid for one round trip between his or her place of residence in the district which he or she represents and Washington, District of Columbia, for the purpose of attending such caucus or conference. Payment shall be made through the issuance of a transportation request form to each such Member-elect or incumbent Member by the Finance Office of the House before such caucus or conference.</p>
+              </subparagraph>
+              <subparagraph>
+                <num value="B">(B)</num>
+                <p>Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section shall in addition be reimbursed on a per diem or other basis for expenses incurred in connection with his or her attendance at such caucus or conference.</p>
+              </subparagraph>
+            </paragraph>
+            <paragraph>
+              <num value="2">(2)</num>
+              <p>Payments and reimbursements to Members-elect under paragraph (1) shall be made as provided (with respect to Members) in the regulations prescribed by the Committee on House Administration with respect to travel and other expenses of committees and Members. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Administration.</p>
+            </paragraph>
+          </subsection>
+          <subsection>
+            <num value="c">(c)</num>
+            <heading>Availability of applicable accounts of House</heading>
+            <p>The applicable accounts of the House of Representatives are made available to carry out the purposes of this section.</p>
+          </subsection>
+          <subsection>
+            <num value="d">(d)</num>
+            <heading>Orientation programs for new Members</heading>
+            <p>With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) of this section shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new Members in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.</p>
+          </subsection>
+        </section>
+        <note>
+          <p>These provisions were originated by a resolution of the 93d Congress (sec. 202, H. Res. 988, Oct. 8, 1974), which was enacted into permanent law (effective Jan. 2, 1975) shortly thereafter (P.L. 93–554, Dec. 27, 1974, 88 Stat. 1777). Amendments were effected in the 104th Congress (sec. 202, P.L. 104–186, Aug. 20, 1996, 110 Stat. 1725), when the House renamed the committee concerned and converted references to its “contingent fund” to “applicable accounts of the House.” Further amendments were effected at the end of the 108th Congress (to apply beginning in the One Hundred Tenth Congress) to permit organizational activity to be scheduled for any period after the general election and before the onset of the new Congress and to include orientation programs (sec. 107, div. G, P.L. 108–447, Dec. 8, 2004, 118 Stat. 3176).</p>
+          <p>Under the former form of the statute, contemplating organizational activity in the month of December, the House occasionally adopted resolutions allowing earlier convening of an organizational caucus or conference (<i>e.g.</i>, H. Res. 666, 106th Cong., Nov. 3, 2000, p. 25993; H. Res. 590, 107th Cong., Oct. 16, 2002, p. 20812; H. Res. 824, 108th Cong., Oct. 6, 2004, pp. 21212, 21213).</p>
+        </note>
+      </level>
+      <level>
+        <heading>[2 U.S.C. 5343]</heading>
+        <section>
+          <heading>Staff expenses for House Members attending organizational caucus or conference</heading>
+          <subsection>
+            <num value="a">(a)</num>
+            <heading>In general</heading>
+            <p>Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under section 29a(a) of this title, and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be entitled to designate one staff person to be paid for one round trip between that person’s place of residence, provided such place of residence is in the district which the Member-elect or incumbent Member represents, and Washington, District of Columbia, for the purpose of accompanying that Member-elect or incumbent Member to such caucus or conference.</p>
+          </subsection>
+          <subsection>
+            <num value="b">(b)</num>
+            <heading>Per diem expenses of staff person</heading>
+            <p>Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under such section 29a(a) of this title shall be entitled to designate one staff person who shall in addition be reimbursed on a per diem or other basis for expenses incurred in accompanying the Member-elect at the time of such caucus or conference.</p>
+          </subsection>
+          <subsection>
+            <num value="c">(c)</num>
+            <heading>Orientation programs for new Members</heading>
+            <p>With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (a) and (b) of this section shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new Members in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.</p>
+          </subsection>
+        </section>
+        <note>
+          <p>These provisions were originated by a resolution of the 94th Congress (H. Res. 10, Jan. 14, 1975), which was then enacted into permanent law (sec. 201, P.L. 94–59, July 25, 1975, 89 Stat. 282). Amendments were effected at the end of the 108th Congress (to apply with respect to the One Hundred Tenth Congress and each succeeding Congress) to conform to the permissible scheduling of organizational activity for any period after the general election and before the onset of the new Congress and to include orientation programs (sec. 107, div. G, P.L. 108–447, Dec. 8, 2004, 118 Stat. 3176).</p>
+        </note>
+      </level>
+      <level>
+        <heading>[2 U.S.C. 5344]</heading>
+        <section>
+          <heading>Payments and reimbursements for certain House staff expenses</heading>
+          <subsection>
+            <num value="a">(a)</num>
+            <p>Payments and reimbursements to staff persons under section 5343 of this title shall be made as provided (with respect to staff) in the regulations prescribed by the Committee on House Administration with respect to travel and other expenses of staff. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Administration.</p>
+          </subsection>
+          <subsection>
+            <num value="b">(b)</num>
+            <p>Additional funds, if any, for staff allowances and office space for use by Members-elect (other than an incumbent Member reelected to the ensuing Congress) shall be authorized by the Committee on House Administration.</p>
+          </subsection>
+        </section>
+        <note>
+          <p>These provisions were originated by a resolution of the 94th Congress (H. Res. 10, Jan. 14, 1975), which was then enacted into permanent law (sec. 201, P.L. 94–59, July 25, 1975, 89 Stat. 282). Amendments were effected in the 104th Congress (sec. 202, P.L. 104–186, Aug. 20, 1996, 110 Stat. 1725), when the House renamed the committee concerned as the Committee on House Oversight. (The committee has since been returned to its earlier name).</p>
+        </note>
+      </level>
+    </level>
+  </content>
+</document>
