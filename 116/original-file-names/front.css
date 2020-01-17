@@ -1,0 +1,77 @@
+
+@import url("house.css");
+
+body { font-size: 16pt }
+
+meta { display: none }
+
+p { margin: 0; text-align: justify }
+
+
+/* cover page */
+
+.cover-page * { font-size: 12pt; font-weight: bold }
+
+table { width: 100%; border-collapse: collapse }
+td { border-bottom: 2px solid black }
+td:last-child { text-align: right }
+
+.cover-page > p { text-align: center; text-transform: uppercase; margin-top: 14pt }
+.cover-page > .title.medium { font-size: 18pt }
+.cover-page > .title.large { font-size: 24pt }
+.cover-page > .congress { margin-top: 0 }
+.cover-page > .name { margin-top: 2em }
+.cover-page > .role { margin-top: 0 }
+.cover-page img { width: 100px }
+.cover-page > .gpo + p { margin-top: 0 }
+.cover-page > .for-sale { font-weight: normal; text-transform: none }
+.cover-page > .for-sale + p { margin-top: 0; font-weight: normal; text-transform: none }
+
+
+/* HR 753 */
+
+.resolution { margin-top: 5em }
+.resolution .docTitle { text-align: center; font-weight: bold; text-transform: uppercase }
+.resolution .chamber { text-align: center; font-variant: small-caps }
+.resolution .date { margin-right: 2em; text-align: right; font-style: italic }
+
+.resolution p { text-indent: 2ch }
+
+.resolution .name { margin-right: 4em; text-align: right; font-variant: small-caps }
+.resolution .role { margin-right: 2em; text-align: right; font-style: italic }
+
+
+/* preface */
+
+.preface { margin-top: 5em }
+.preface > header { text-align: center; font-size: larger; text-transform: uppercase; letter-spacing: 2px }
+.preface > header + p { margin-top: 1em }
+.preface > p { text-indent: 2ch }
+.preface > .name { margin-right: 2em; text-align: right; font-variant: small-caps }
+.preface > .date { margin-left: 2em; font-variant: small-caps }
+
+
+/* table of contents */
+
+.table-of-contents { margin-top: 5em }
+.table-of-contents > header { text-align: center; font-size: larger; text-transform: uppercase; letter-spacing: 2px }
+.toc { margin-top: 1em }
+.toc > header { text-align: center; font-variant: small-caps }
+.toc > header.uppercase { text-transform: uppercase }
+
+.tocItem:first-of-type { margin-top: 0.5em }
+.tocItem.preamble { font-variant: small-caps }
+.tocItem .number { display: inline-block; width: 7em; text-align: right; font-variant: small-caps }
+
+
+/* orders of business */
+
+.general { margin-top: 5em }
+.general > header { text-align: center; text-transform: uppercase }
+.general > section > header { margin-top: 1em; text-align: center; font-variant: small-caps }
+.general p { margin-left: 4ch; text-indent: -2ch }
+
+.special { margin-top: 1em }
+.special > header { text-align: center; text-transform: uppercase }
+.special > section > header { margin-top: 1em; text-align: center; font-variant: small-caps }
+.special section section p { margin-left: 4ch; text-indent: -2ch }

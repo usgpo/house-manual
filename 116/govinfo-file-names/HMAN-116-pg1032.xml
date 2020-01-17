@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="graphics-support-documents/rules.xsl" type="text/xsl"?><?xml-stylesheet href="graphics-support-documents/rules.css" type="text/css"?><document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule XXVIII: Statutory Limit on the Public Debt</dc:title>
+    <property name="s-heading" idref="rule-XXVIII-1">§1104. Public debt limit.</property>
+  </meta>
+  <content>
+    <level name="rule" id="rule-XXVIII">
+      <num value="XXVIII">Rule XXVIII</num>
+      <heading>statutory limit on the public debt</heading>
+      <clause id="rule-XXVIII-1">
+        <num value="1">1.</num>
+        <p id="s1104">Upon adoption by the House of a concurrent resolution on the budget under section 301 or 304 of the Congressional Budget Act of 1974, the Clerk shall prepare an engrossment of a joint resolution suspending the statutory limit on the public debt in the form prescribed in clause 2. Upon engrossment of the joint resolution, the vote by which the concurrent resolution on the budget was adopted by the House shall also be considered as a vote on passage of the joint resolution in the House, and the joint resolution shall be considered as passed by the House and duly certified and examined. The engrossed copy shall be signed by the Clerk and transmitted to the Senate for further legislative action.</p>
+      </clause>
+      <clause id="rule-XXVIII-2">
+        <num value="2">2.</num>
+        <p>The matter after the resolving clause in a joint resolution described in clause 1 shall be as follows: “Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of enactment and ending on September 30, ____.” with the blank being filled with the budget year for the concurrent resolution.</p>
+      </clause>
+      <clause id="rule-XXVIII-3">
+        <num value="3">3.</num>
+        <chapeau>Nothing in this rule shall be construed as limiting or otherwise affecting—</chapeau>
+        <paragraph id="rule-XXVIII-3-a">
+          <num value="a">(a)</num>
+          <p>the power of the House or the Senate to consider and pass bills or joint resolutions, without regard to the procedures under clause 1, that would change the statutory limit on the public debt; or</p>
+        </paragraph>
+        <paragraph id="rule-XXVIII-3-b">
+          <num value="b">(b)</num>
+          <p>the rights of Members, Delegates, the Resident Commissioner, or committees with respect to the introduction, consideration, and reporting of such bills or joint resolutions.</p>
+        </paragraph>
+      </clause>
+      <clause id="rule-XXVIII-4">
+        <num value="4">4.</num>
+        <p>In this rule the term “statutory limit on the public debt” means the maximum face amount of obligations issued under authority of chapter 31 of title 31, United States Code, and obligations guaranteed as to principal and interest by the United States (except such guaranteed obligations as may be held by the Secretary of the Treasury), as determined under section 3101(b) of such title after the application of section 3101(a) of such title, that may be outstanding at any one time.</p>
+      </clause>
+      <note>
+        <p>This rule was added in the 96th Congress by Public Law 96–78 (93 Stat. 589) and was originally applicable to concurrent resolutions on the budget for fiscal years beginning on or after October 1, 1980 (fiscal year 1981). However, in the 96th Congress (H. Res. 642, Apr. 23, 1980, p. 8800), the provisions of that public law amending the Rules of the House were made applicable to the third concurrent resolution on the budget for fiscal year 1980 as well as the first concurrent resolution on the budget for fiscal year 1981 (H. Con. Res. 307, June 12, 1980, pp. 14505–19; see H.J. Res. 569 and H.J. Res. 570, June 13, 1980, p. 14609). Conforming changes were made in clauses 2 and 5 of this rule with the codification of title 31, United States Code, by Public Law 97–258 (96 Stat. 1066). The rule was amended in the 98th Congress (H. Res. 241, June 23, 1983, p. 17162) to reflect the enactment into law (P.L. 98–34) of a new permanent, rather than temporary, debt limit. Clause 2 was rewritten, and clause 1 modified, to change the form of the joint resolution engrossed pursuant to the rule in order to delete references to a temporary debt limit and to reflect instead changes in a permanent debt limit. The rules change also provided that where a budget resolution contains more than one public debt limit figure (for the current and the next fiscal year), only one joint resolution be engrossed, containing the debt limit figure for the current fiscal year with a time limitation, and the debt limit figure for the following fiscal year as the permanent limit. Another conforming change in clause 1 was made in the Balanced Budget and Emergency Deficit Control Act of 1985 (P.L. 99–177, Dec. 12, 1985, p. 36209) to delete reference to a second concurrent resolution on the budget (no longer required under section 310 of the Budget Act). Before the House recodified its rules in the 106th Congress, this provision was found in former rule XLIX. Recodification placed it as rule XXIII (H. Res. 5, Jan. 6, 1999, p. 47). The rule was repealed in the 107th Congress (sec. 2(s), H. Res. 5, Jan. 3, 2001, p. 24), reinstated in the 108th Congress as rule XVII (sec. 2(t), H. Res. 5, Jan. 7, 2003, p. 7), redesignated in the 110th Congress as rule XXVIII (sec. 301, P.L. 110–81), repealed again in the 112th Congress (sec. 2(d)(2), H. Res. 5, Jan. 5, 2011, p. 80), and reinstated in the 116th Congress with the following modifications: (1) changing the form of the joint resolution to make the debt limit inapplicable during the remainder of the budget year of the concurrent resolution on the budget; and (2) triggering the engrossment of a joint resolution upon House adoption of the concurrent resolution on the budget (sec. 102(jj), H. Res. 6, Jan. 3, 2019, p. __).</p>
+        <p>A former version of this rule has been ordered inapplicable to a conference report on a concurrent resolution on the budget (<i>e.g.</i>, H. Res. 131, Mar. 25, 1999, p. 5671; H. Res. 446, Mar. 23, 2000, p. 3442). Under a former version of this rule, the date of final House action in adopting the conference report on the concurrent resolution on the budget, rather than the date of final Senate action, when later, was the appropriate date for deeming the House to have passed the joint resolution (July 14, 1986, p. 16316; Speaker Wright, June 25, 1987, p. 17424).</p>
+      </note>
+    </level>
+  </content>
+</document>

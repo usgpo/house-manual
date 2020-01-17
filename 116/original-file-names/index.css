@@ -1,0 +1,31 @@
+
+@import url("house.css");
+
+body > section > .heading { text-align: center; font-size: larger; letter-spacing: 4px }
+
+th { text-align: left; font-weight: normal }
+
+th + th { text-align: right }
+td + td { text-align: right }
+
+
+i { padding-left: 1ch }
+
+
+th:first-of-type, td:first-of-type { text-indent: -1em }
+
+.entry > th, .entry > td { font-variant: small-caps }
+.entry > th:first-of-type, .entry > td:first-of-type { padding-left: 1em }
+.entry > th > i, .entry > td > i { font-variant: normal }
+
+.subentry > th:first-of-type { padding-left: 3em; font-style: italic }
+.subentry > td:first-of-type { padding-left: 3em }
+
+.subsubentry > th:first-of-type, .subsubentry > td:first-of-type { padding-left: 5em }
+
+.subsubsubentry > td:first-of-type { padding-left: 7em }
+
+span.entry { font-variant: small-caps; font-style: normal }
+
+.italic { font-style: italic !important }
+.normal { font-style: normal !important }

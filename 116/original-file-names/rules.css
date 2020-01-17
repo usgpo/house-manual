@@ -1,0 +1,64 @@
+
+@import url("house.css");
+
+body.clerk .docTitle { font-size: 24pt; font-weight: normal }
+body.clerk > p:nth-of-type(2) { margin-top: 1em }
+
+.term { text-transform: uppercase }
+
+.indent-children > section { margin-left: 1em }
+
+.rule { margin-top: 1em }
+.rule > .num { margin-top: 1em; text-align: center; font-variant: small-caps }
+body.clerk > .rule > .num { font-variant: normal; text-transform: uppercase }
+.rule > .heading { margin-top: 0.5em; text-align: center; font-variant: small-caps }
+
+.rule > .chapeau { margin-top: 1em; text-indent: 1em } /* Rule 23 */
+.rule > .heading + .note { margin-top: 1em } /* Rule 28 */
+
+.crossHeading { margin-top: 1em; margin-left: 2em; text-indent: -2em; font-weight: bold; font-style: italic }
+/* must override margin-left in house.css */
+.note .crossHeading { text-indent: initial; font-weight: normal; font-style: normal }
+
+.rule > .heading + .clause { margin-top: 1em }
+.clause > .num { margin-left: 1em }
+/* .clause > .cut-in-head + .num { margin-left: 0 } */
+.clause > .num + p { display: inline }
+.clause > p + p { text-indent: 1em } /*  Rule XIV clause 1 */
+
+.num + .paragraph { display: inline }
+.paragraph > .num { margin-left: 1em }
+/* .paragraph > .cut-in-head + .num { margin-left: 0 } */
+.paragraph > .heading { font-weight: bold }
+.num + .paragraph > .num { margin-left: 0 }
+.paragraph > .num + p { display: inline }
+.paragraph > .heading + p { margin-left: 2em } /* for rule-X-1-g */
+
+.num + .subparagraph { display: inline }
+.subparagraph > .num { margin-left: 1em }
+.num + .subparagraph > .num { margin-left: 0 }
+.subparagraph > .num + p, .subparagraph > .heading + p { display: inline }
+
+.num + .subdivision { display: inline }
+.subdivision > .num { margin-left: 1em }
+.num + .subdivision > .num { margin-left: 0 }
+.subdivision > .num + p { display: inline }
+
+.num + .item { display: inline }
+.item > .num { margin-left: 1em }
+.num + .item > .num { margin-left: 0 }
+.item > .num + p { display: inline }
+
+.num + .subitem { display: inline }
+.subitem > .num { margin-left: 1em }
+.num + .subitem > .num { margin-left: 0 }
+.subitem > .num + p { display: inline }
+
+
+/* cut-in-head */
+.clause > .cut-in-head { padding-top: 6pt }
+.paragraph.indent-children > .subparagraph > .cut-in-head { left: -18pt }
+
+body.clerk a.footnote { font-style: normal }
+body.clerk .note.footnote > .num { font-style: normal }
+

@@ -1,0 +1,21 @@
+
+@import url("house.css");
+@import url("usc.css");
+
+body > section { margin-top: 5em }
+body > section:first-child { margin-top: 0 }
+
+body > section > .heading { margin: 1em 0; text-align: center; font-size: larger; font-weight: bold }
+body > section > section > .heading { margin: 1em 0; text-align: center; font-size: 16pt; text-transform: uppercase }
+body > section > section > .heading > span { font-size: 20pt; text-transform: none }
+
+body > section > section > .heading + .note p { text-indent: 0 }
+
+.paragraph.no-heading > .heading + .subparagraph { display: inline }
+.paragraph.no-heading > .heading + .subparagraph > .num { margin-left: 0 }
+
+.subparagraph.inline { display: inline }
+.subparagraph.inline > .num { margin-left: 0 }
+
+table { margin-top: 1.5em }
+td { padding-left: 2ch; text-indent: -2ch }
