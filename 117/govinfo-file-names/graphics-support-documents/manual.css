@@ -1,0 +1,311 @@
+
+@page { margin: 1in; }
+
+@media print { body { margin: 0; font-size: 12pt } }
+@media screen { body { margin: 2em 20%; font-size: 20pt } }
+
+body { text-align: justify }
+
+p { margin: 0 }
+
+body > p { text-align: center }
+.docTitle { text-transform: uppercase; font-weight: bold }
+
+
+/* notes */
+
+@media print { .note { font-size: 10pt } }
+@media screen { .note { font-size: 14pt } }
+
+.note { margin-top: 1em; margin-bottom: 1em }
+.note > p, .note > .quotedContent > p { text-indent: 2ch }
+
+.note > .crossHeading { margin-top: 1em; margin-bottom: 1em; margin-left: 4em; margin-right: 4em; text-align: center; font-size: smaller; text-transform: uppercase }
+
+.note > .quotedContent { margin-top: 8pt; margin-bottom: 8pt }
+
+.quotedContent.indent { margin-left: 4ch }
+
+p.indent { margin-left: 2ch }
+p.indent-first { text-indent: 2ch }
+
+
+.small-caps { font-variant: small-caps }
+
+a { text-decoration: none; color: inherit }
+a:hover, a:hover * { text-decoration: underline }
+
+a.footnote { font-size: 10pt; vertical-align: super; font-style: italic }
+.note.footnote > .num { font-size: 10pt; vertical-align: super; font-style: italic }
+.note.footnote > .num + p { display: inline }
+
+p.three-star { margin-top: 0.5em; text-align: center }
+span.three-star { white-space: nowrap }
+
+.five-star { margin: 1em; text-align: center; word-spacing: 10vw }
+
+.cut-in-head {
+	position: relative;
+	width: 8em;
+	margin-right: 1em;
+	float: left;
+	clear: left;
+	font-size: 10pt;
+	font-weight: bold;
+	padding-top: 6pt;
+	padding-bottom: 6pt;
+	text-align: left;
+	text-indent: 0
+}
+
+sup { font-size: 10pt }
+
+hr { margin-top: 1em; margin-bottom: 1em }
+hr.short { width: 1in }
+hr.bold { border-bottom: 2px solid black }
+
+/* these are no longer used */
+.full-space-above { margin-top: 8pt }
+.half-space-above { margin-top: 4pt }
+
+/* FRONT */
+
+#front body { font-size: 16pt }
+
+#front meta { display: none }
+
+#front p { margin: 0; text-align: justify }
+
+/* front > cover page */
+
+#front .cover-page * { font-size: 12pt; font-weight: bold }
+
+#front table { width: 100%; border-collapse: collapse }
+#front td { border-bottom: 2px solid black }
+#front td:last-child { text-align: right }
+
+#front .cover-page > p { text-align: center; text-transform: uppercase; margin-top: 14pt }
+#front .cover-page > .title.medium { font-size: 18pt }
+#front .cover-page > .title.large { font-size: 24pt }
+#front .cover-page > .congress { margin-top: 0 }
+#front .cover-page > .name { margin-top: 2em }
+#front .cover-page > .role { margin-top: 0 }
+#front .cover-page img { width: 100px }
+#front .cover-page > .gpo + p { margin-top: 0 }
+#front .cover-page > .for-sale { font-weight: normal; text-transform: none }
+#front .cover-page > .for-sale + p { margin-top: 0; font-weight: normal; text-transform: none }
+
+/* front > HR 753 */
+
+#front .resolution { margin-top: 5em }
+#front .resolution .docTitle { text-align: center; font-weight: bold; text-transform: uppercase }
+#front .resolution .chamber { text-align: center; font-variant: small-caps }
+#front .resolution .date { margin-right: 2em; text-align: right; font-style: italic }
+
+#front .resolution p { text-indent: 2ch }
+
+#front .resolution .name { margin-right: 4em; text-align: right; font-variant: small-caps }
+#front .resolution .role { margin-right: 2em; text-align: right; font-style: italic }
+
+/* front > preface */
+
+#front .preface { margin-top: 5em }
+#front .preface > header { text-align: center; font-size: larger; text-transform: uppercase; letter-spacing: 2px }
+#front .preface > header + p { margin-top: 1em }
+#front .preface > p { text-indent: 2ch }
+#front .preface > .name { margin-right: 2em; text-align: right; font-variant: small-caps }
+#front .preface > .date { margin-left: 2em; font-variant: small-caps }
+
+/* front > table of contents */
+
+#front .table-of-contents { margin-top: 5em }
+#front .table-of-contents > header { text-align: center; font-size: larger; text-transform: uppercase; letter-spacing: 2px }
+#front .toc { margin-top: 1em }
+#front .toc > header { text-align: center; font-variant: small-caps }
+#front .toc > header.uppercase { text-transform: uppercase }
+
+#front .tocItem:first-of-type { margin-top: 0.5em }
+#front .tocItem.preamble { font-variant: small-caps }
+#front .tocItem > .content { margin-left: 8em; text-indent: -8em }
+#front .tocItem .number { display: inline-block; width: 7em; text-align: right; font-variant: small-caps }
+
+/* front > orders of business */
+
+#front .general { margin-top: 5em }
+#front .general > header { text-align: center; text-transform: uppercase }
+#front .general > section > header { margin-top: 1em; text-align: center; font-variant: small-caps }
+#front .general p { margin-left: 4ch; text-indent: -2ch }
+
+#front .special { margin-top: 1em }
+#front .special > header { text-align: center; text-transform: uppercase }
+#front .special > section > header { margin-top: 1em; text-align: center; font-variant: small-caps }
+#front .special section section p { margin-left: 4ch; text-indent: -2ch }
+
+
+/* CONSTITUTION */
+
+#constitution .preamble { margin-top: 1em }
+
+#constitution .article { margin-top: 1em }
+#constitution .article > .num { display: block; text-align: center }
+#constitution .article > .num + p { margin-top: 0.5em }
+
+#constitution .section { margin-top: 0.5em }
+#constitution .section > .num { margin-left:2ch; font-variant: small-caps }
+#constitution .section > .cut-in-head + .num { margin-left: 0 }
+#constitution .section > .num + p { display: inline }
+#constitution .section > .num + section > p:first-child { display: inline }
+
+#constitution .article > .num + .clause { margin-top: 0.5em } /* Art VI, clause 1 */
+#constitution .section > .num + .clause { display: inline }
+#constitution .section > .chapeau + .clause { display: inline }
+#constitution .clause > .num { font-size: 10pt; vertical-align: super }
+#constitution .clause > .num + p { display: inline }
+#constitution .clause > .num + section > p:first-child { display: inline }
+
+#constitution .clause > num { font-size: 50%; vertical-align: super }
+
+#constitution .amendments { margin-top: 3em }
+#constitution .amendments > .heading { display: block; font-size: smaller; margin-left: 1em; text-indent: -1em; text-transform: uppercase }
+
+#constitution .amendment { margin-top: 1em }
+#constitution .amendment > .num { display: block; text-align: center }
+#constitution .amendment > .num + p { margin-top: 0.5em }
+
+#constitution table { margin: 1em auto; font-size: smaller }
+#constitution th { padding-top:1em; padding-bottom: 0.5em; font-weight: normal; font-style: italic }
+#constitution .name { font-variant: small-caps }
+#constitution .role { font-style: italic }
+
+#constitution p { margin-top: 0.5em }
+#constitution .note p { margin-top: 0 }
+
+#constitution .quotedContent { margin-top: 3pt; margin-bottom: 3pt }
+
+#constitution .usc .section > .wrapper { margin-top: 1em; margin-bottom: 1em }
+
+
+/* JEFFERSON'S MANUAL */
+
+#jefferson section { margin-top: 1em }
+
+#jefferson .section > .heading { margin-bottom: 1em; text-align: center; text-transform: uppercase }
+
+#jefferson .section > p { text-indent: 1em }
+#jefferson .content > p { text-indent: 1em }
+#jefferson span.text-indent { display: inline-block; text-indent: 1em }
+
+#jefferson .crossHeading { text-align: center; text-transform: uppercase }
+
+#jefferson table { font-size: inherit }
+
+#jefferson .cut-in-head { display: inline-block; text-indent: 0 }
+
+
+/* RULES */
+
+.clerk .docTitle { font-size: 24pt; font-weight: normal }
+.clerk > p:nth-of-type(2) { margin-top: 1em }
+.clerk .term { text-transform: uppercase }
+
+.rule .indent-children > section { margin-left: 1em }
+
+.rule { margin-top: 1em }
+.rule > .num { margin-top: 1em; text-align: center; font-variant: small-caps }
+.clerk > .rule > .num { font-variant: normal; text-transform: uppercase }
+.rule > .heading { margin-top: 0.5em; text-align: center; font-variant: small-caps }
+
+.rule > .chapeau { margin-top: 1em; text-indent: 1em } /* Rule 23 */
+.rule > .heading + .note { margin-top: 1em } /* Rule 28 */
+
+.rule .crossHeading { margin-top: 1em; margin-left: 2em; text-indent: -2em; font-weight: bold; font-style: italic }
+/* must override margin-left in house.css */
+.rule .note .crossHeading { text-indent: initial; font-weight: normal; font-style: normal }
+
+.rule > .heading + .clause { margin-top: 1em }
+.rule .clause > .num { margin-left: 1em }
+/* .clause > .cut-in-head + .num { margin-left: 0 } */
+.rule .clause > .num + p { display: inline }
+.rule .clause > p + p { text-indent: 1em } /*  Rule XIV clause 1 */
+
+.rule .num + .paragraph { display: inline }
+.rule .paragraph > .num { margin-left: 1em }
+/* .paragraph > .cut-in-head + .num { margin-left: 0 } */
+.rule .paragraph > .heading { font-weight: bold }
+.rule .num + .paragraph > .num { margin-left: 0 }
+.rule .paragraph > .num + p { display: inline }
+.rule .paragraph > .heading + p { margin-left: 2em } /* for rule-X-1-g */
+
+.rule .num + .subparagraph { display: inline }
+.rule .subparagraph > .num { margin-left: 1em }
+.rule .num + .subparagraph > .num { margin-left: 0 }
+.rule .subparagraph > .num + p, .subparagraph > .heading + p { display: inline }
+
+.rule .num + .subdivision { display: inline }
+.rule .subdivision > .num { margin-left: 1em }
+.rule .num + .subdivision > .num { margin-left: 0 }
+.rule .subdivision > .num + p { display: inline }
+
+.rule .num + .item { display: inline }
+.rule .item > .num { margin-left: 1em }
+.rule .num + .item > .num { margin-left: 0 }
+.rule .item > .num + p { display: inline }
+
+.rule .num + .subitem { display: inline }
+.rule .subitem > .num { margin-left: 1em }
+.rule .num + .subitem > .num { margin-left: 0 }
+.rule .subitem > .num + p { display: inline }
+
+.rule .clause > .cut-in-head { padding-top: 6pt }
+.rule .paragraph.indent-children > .subparagraph > .cut-in-head { left: -18pt }
+
+.clerk a.footnote { font-style: normal }
+.clerk .note.footnote > .num { font-style: normal }
+
+
+/* USC */
+
+.usc .title > header { text-align: center; font-variant: small-caps }
+
+.usc .crossHeading { margin-top: 1em; margin-bottom: 1em; margin-left: initial; text-align: center; text-transform: uppercase; font-size: smaller }
+
+.usc .indent-children > section { margin-left: 2em }
+
+.usc .section > .num { margin-left: 1em; font-variant: small-caps }
+.usc .section > .heading { font-variant: small-caps }
+
+.style3 .section > header { margin: 0.5em; text-align: center; font-variant: small-caps }
+
+.usc .section > .num + .subsection { display: inline }
+.usc .subsection > .num { margin-left: 1em }
+.usc .section > .num + .subsection > .num { margin-left: 0 } 
+.usc .subsection > .num + p { display: inline }
+.usc .subsection > .heading { font-variant: small-caps }
+.usc .subsection > .heading + p { display: inline }
+
+
+.usc .subsection > .num + .paragraph { margin-left: 0 }
+
+.usc .paragraph.inline { display: inline; margin-left: 0 }
+
+.usc .paragraph > .num { margin-left: 1em }
+.usc .paragraph.inline > .num { margin-left: 0 }
+
+.usc .num + .paragraph > .num { margin-left: 0 }
+
+.usc .paragraph > .num + p { display: inline }
+.usc .paragraph > .heading { font-weight: normal; font-variant: small-caps }
+.usc .paragraph > .heading + p { display: inline; margin-left: 0 }
+
+
+.usc .paragraph > .num + .subparagraph { margin-left: 0 }
+
+.usc .subparagraph > .heading { font-variant: small-caps }
+
+.usc .subparagraph > .num + .clause { display: inline }
+.usc .subparagraph > .num + .clause > .num { margin-left: 0 }
+
+.usc .clause > .num + .subclause { display: inline }
+.usc .subclause > .num { margin-left: 1em }
+.usc .clause > .num + .subclause > .num { margin-left: 0 }
+.usc .subclause > .num + p { display: inline }

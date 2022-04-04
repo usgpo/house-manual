@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet href="graphics-support-documents/manual.xsl" type="text/xsl"?><document xmlns="http://xml.house.gov/schemas/uslm/1.0">
+  <meta xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Rule V: Broadcasting the House</dc:title>
+    <property name="s-heading" idref="rule-V-1">§684. Broadcasting of House proceedings.</property>
+  </meta>
+  <content>
+    <level name="rule" id="rule-V">
+      <num value="V">Rule V</num>
+      <heading>broadcasting the house</heading>
+      <clause id="rule-V-1">
+        <num value="1">1.</num>
+        <p id="s684">The Speaker shall administer, direct, and control a system for closed-circuit viewing of floor proceedings of the House in the offices of all Members, Delegates, the Resident Commissioner, and committees and in such other places in the Capitol and the House Office Buildings as the Speaker considers appropriate. Such system may include other communications functions as the Speaker considers appropriate. Any such communications shall be subject to rules and regulations issued by the Speaker.</p>
+      </clause>
+      <clause id="rule-V-2">
+        <num value="2">2.</num>
+        <paragraph id="rule-V-2-a">
+          <num value="a">(a)</num>
+          <p>The Speaker shall administer, direct, and control a system for complete and unedited audio and visual broadcasting and recording of the floor proceedings of the House. The Speaker shall provide for the distribution of such broadcasts and recordings to news media, for the storage of audio and video recordings of the proceedings, and for the closed-captioning of the proceedings for hearing-impaired persons.</p>
+        </paragraph>
+        <paragraph id="rule-V-2-b">
+          <num value="b">(b)</num>
+          <p>All television and radio broadcasting stations, networks, services, and systems (including cable systems) that are accredited to the House Radio and Television Correspondents’ Galleries, and all radio and television correspondents who are so accredited, shall be provided access to the live coverage of the House.</p>
+        </paragraph>
+        <paragraph id="rule-V-2-c">
+          <num value="c">(c)</num>
+          <chapeau>Coverage made available under this clause, including any recording thereof—</chapeau>
+          <subparagraph id="rule-V-2-c-1">
+            <num value="1">(1)</num>
+            <p>may not be used for any partisan political campaign purpose;</p>
+          </subparagraph>
+          <subparagraph id="rule-V-2-c-2">
+            <num value="2">(2)</num>
+            <p>may not be used in any commercial advertisement; and</p>
+          </subparagraph>
+          <subparagraph id="rule-V-2-c-3">
+            <num value="3">(3)</num>
+            <p>may not be broadcast with commercial sponsorship except as part of a bona fide news program or public affairs documentary program.</p>
+          </subparagraph>
+        </paragraph>
+      </clause>
+      <clause id="rule-V-3">
+        <num value="3">3.</num>
+        <p>The Speaker may delegate any of the responsibilities under this rule to such legislative entity as the Speaker considers appropriate.</p>
+        <note>
+          <p>Before the House recodified its rules in the 106th Congress, this provision was found in former clause 9 of rule I (H. Res. 5, Jan. 6, 1999, p. 47). It was adopted in the 96th Congress (H. Res. 5, Jan. 15, 1979, p. 7). Gender-based references were eliminated in the 111th Congress (sec. 2(l), H. Res. 5, Jan. 6, 2009, p. 7). The requirement that televised broadcasts of proceedings of the House be closed captioned for hearing-impaired individuals was added in the 101st Congress (H. Res. 5, Jan. 3, 1989, p. 72). The authority of the Speaker to make rules governing telecommunications functions within the House was added in the 102d Congress (H. Res. 5, Jan. 3, 1991, p. 39) and broadened to all communications functions in the 113th Congress, along with a clarification that clause 2(a) applies to proceedings on the floor, and a clarification in clause 2(c)(1) of the restrictions on use of coverage (sec. 2(f), H. Res. 5, Jan. 3, 2013, p. 26).</p>
+          <p>In the 95th Congress the House considered as a question of the privileges of the House and adopted a resolution directing the Committee on Rules to investigate the impact on the safety, dignity, and integrity of House proceedings, of a test authorized by the Speaker under the Speaker’s general control over the Hall of the House for the audiovisual broadcast of House proceedings within the Capitol and House Office Buildings (H. Res. 404, Mar. 15, 1977, p. 7608). The resolution directed the Committee on Rules to report to the House at the earliest practicable date its findings and recommendations, including whether such coverage should be made available to the public. The committee reported and the House adopted another resolution that: (1) authorized the Speaker to establish a closed-circuit system for in-House broadcasting of House proceedings; (2) directed the Committee on Rules to study methods for providing complete audio and visual broadcasting of House proceedings and to report to the House thereon; and (3) directed the Speaker after receipt of the committee’s report to establish a system subject to his direction and control for audio and visual broadcast and recording of House proceedings and to provide for distribution and access to the news media (Precedents (Wickham), ch. 4, §3.1). The Speaker, after receipt of that report (H. Rept. 95–881, Feb. 15, 1978), directed implementation of full audio coverage, with distribution to the media, on June 8, 1978 (p. 16746). Public Law 95–391 (Legislative Branch Appropriations Act, 1979) contained the following proviso: “No funds in this bill may be used to implement a system for televising and broadcasting the proceedings of the House pursuant to House Resolution 866, Ninety-Fifth Congress, under which the TV cameras in the Chamber purchased by the House are controlled and operated by persons not in the employ of the House.”</p>
+          <p>Pursuant to this rule, the Speaker directed the Clerk in the 98th Congress to immediately implement periodic wide-angle television coverage of all “special-order” speeches at the end of legislative business (with captions at the bottom of the screen indicating that legislative business has been completed) (Precedents (Wickham), ch. 4, §3.2) but not during “interim” special orders (Precedents (Wickham), ch. 4, §3.4). However, in the 103d and 104th Congresses, the Speaker prohibited wide-angle coverage but continued the caption at the bottom of the screen not only during special-order speeches but also during morning-hour debate (Speaker Foley, Precedents (Wickham), ch. 4, §3.5; Speaker Gingrich, Jan. 4, 1995, p. 551). In the 99th Congress, the House adopted a resolution, raised as a question of the privileges of the House, authorizing and directing the Speaker to provide for the audio and visual broadcast coverage of the Chamber while Members are voting (Precedents (Wickham), ch. 4, §3.7). Although paragraph (a) requires complete and unedited broadcast coverage of House proceedings, the House held (by tabling an appeal of a ruling of the Chair) that it does not require in-House microphone amplification of disorderly conduct by a Member following expiration of recognition for debate (Precedents (Wickham), ch. 4, §3.13).</p>
+        </note>
+      </clause>
+    </level>
+  </content>
+</document>

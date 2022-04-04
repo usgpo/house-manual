@@ -1,0 +1,287 @@
+
+@import url("manual.css");
+
+.title > header { margin-top: 1em; margin-bottom: 1em; text-align: center; font-variant: small-caps }
+.subtitle > header { text-align: center }
+.part > header { text-align: center; font-variant: small-caps }
+
+.crossHeading { margin-top: 1em; margin-bottom: 1em; text-align: center; font-variant: small-caps; font-size: smaller }
+.crossHeading.citation { font-variant: normal }
+.crossHeading.hanging { text-align: justify; padding-left: 2ch; text-indent: -2ch }
+
+.section { margin-top: 0.5em }
+
+.section > .num { margin-left: 2ch; font-variant: small-caps }
+.section > .heading { font-variant: small-caps }
+.section > .num + p { display: inline }
+
+/* subsections */
+
+.subsection > .num { margin-left: 2ch }
+.subsection > .heading { font-variant: small-caps }
+.subsection > .num + p { display: inline }
+.subsection > .heading + p:not(.five-star) { display: inline }
+
+.num + .subsection { display: inline }
+.num + .subsection > .num { margin-left: 0 }
+
+.subsection.inline { display: inline }
+.subsection.inline > .num { margin-left: 0 }
+
+
+/*  paragraphs */
+
+.paragraph { margin-left: 4ch }
+.paragraph > .cut-in-head { left: -8ch }  /*  §1127  */
+@media print { .paragraph > .cut-in-head { left: -4ch } }
+.paragraph > .num { margin-left: 2ch }
+.paragraph > .heading { font-variant: small-caps }
+.paragraph > .num + p { display: inline }
+.paragraph > .heading + p:not(.three-star) { display: inline }
+
+.no-heading > .paragraph { margin-left: 0 }
+.no-heading > .paragraph:first-of-type { display: inline }
+.no-heading > .paragraph:first-of-type.block { display: block }
+.no-heading > .paragraph:first-of-type > .num { margin-left: 0 }
+.no-heading > .paragraph:first-of-type.block > .num { margin-left: 2ch }
+
+.paragraph.inline { display: inline; margin-left: 0 }
+.paragraph.inline > .num { margin-left: 0 }
+
+
+/* subparagraphs */
+
+.subparagraph { margin-left: 4ch }
+.subparagraph > .num { margin-left: 2ch }
+.subparagraph > .heading { font-variant: small-caps }
+.subparagraph > .num + p { display: inline }
+.subparagraph > .heading + p { display: inline }
+
+.no-heading > .subparagraph { margin-left: 0 }
+.no-heading > .subparagraph:first-of-type { display: inline }
+.no-heading > .subparagraph:first-of-type.block { display: block }
+.no-heading > .subparagraph:first-of-type > .num { margin-left: 0 }
+.no-heading > .subparagraph:first-of-type.block > .num { margin-left: 2ch }
+
+.subparagraph.inline { display: inline; margin-left: 0 }
+.subparagraph.inline > .num { margin-left: 0 }
+
+/* clauses */
+
+.clause { margin-left: 4ch }
+.subparagraph > .num + .clause { display: inline }
+.clause > .num { margin-left: 2ch }
+.subparagraph > .num + .clause > .num { margin-left: 0 }
+.clause > .heading { font-variant: small-caps }
+.clause > .num + p { display: inline }
+.clause > .heading + p { display: inline }
+
+.no-heading > .clause { margin-left: 0 }
+.no-heading > .clause:first-of-type { display: inline }
+.no-heading > .clause:first-of-type > .num { margin-left: 0 }
+
+.clause.inline { display: inline; margin-left: 0 }
+.clause.inline > .num { margin-left: 0 }
+
+
+/* subclauses */
+
+.subclause { margin-left: 4ch }
+.subclause > .num { margin-left: 2ch }
+.subclause > .num + p { display: inline }
+
+.no-heading > .subclause { margin-left: 0 }
+.no-heading > .subclause:first-of-type { display: inline }
+.no-heading > .subclause:first-of-type > .num { margin-left: 0 }
+
+/* items */
+
+.item > .num { margin-left: 4ch }
+.item > .num + p { display: inline }
+
+
+
+/* Style 2 */
+
+.style2 .section { margin-top: 1em }
+.style2 .section > header { padding-left: 3ch; text-indent: -3ch; font-size: 18pt; font-weight: bold }
+@media print { .style2 .section > header { font-size: 11pt } }
+.style2 .section > .chapeau { display: block; text-indent: 2ch }
+.style2 .section > p { text-indent: 2ch }
+
+.style2 .paragraph { margin-left: 4ch }
+.style2 .no-heading .paragraph { margin-left: 0 }
+
+.style2 .clause { margin-left: 2ch }
+.style2 .clause > .num { margin-left: 4ch }
+.style2 .no-heading > .clause { margin-left: 0 }
+.style2 .no-heading > .clause > .num { margin-left: 2ch }
+.style2 .no-heading > .clause:first-of-type > .num { margin-left: 0 }
+
+.style2 .subclause { margin-left: 2ch }
+.style2 .subclause > .num { margin-left: 4ch }
+.style2 .no-heading > .subclause { margin-left: 0 }
+.style2 .no-heading > .subclause:first-of-type { display: inline }
+.style2 .no-heading > .subclause:first-of-type > .num { margin-left: 0 }
+
+.style2 .item { margin-left: 2ch }
+
+
+/* Style 3 */
+
+.style3 .section { margin-top: 1em }
+.style3 .section > header { margin-bottom: 1em; text-align: center; font-variant: small-caps }
+.style3 .section.hanging-header > header { margin-left: 0; margin-right: 0; text-align: justify; padding-left: 2ch; text-indent: -2ch }
+
+.style3 .section > p { text-indent: 2ch }
+
+.style3 .section > .paragraph { margin-left: 4ch }
+
+.style3 .subparagraph { margin-left: 2ch }
+
+.style3 .clause { margin-left: 0 }
+.style3 .clause > .num { margin-left: 4ch }
+
+.style3 .subclause { margin-left: 0 }
+.style3 .subclause > .num { margin-left: 6ch }
+
+
+/* for s1130.35a, 38 U.S.C. 1703E(f)(3) */
+
+.style3 .paragraph.no-heading > .subparagraph { margin-left: 0 }
+.style3 .paragraph.no-heading .clause { margin-left: 2ch }
+.style3 .paragraph.no-heading .clause > .num { margin-left: 2ch }
+.style3 .paragraph.no-heading > .subparagraph > .num + .clause { margin-left: 0 }
+.style3 .paragraph.no-heading > .subparagraph > .num + .clause > .num { margin-left: 0 }
+
+
+
+
+/* Budget */
+
+#budget > section { margin-top: 5em }
+#budget > section:first-child { margin-top: 0 }
+
+#budget > section > .heading { margin: 1em 0; text-align: center; font-size: larger; font-weight: bold }
+#budget > section > section > .heading { margin: 1em 0; text-align: center; font-size: 16pt; text-transform: uppercase }
+@media print { #budget > section > section > .heading { font-size: 10pt } }
+
+#budget > section > section > .heading > span { font-size: 20pt; text-transform: none }
+@media print { #budget > section > section > .heading > span { font-size: 12pt } }
+
+#budget > section > section > .heading + .note p { text-indent: 0 }
+
+#budget .paragraph.no-heading > .heading + .subparagraph { display: inline }
+#budget .paragraph.no-heading > .heading + .subparagraph > .num { margin-left: 0 }
+
+#budget .subparagraph.inline { display: inline }
+#budget .subparagraph.inline > .num { margin-left: 0 }
+
+#budget table { margin-top: 1.5em }
+#budget td { padding-left: 2ch; text-indent: -2ch }
+
+
+/* Organization */
+
+#organization > .level { margin-top: 5em }
+#organization > .level:first-child { margin-top: 0 }
+
+#organization .level > .heading { margin: 1em 0; text-align: center; text-transform: uppercase }
+#organization .level > .subheading { margin: 1em 0; text-align: center }
+
+#organization #joint-select > .level > .heading { font-variant: small-caps; text-transform: none }
+
+#organization > .level > .heading { font-weight: bold }
+#organization > .level > .subheading {  }
+
+#organization > .level > .level > .level > .heading { font-size: smaller }
+#organization > .level > .level > .level > .subheading { font-size: smaller }
+
+#organization .note p[id] { margin-top: 0.5em }
+
+#organization #early .section > .heading { font-variant: normal; font-weight: bold; text-indent: 2ch }
+#organization #early .subsection > .num { font-weight: bold }
+#organization #early .subsection > .heading { font-variant: normal; font-weight: bold }
+#organization #early .subsection > .heading + p { display: block; text-indent: 2ch }
+#organization #early .paragraph { margin-left: 0 }
+#organization #early > .level:last-child .subsection > .num { font-weight: normal }
+
+#organization #early .paragraph > .cut-in-head { left: 0 }
+
+
+/* Procedures */
+
+#procedures > section > .heading { margin-top: 1em; margin-bottom: 1em; text-align: center; font-size: larger; font-weight: bold }
+
+#procedures .preliminary > p { text-indent: 2ch }
+
+#procedures .preliminary > p > .cut-in-head { text-indent: 0 }
+
+#procedures .toc { margin: 2em auto }
+#procedures .toc > header { margin-bottom: 1em; font-size: larger; font-variant: small-caps; font-weight: bold }
+#procedures ol { list-style-type: decimal }
+#procedures ol ol { list-style-type: upper-alpha; margin-left: 1em }
+
+#procedures > section > section > header { margin-top: 1em; margin-bottom: 1em; text-align: center; font-size: larger }
+
+#procedures .three-star { white-space: nowrap }
+#procedures p.three-star { margin-top: 1em; margin-bottom: 1em; text-align: center; word-spacing: 1ch }
+#procedures p.three-star.inline { display: inline; word-spacing: 0 }
+
+#procedures header.hanging { text-align: justify; padding-left: 2ch; text-indent: -2ch }
+#procedures > section > section > .level > header { margin-top: 1em; margin-bottom: 1em; text-align: center; font-size: 16pt; text-transform: uppercase }
+@media print { #procedures > section > section > .level > header { font-size: 10pt } }
+#procedures > section > section > .level > header.hanging { text-align: justify; padding-left:2ch; text-indent: -2ch }
+#procedures > section > section > .level > header > .heading > span { font-size: 20pt }
+@media print { #procedures > section > section > .level > header > .heading > span { font-size: 12pt } }
+
+#procedures .crossHeading.hanging { text-align: justify; padding-left:2ch; text-indent: -2ch }
+
+#procedures .style3 .section > header { margin-left: 0.5in; margin-right: 0.5in }
+
+#procedures .crossHeading { font-size: 16pt; text-transform: uppercase }
+@media print { #procedures .crossHeading { font-size: 10pt } }
+#procedures .crossHeading.citation { text-transform: none }
+
+#procedures p.chapeau { text-indent: 2ch }
+
+#procedures .continuation > p { text-indent: 2ch }
+
+#procedures .proviso { text-indent: 2ch }
+#procedures .proviso.inline { display: inline; text-indent: 0 }
+
+#procedures .note.footnote { margin-bottom: 0 }
+#procedures .note.footnote + .note.footnote { margin-top: 0; margin-bottom: 1em }
+
+
+/* Index */
+
+#index2 > section > .heading { text-align: center; font-size: larger; letter-spacing: 4px }
+
+@media print { #index2 table { font-size: 10pt }  }
+
+#index2 th { text-align: left; font-weight: normal }
+
+#index2 th + th { text-align: right }
+#index2 td + td { text-align: right }
+
+#index2 i { padding-left: 1ch }
+
+#index2 th:first-of-type, td:first-of-type { text-indent: -1em }
+
+#index2 .entry > th, .entry > td { font-variant: small-caps }
+#index2 .entry > th:first-of-type, .entry > td:first-of-type { padding-left: 1em }
+#index2 .entry > th > i, .entry > td > i { font-variant: normal }
+
+#index2 .subentry > th:first-of-type { padding-left: 3em }
+#index2 .subentry > th:first-of-type:not(.normal) { font-style: italic }
+#index2 .subentry > td:first-of-type { padding-left: 3em }
+
+#index2 .subsubentry > th:first-of-type, .subsubentry > td:first-of-type { padding-left: 5em }
+
+#index2 .subsubsubentry > td:first-of-type { padding-left: 7em }
+
+#index2 span.entry { font-variant: small-caps; font-style: normal }
+
+#index2 .italic { font-style: italic }
+#index2 .normal { font-style: normal }
